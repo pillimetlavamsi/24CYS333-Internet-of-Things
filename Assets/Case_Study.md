@@ -23,6 +23,7 @@ Below are the suggestions for the Project, but you can select any topics of your
 12. IoT-Driven Smart Lighting System with Blockchain-Based Energy Credits.
 13. IoT and Blockchain for Waste Management and Recycling Tracking.
 14. Empowering Volunteerism with Blockchain and IoT: NFT Rewards for NGO Campaigns.
+15. Developing an IoT-Enabled Air Quality Monitoring System for Smart Cities.
 
 ## Smart Water Management Systems
 1. Designing IoT-Enabled Smart Irrigation Systems for Water Conservation
@@ -36,7 +37,7 @@ Below are the suggestions for the Project, but you can select any topics of your
 9. Remote Monitoring and Control of Borewell Pumps Using IoT.
 10. Rainwater Harvesting System Integrated with IoT Sensors for Overflow Alerts.
 11. IoT-Enabled System for Detecting Unauthorized Water Usage.
-12. Blockchain-Enabled Water Reuse Credit System
+12. Blockchain-Enabled Water Reuse Credit System.
 
 ## Smart Agriculture
 1. IoT-Powered Pest Detection and Control System Using Image Processing.
@@ -49,6 +50,8 @@ Below are the suggestions for the Project, but you can select any topics of your
 8. Smart Post-Harvest Storage Monitoring System Using IoT Sensors.
 9. Blockchain for Transparent Carbon Credit Allocation in Agriculture.
 10. IoT-Powered Aquaponics System for Sustainable Farming.
+11. Designing IoT Systems for Crop Disease Detection and Control.
+12. IoT-Based Automated Greenhouse Management System.
 
 ## Smart Energy Management
 1. IoT-Enabled Household Appliance Monitoring and Control System for Energy Savings.
@@ -60,6 +63,8 @@ Below are the suggestions for the Project, but you can select any topics of your
 7. IoT-Powered Streetlight System with Individual Power Consumption Monitoring.
 8. Integration of IoT and Blockchain for Energy Trading in Smart Cities.
 9. Blockchain for Transparent Carbon Credit Tracking in Smart Grids.
+10. Developing an IoT-Based Smart Grid Architecture for Efficient Energy Distribution.
+11. IoT-Based Solutions for Monitoring and Optimizing Energy Consumption in Urban Areas.
 
 ## Smart Healthcare Solutions
 1. IoT-Based Elderly Monitoring System with Fall Detection and Alerts.
