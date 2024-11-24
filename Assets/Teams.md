@@ -8,12 +8,14 @@
 
 |        Team Number      | Team Members | Project Title | Submissions |
 |:-----------------------:|:-------------|:-------------|:----------:|
-|  [IoT#01](IoT01.md)     | Adarsh R K <br/>  <br/>  | | |
+|  [IoT#01](IoT01.md)     | Adarsh R K <br/> Namitha SudhishKumar N <br/> Anagh Shaji  | [Smart Ambulance System with IoT Integration for Real-Time <br/> Traffic Updates](IoT01.md)   | |
 |  [IoT#02](IoT02.md)     | Adithya N S <br/> <br/> |  | |
-|  [IoT#03](IoT03.md)     | Agilprasanna P <br/> <br/> |  | |
+|  [IoT#03](IoT03.md)     | Agilprasanna P <br/> Amal Ritessh A P <br/> Ananth R | [Real-Time pH and Contaminant Monitoring System for Drinking Water](IoT03.md)  | |
 |  [IoT#04](IoT04.md)     | Aishwarya S <br/> Dharshika S <br/> Shree Harini T | [Empowering Volunteerism with Blockchain and IoT:<br/> NFT Rewards for NGO Campaigns](IoT04.md)  | |
 |  [IoT#05](IoT05.md)     | Anaswara Suresh M K <br/> C S Amritha <br/> R Sruthi | [GPS-Enabled IoT Taxi Safety and Route Monitoring System <br/> with Office Alert Integration](IoT05.md)    |      |
 |  [IoT#06](IoT06.md)     | Arul Sujith S <br/> Akshith Singh <br/> Hemadhri P C | [Developing an IoT-Based Smart Grid Architecture <br/> for Efficient Energy Distribution](IoT06.md) | |
+|  [IoT#07](IoT07.md)     | Asrita N L <br/> <br/> | [](IoT07.md) | |
+|  [IoT#XX](IoTXX.md)     | Charan K <br/> Mukund Kumarappan <br/> Shravan Krishnan | [Remote Monitoring and Control of Borewell Pumps Using IoT](IoTXX.md)  | 
 |  [IoT#XX](IoTXX.md)     | Hemanth Kumaar J P <br/> Jose Rohit M <br/> Kaushik M | [Designing IoT Systems for Crop Disease Detection and Control](IoTXX.md)  | | 
 |  [IoT#XX](IoTXX.md)     | Mareddy Sai Tejas <br/> Marri Sanju <br/> Tangella Sree Chandan | [Implementing Edge Computing in Smart City IoT <br/> Architectures for Latency Reduction](IoTXX.md)  | 
 
