@@ -6,7 +6,8 @@
 
 ## Project Topics
 
-Below are the suggestions for the Project, but you can select any topics of your own which falls under one of the below category.
+Below are the suggestions for the Project, but you can select any topics of your own which falls under one of the below category. <br/> 
+You can find the Research papers or articles by searching _Google Scholar / Scopus_ site using **Publish or Perish** Tool. [Click Here](https://github.com/ramagururadhakrishnan/Research-Resources/blob/main/PoP.md) to know how to use the tool. 
 
 ### Smart City Applications
 1. Integrating IoT for Real-Time Monitoring and Management of Urban Infrastructure
