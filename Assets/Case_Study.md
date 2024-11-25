@@ -53,6 +53,8 @@ You can find the Research papers or articles by searching _Google Scholar / Scop
 10. IoT-Powered Aquaponics System for Sustainable Farming.
 11. Designing IoT Systems for Crop Disease Detection and Control.
 12. IoT-Based Automated Greenhouse Management System.
+13. Smart Storage Management for Garlic Using IoT.
+14. IoT-Driven Garlic Pest and Disease Monitoring System.
 
 ## Smart Energy Management
 1. IoT-Enabled Household Appliance Monitoring and Control System for Energy Savings.
