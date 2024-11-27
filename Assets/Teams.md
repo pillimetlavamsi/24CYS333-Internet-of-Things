@@ -20,8 +20,9 @@
 |  [IoT#11](Projects/IoT11)     | Burla Rushyendra Reddy <br/> Palakurty Roopak Naga Venkata Sri Sai <br/> Yallanuru Kishan Sai | [IoT-Based Elderly Monitoring System with <br/> Fall Detection and Alerts](Projects/IoT11) | |
 |  [IoT#12](Projects/IoT12)     | Chitli Vyshali <br/>  <br/>  | [](Projects/IoT12) | |
 |  [IoT#13](Projects/IoT13)     | Charan K <br/> Mukund Kumarappan <br/> Shravan Krishnan | [Remote Monitoring and Control of Borewell Pumps Using IoT](Projects/IoT13) | 
-|  [IoT#XX](IoTXX.md)     | Hemanth Kumaar J P <br/> Jose Rohit M <br/> Kaushik M | [Designing IoT Systems for Crop Disease Detection and Control](IoTXX.md)  | | 
-|  [IoT#XX](IoTXX.md)     | Mareddy Sai Tejas <br/> Marri Sanju <br/> Tangella Sree Chandan | [Implementing Edge Computing in Smart City IoT <br/> Architectures for Latency Reduction](IoTXX.md)  | 
-|  [IoT#XX](IoTXX.md)     | N Meera <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty | [IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns](IoTXX.md) | 
-|  [IoT#XX](IoTXX.md)     | Navarang C D <br/> R Thanuj <br/> Nandana Mahesh | [Automated Fertilizer Dispensing System Using IoT for Nutrient Optimization](IoTXX.md) | 
+|  [IoT#XX](Projects/IoTXX)     | Vettrivel G <br/> Logesh R <br/> Rathnesh R | [IoT-Based Real-Time Accident Detection and Alert System](Projects/IoTXX) | 
+|  [IoT#XX](Projects/IoTXX)     | Hemanth Kumaar J P <br/> Jose Rohit M <br/> Kaushik M | [Designing IoT Systems for Crop Disease Detection and Control](Projects/IoTXX)  | | 
+|  [IoT#XX](Projects/IoTXX)     | Mareddy Sai Tejas <br/> Marri Sanju <br/> Tangella Sree Chandan | [Implementing Edge Computing in Smart City IoT <br/> Architectures for Latency Reduction](Projects/IoTXX)  | 
+|  [IoT#XX](Projects/IoTXX)     | N Meera <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty | [IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns](Projects/IoTXX) | 
+|  [IoT#XX](Projects/IoTXX)     | Navarang C D <br/> R Thanuj <br/> Nandana Mahesh | [Automated Fertilizer Dispensing System Using IoT for Nutrient Optimization](Projects/IoTXX) | 
 
