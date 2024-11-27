@@ -23,4 +23,5 @@
 |  [IoT#XX](IoTXX.md)     | Hemanth Kumaar J P <br/> Jose Rohit M <br/> Kaushik M | [Designing IoT Systems for Crop Disease Detection and Control](IoTXX.md)  | | 
 |  [IoT#XX](IoTXX.md)     | Mareddy Sai Tejas <br/> Marri Sanju <br/> Tangella Sree Chandan | [Implementing Edge Computing in Smart City IoT <br/> Architectures for Latency Reduction](IoTXX.md)  | 
 |  [IoT#XX](IoTXX.md)     | N Meera <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty | [IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns](IoTXX.md) | 
+|  [IoT#XX](IoTXX.md)     | Navarang C D <br/> R Thanuj <br/> Nandana Mahesh | [Automated Fertilizer Dispensing System Using IoT for Nutrient Optimization](IoTXX.md) | 
 
