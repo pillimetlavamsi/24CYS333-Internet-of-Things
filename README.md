@@ -28,9 +28,11 @@
 
 | Course Start | 04 - Dec - 2024 |
 |--------------|-----------------|
-| Project Team Formation and Topic Selection | 24 - Nov - 2024 |
+| Project Team Formation and <br/> Topic Selection Opens | 24 - Nov - 2024 |
+| Project Team Formation and <br/> Topic Selection Closes | 02 - Dec - 2024 |
 | Masterclass on Internet of Things | 10 - Dec - 2024 <br/> 11 - Dec - 2024 |
 | Quiz - 1 | 28 - Dec - 2024 |
+| Base Paper and Problem Statement Submission | 05 - Jan - 2025  |
 | Review - 1 | 22 - Jan - 2025 |
 | Quiz - 2  | 29 - Jan - 2025 |
 | Mid-Term Examination | Feb - 2025 |
@@ -40,6 +42,7 @@
 | Review - Final | 26 - Mar - 2025 |
 | Missed Quiz | 02 - Apr - 2025 |
 | End Semester Examination | Apr - 2025 |
+| Publication of Results | May - 2025 |
 
 ### Text Book
 1. Bahga, A., & Madisetti, V. *Internet of Things: A Hands-on Approach.* 2014.
