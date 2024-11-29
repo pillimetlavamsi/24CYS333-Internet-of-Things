@@ -24,6 +24,15 @@
 - [Topics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Case_Study.md)
 - [Teams](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Teams.md)
 
+### Evaluation Criteria
+
+| Component | Marks |
+|:---------:|:-----:|
+| Quizzes & NPTEL Quiz |  12   |
+| Mid-Term Examination | 20+10 | 
+| Mini-Project | 18 | 
+| End Semester | 40 | 
+
 ### Dates and Deadlines
 
 | Course Start | 04 - Dec - 2024 |
