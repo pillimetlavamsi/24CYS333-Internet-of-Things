@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-IoT-blue)
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
+![](https://img.shields.io/badge/Focus-Smart_Agriculture-purple) ![](https://img.shields.io/badge/Focus-Smart_City-purple) ![](https://img.shields.io/badge/Focus-Smart_Transportation-purple) ![](https://img.shields.io/badge/Focus-Smart_Energy-purple) ![](https://img.shields.io/badge/Focus-Smart_Water_Management-purple)
 
 ## Teams
 
@@ -24,5 +25,6 @@
 |  [IoT#XX](Projects/IoTXX)     | Mareddy Sai Tejas <br/> Marri Sanju <br/> Tangella Sree Chandan | [Implementing Edge Computing in Smart City IoT <br/> Architectures for Latency Reduction](Projects/IoTXX)  | | 
 |  [IoT#XX](Projects/IoTXX)     | N Meera <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty | [IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns](Projects/IoTXX) | 
 |  [IoT#XX](Projects/IoTXX)     | Navarang C D <br/> R Thanuj <br/> Nandana Mahesh | [Automated Fertilizer Dispensing System Using IoT for Nutrient Optimization](Projects/IoTXX) | 
-|  [IoT#XX](Projects/IoTXX)     | Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag reddy <br/> Vishal R S | [oT-Based Smart Lighting with Adaptive Brightness and Motion Detection](Projects/IoTXX) | 
+|  [IoT#XX](Projects/IoTXX)     | Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag reddy <br/> Vishal R S | [IoT-Based Smart Lighting with Adaptive Brightness and Motion Detection](Projects/IoTXX) | 
+|  [IoT#XX](Projects/IoTXX)     | R M Naren Adithya  <br/> Ramraj S <br/> B Vijay Nishanth | [Developing an IoT-Enabled Air Quality Monitoring System for Smart Cities](Projects/IoTXX) |
 
