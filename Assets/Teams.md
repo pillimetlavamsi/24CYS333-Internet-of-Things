@@ -4,10 +4,11 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 ![](https://img.shields.io/badge/Focus-Smart_Agriculture-purple) ![](https://img.shields.io/badge/Focus-Smart_City-purple) ![](https://img.shields.io/badge/Focus-Smart_Transportation-purple) ![](https://img.shields.io/badge/Focus-Smart_Energy-purple) ![](https://img.shields.io/badge/Focus-Smart_Water_Management-purple)
 
-## Teams
+## Project 
+## Teams, Title, Deliverables and Marks
 
-|        Team Number      | Team Members | Project Title | Technology Used | Boards and Sensors | 
-|:-----------------------:|:-------------|:-------------|:----------:|:----------:|
+|        Team Number      | Team Members | Project Title | Technology Used | Boards and Sensors | Review 1 | Review 2 | Final Review | 
+|:-----------------------:|:-------------|:-------------|:----------:|:----------:|:----------:|:----------:|:----------:|
 |  [IoT#01](Projects/IoT01)     | Adarsh R K <br/> Namitha SudhishKumar N <br/> Anagh Shaji  | [Smart Ambulance System with IoT Integration for Real-Time <br/> Traffic Updates](Projects/IoT01)   | |
 |  [IoT#02](Projects/IoT02)     | Adithya N S <br/> Avi Nair <br/> S Parvathi | [Smart Waste Bin Monitoring and Route Optimization for Garbage Collection](Projects/IoT02) | |
 |  [IoT#03](Projects/IoT03)     | Agilprasanna P <br/> Amal Ritessh A P <br/> Ananth R | [Real-Time pH and Contaminant Monitoring System for Drinking Water](Projects/IoT03)  | |
@@ -20,11 +21,15 @@
 |  [IoT#10](Projects/IoT10)     | Boddu Prem Kumar <br/> <br/> | [](Projects/IoT10) | |
 |  [IoT#11](Projects/IoT11)     | Burla Rushyendra Reddy <br/> Palakurty Roopak Naga Venkata Sri Sai <br/> Yallanuru Kishan Sai | [IoT-Based Elderly Monitoring System with <br/> Fall Detection and Alerts](Projects/IoT11) | |
 |  [IoT#12](Projects/IoT12)     | Charan K <br/> Mukund Kumarappan <br/> Shravan Krishnan | [Remote Monitoring and Control of Borewell Pumps Using IoT](Projects/IoT12) | |
-|  [IoT#13](Projects/IoT13)     | Vettrivel G <br/> Logesh R <br/> Rathnesh R | [IoT-Based Real-Time Accident Detection and Alert System](Projects/IoT13) | 
-|  [IoT#XX](Projects/IoTXX)     | Hemanth Kumaar J P <br/> Jose Rohit M <br/> Kaushik M | [Designing IoT Systems for Crop Disease Detection and Control](Projects/IoTXX) | 
+|  [IoT#13](Projects/IoT13)     | Deepak Kumar S <br/>  | [](Projects/IoT13) | |
+|  [IoT#14](Projects/IoT14)     | Vettrivel G <br/> Logesh R <br/> Rathnesh R | [IoT-Based Real-Time Accident Detection and Alert System](Projects/IoT14) | 
+|  [IoT#15](Projects/IoT15)     | Gunadeet Dev <br/>  | [](Projects/IoT15) | 
+|  [IoT#16](Projects/IoT16)     | Harshith Gangisetty <br/>  | [](Projects/IoT16) | 
+|  [IoT#17](Projects/IoT17)     | Hemanth Kumaar J P <br/> Jose Rohit M <br/> Kaushik M | [Designing IoT Systems for Crop Disease Detection and Control](Projects/IoT17) | 
 |  [IoT#XX](Projects/IoTXX)     | Mareddy Sai Tejas <br/> Marri Sanju <br/> Tangella Sree Chandan | [Implementing Edge Computing in Smart City IoT <br/> Architectures for Latency Reduction](Projects/IoTXX)  | | 
 |  [IoT#XX](Projects/IoTXX)     | N Meera <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty | [IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns](Projects/IoTXX) | 
 |  [IoT#XX](Projects/IoTXX)     | Navarang C D <br/> R Thanuj <br/> Nandana Mahesh | [Automated Fertilizer Dispensing System Using IoT for Nutrient Optimization](Projects/IoTXX) | 
+|  [IoT#XX](Projects/IoTXX)     | N.Ved Varshith Reddy <br/> S S S Sri Chakri <br/> Rudra Srilakshmi | [IoT-Enabled Noise Level Monitoring and Alert System for Urban Areas](Projects/IoTXX) | 
 |  [IoT#XX](Projects/IoTXX)     | Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag reddy <br/> Vishal R S | [IoT-Based Smart Lighting with Adaptive Brightness and Motion Detection](Projects/IoTXX) | 
 |  [IoT#XX](Projects/IoTXX)     | R M Naren Adithya  <br/> Ramraj S <br/> B Vijay Nishanth | [Developing an IoT-Enabled Air Quality Monitoring System for Smart Cities](Projects/IoTXX) |
 
