@@ -18,7 +18,7 @@
 |  [IoT#07](Projects/IoT07)     | Asrita N L <br/> [Chitli Vyshali]() <br/> Chinni Nagashree Hansica | [Real-Time IoT-Driven Public Transport Scheduling and Tracking System](Projects/IoT07) | |
 |  [IoT#08](Projects/IoT08)     | [Aadhithya Sivakumar]() <br/> Hamsini G <br/> Rahul Shankar V | [Smart Vehicle Theft Prevention System Using IoT and GPS](Projects/IoT08) | |
 |  [IoT#09](Projects/IoT09)     | [B M Sai Sathvik]() <br/> Gunateet Dev <br/> Vishal S | [Smart Bike Sharing System with IoT Integration for Tracking and Maintenance](Projects/IoT09) | |
-|  [IoT#10](Projects/IoT10)     | [Boddu Prem Kumar]() <br/> <br/> | [](Projects/IoT10) | |
+|  [IoT#10](Projects/IoT10)     | [Boddu Prem Kumar]() <br/> S Mohana Vamsi <br/> Sree Sharvesh | [IoT-Enabled Smart Home Plantation System](Projects/IoT10) | |
 |  [IoT#11](Projects/IoT11)     | Burla Rushyendra Reddy <br/> Palakurty Roopak Naga Venkata Sri Sai <br/> [Yallanuru Kishan Sai]() | [IoT-Based Elderly Monitoring System with <br/> Fall Detection and Alerts](Projects/IoT11) | |
 |  [IoT#12](Projects/IoT12)     | Charan K <br/> [Mukund Kumarappan]() <br/> Shravan Krishnan | [Remote Monitoring and Control of Borewell Pumps Using IoT](Projects/IoT12) | |
 |  [IoT#13](Projects/IoT13)     | Deepak Kumar S <br/> Joshua Anto A <br/> Midhru Jayan K  | [Blockchain-Based Supply Chain Management with IoT for Sustainable Farming](Projects/IoT13) | |
