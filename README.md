@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-IoT-blue)
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
-![](https://img.shields.io/badge/Regular_Students-72-gold) <br/>
+![](https://img.shields.io/badge/Regular_Students-72-gold) <br/> ![](https://img.shields.io/badge/Masterclass-Dec_11-gold)
 
 #### Pre-requisite: 20CYS113 - Computer Programming
 
@@ -21,7 +21,7 @@
 ### :watch: Course Plan and Status
 
 | **Lecture No.** | **Lecture Date** | **Topic**                                                                                              | **Remarks**                                      |
-|-----------------|------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+|:---------------:|:----------------:|--------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | 1               | \_\_\_\_\_       | Introduction to IoT & IoT Definition                                                                    | Overview of IoT fundamentals                     |
 | 2               | \_\_\_\_\_       | Characteristics & Things in IoT                                                                         | Explanation of IoT ecosystem                     |
 | 3               | \_\_\_\_\_       | IoT Complete Architectural Stack                                                                        | IoT system architecture                          |
@@ -56,12 +56,15 @@
 - [Topics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Case_Study.md)
 - [Teams](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Teams.md)
 
+### Value Added Courses
+- [Session - 1 (December 11, 2024) - Masterclass on IoT](Assets/MC)
+
 ### Evaluation Criteria
 
 | Component | Marks |
 |:---------:|:-----:|
 | Quizzes & NPTEL Quiz |  12   |
-| Mid-Term Examination | 20+10 | 
+| Mid-Term Examination | 20 + 10 | 
 | Mini-Project | 18 | 
 | End Semester | 40 | 
 
@@ -71,10 +74,10 @@
 |--------------|-----------------|
 | Project Team Formation and <br/> Topic Selection Opens | 24 - Nov - 2024 |
 | Project Team Formation and <br/> Topic Selection Closes | 02 - Dec - 2024 |
-| Masterclass on Internet of Things | 10 - Dec - 2024 <br/> 11 - Dec - 2024 |
-| Quiz - 1 | 28 - Dec - 2024 |
+| Masterclass on Internet of Things | 11 - Dec - 2024 |
+| Quiz - 1 | 26 - Dec - 2024 |
 | Base Paper and Problem Statement Submission | 05 - Jan - 2025  |
-| NPTEL Course Starts | 20 - Jan - 2025 |
+| [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 |
 | Review - 1 | 22 - Jan - 2025 |
 | Quiz - 2  | 29 - Jan - 2025 |
 | Mid-Term Examination | Feb - 2025 |
@@ -99,3 +102,4 @@
 
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
+  -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
