@@ -6,18 +6,18 @@
 ## Raspberry Pi
 
 <p align="center">
-  <img src="Assets/images/Raspberry_Pi.jpg" width="600" />
+  <img src="images/Raspberry_Pi.jpg" width="600" />
 </p>
 
 ### Pin Diagram
 
 <p align="center">
-  <img src="Assets/images/Pi_pin.png" width="500" />
+  <img src="images/Pi_pin.png" width="500" />
 </p>
 
 ## Arduino
 _Source:_ [Different Types of Arduino Boards: Their Uses and Features](https://playwithcircuit.com/different-types-of-arduino-boards-their-uses-and-features/)
 
 <p align="center">
-  <img src="Assets/images/Arduino.jpg" width="600" />
+  <img src="images/Arduino.jpg" width="600" />
 </p>
