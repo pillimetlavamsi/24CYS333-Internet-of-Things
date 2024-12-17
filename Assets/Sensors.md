@@ -2,9 +2,12 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-IoT-blue)
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
+<br/> <br/>
+<p align="center">
+  <img src="images/Sensors.jpg" width="800" />
+</p>
 
 ## Popular Sensors 
-Source: Components101.com
 
 | **Sensor Type**                | **Popular Examples/Parts**                                                                                      |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -26,4 +29,6 @@ Source: Components101.com
 | **Heartbeat Sensor**             | MAX30100, MAX30102                                                                                             |
 | **Flow and Level Sensor**        | XKC-Y25, XKC-Y25, FS-IR02, P43, YW517B1                                                                        |
 | **Gas and Alcohol Sensor**       | MQ-2, MQ-3, MQ-4, MQ-5, MQ-6, MQ-7, MQ-8, MQ-9, MQ-131, MQ-135, MQ-136, MQ-137, MQ-138, MQ-214                  |
-| **Humidity and Moisture Sensor** | DHT11, DHT22, Soil Moisture Sensor (Capacitive/Resistive), AHT-25, SHT20                                       |                                                                   |
+| **Humidity and Moisture Sensor** | DHT11, DHT22, Soil Moisture Sensor (Capacitive/Resistive), AHT-25, SHT20                                       | 
+
+_Source:_ Components101.com
