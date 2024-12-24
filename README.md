@@ -63,7 +63,7 @@
 
 | Component | Marks |
 |:---------:|:-----:|
-| Quizzes & NPTEL Quiz |  12   |
+| Quizzes & NPTEL Quiz |  3 + 3 + 3 + 3 |
 | Mid-Term Examination | 20 + 10 | 
 | Mini-Project | 18 | 
 | End Semester | 40 | 
@@ -75,8 +75,8 @@
 | Project Team Formation and <br/> Topic Selection Opens | 24 - Nov - 2024 |
 | Project Team Formation and <br/> Topic Selection Closes | 02 - Dec - 2024 |
 | Masterclass on Internet of Things | 11 - Dec - 2024 |
-| Quiz - 1 | 26 - Dec - 2024 |
 | Base Paper and Problem Statement Submission | 05 - Jan - 2025  |
+| Quiz - 1 | 07 - Jan - 2025 |
 | [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 |
 | Review - 1 | 22 - Jan - 2025 |
 | Quiz - 2  | 29 - Jan - 2025 |
