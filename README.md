@@ -63,9 +63,9 @@
 
 | Component | Marks |
 |:---------:|:-----:|
-| Quizzes & NPTEL Quiz |  3 + 3 + 3 + 3 |
+| Quizzes & NPTEL Quiz |  2 + 3 + 3 + 4 |
 | Mid-Term Examination | 20 + 10 | 
-| Mini-Project | 18 | 
+| Mini-Project | 3 + 4 + 5 + 3 + 3 | 
 | End Semester | 40 | 
 
 ### Dates and Deadlines
@@ -103,4 +103,5 @@
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
+  -  NPTEL Final Exam (Optional) [Enrollment Ends: 14 Feb 2025]
 -  [TinkerCAD](https://www.tinkercad.com/)
