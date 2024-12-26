@@ -3,7 +3,7 @@
 <br/>
 
 ## Introduction to IoT
-![](https://img.shields.io/badge/Date-24_December-blue)
+![](https://img.shields.io/badge/Date-9_and_12_December-blue)
 
 ### Definition
 As discussed, understanding the definition of any technology is very important, in this case, Internet of Things (IoT). Below are some of the definitions: <br/>
