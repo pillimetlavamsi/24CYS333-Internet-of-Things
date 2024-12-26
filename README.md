@@ -22,7 +22,7 @@
 
 | **Lecture No.** | **Lecture Date** | **Topic**                                                                                              | **Remarks**                                      |
 |:---------------:|:----------------:|--------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1               | \_\_\_\_\_       | Introduction to IoT & IoT Definition                                                                    | Overview of IoT fundamentals                     |
+| 1               | \_\_\_\_\_       | [Introduction to IoT & IoT Definition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/IoT_Introduction.md)                                                                    | Overview of IoT fundamentals                     |
 | 2               | \_\_\_\_\_       | Characteristics & Things in IoT                                                                         | Explanation of IoT ecosystem                     |
 | 3               | \_\_\_\_\_       | IoT Complete Architectural Stack                                                                        | IoT system architecture                          |
 | 4               | \_\_\_\_\_       | IoT Enabling Technologies                                                                               | Overview of enabling technologies                |
@@ -51,6 +51,9 @@
 | 27              | \_\_\_\_\_       | Final Project Discussion & Architectural Analysis                                                       | Project review and final system analysis         |
 | 28              | \_\_\_\_\_       | Wrap-Up & Future of IoT                                                                                  | Overview of future trends in IoT                 |
 
+### Resources
+- [Lectures](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Lectures)
+- [Labs](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Lab)
 
 ### Project/Case Study
 - [Topics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Case_Study.md)
@@ -58,6 +61,11 @@
 
 ### Value Added Courses
 - [Session - 1 (December 11, 2024) - Masterclass on IoT](Assets/MC)
+
+### Tools
+- [TinkerCAD](https://www.tinkercad.com/)
+- [Thingspeak](https://thingspeak.mathworks.com/)
+- [Arduino Cloud](https://cloud.arduino.cc/)
 
 ### Evaluation Criteria
 
@@ -104,4 +112,4 @@
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
   -  NPTEL Final Exam (Optional) [Enrollment Ends: 14 Feb 2025]
--  [TinkerCAD](https://www.tinkercad.com/)
+
