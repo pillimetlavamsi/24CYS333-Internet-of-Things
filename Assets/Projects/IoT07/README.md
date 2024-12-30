@@ -20,3 +20,10 @@
 - Temperature and Humidity Sensor <br>
 - Accelerometer <br>
 - Breadboard <br>
+
+| Members | 
+|:-------:|
+| Asrita NL | 
+| Chitla Vyshali | 
+| Chinni Nagasree Hansica |
+
