@@ -7,5 +7,5 @@
 
 ## Title: Real-Time IoT-Driven Public Transport Scheduling and Tracking System
 
-**Problem Statement:** The Passenger Information System provides real-time tracking data through mobile apps or digital boards at bus stops. Passengers can access accurate arrival times, delay updates, and occupancy levels, enabling efficient wait-time management and improved passenger flow.
+**Problem Statement:** The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Tracking System to address challenges like traffic congestion, route changes, and delays. Utilizing IoT technology, GPS sensors, and wireless communication, vehicles are monitored in real-time, providing data on location, speed, and routes to a central system. Passengers can access real-time updates on arrival times, delays, and occupancy through mobile apps or digital boards at bus stops, enabling efficient passenger flow management and reduced waiting times.
 
