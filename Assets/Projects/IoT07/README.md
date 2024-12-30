@@ -21,9 +21,9 @@
 - Accelerometer <br>
 - Breadboard <br>
 
-| Members | 
-|:-------:|
-| Asrita NL | 
-| Chitla Vyshali | 
+| Members                 | 
+|:-----------------------:|
+| Asrita N L              | 
+| Chitla Vyshali          | 
 | Chinni Nagasree Hansica |
 
