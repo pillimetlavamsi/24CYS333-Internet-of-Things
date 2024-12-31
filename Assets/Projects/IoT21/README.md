@@ -21,6 +21,13 @@
 - Battery <br>
 - Breadboard <br>
 
+Sustainable Development Goals:
+
+1. SDG 12: Responsible Consumption and Production
+The system reduces waste and promotes efficient use of fertilizers, supporting sustainable consumption and production patterns.
+2. SDG 13: Climate Action
+By minimizing greenhouse gas emissions from excessive fertilizer use and runoff, the system contributes to climate change mitigation efforts.
+
 | Members                 | 
 |:-----------------------:|
 | Navarang C D            | 
