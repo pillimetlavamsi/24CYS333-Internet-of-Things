@@ -3,4 +3,35 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#XX
+## IoT#09
+
+## Title: Real-Time IoT-Driven Public Transport Scheduling and Tracking System
+
+**Problem Statement:** Urban transportation faces significant challenges, including congestion,
+ environmental concerns, and inefficient bike sharing systems. Traditional
+ bike-sharing setups often lack smart features like seamless payment, real-time
+ tracking, and maintenance alerts, limiting their appeal and usability. In addition,
+ users often face problems such as unclear vehicle availability, lack of range
+ estimation, and difficulty ensuring bike security.<br>
+ This project aims to design and implement a prototype Smart Bike Sharing System
+ that integrates Internet of Things (IoT) technology to address these challenges. The
+ system focuses on two key functionalities: payment-based unlocking and dynamic
+ range display.<br>
+ A GPS module will enable real-time tracking, allowing users and administrators to
+ monitor the bike’s location for safety and efficient management.
+
+**Hardware Requirements:** <br>
+- Neo 6m (GPS module) <br>
+- ESP 32 Micro controller <br>
+- OLED/LED Display Panel <br>
+- Power Supply (Battery) <br>
+- LED Indicators <br>
+- Buzzer <br>
+- Breadboard <br>
+- Jump Wires <br>
+
+| Members                 | 
+|:-----------------------:|
+| B M Sai Sathvik         | 
+| Gunateet Dev            | 
+| Vishal S                |
