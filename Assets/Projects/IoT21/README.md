@@ -7,7 +7,7 @@
 
 ## IoT-Based Automated Fertilizer Dispensing System for Real-Time Nutrient Optimization in Agriculture
 
-*Problem Statement: * <br>
+*Problem Statement:* <br>
 Agriculture faces challenges in achieving efficient crop growth while minimizing environmental harm due to inefficient fertilizer application methods. Overuse or underuse of nutrients harms soil health, reduces yields, and increases costs, while excessive runoff leads to water pollution and greenhouse gas emissions. The absence of precise, real-time monitoring and automated solutions exacerbates nutrient imbalances, failing to account for diverse soil conditions and crop requirements. An IoT-Based Automated Fertilizer Dispensing System can address these issues by leveraging smart sensors to monitor soil conditions and automate precise fertilizer delivery, optimizing resource use and promoting sustainable farming practices.
 
 *Hardware Requirements:* <br>
