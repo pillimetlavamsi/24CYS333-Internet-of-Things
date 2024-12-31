@@ -5,8 +5,7 @@
 
 ## IoT#09
 
-## Title: Smart Bike Sharing System with IoT Integration for Tracking and
- Maintenance
+## Title: Smart Bike Sharing System with IoT Integration for Tracking and Maintenance
 
 **Problem Statement:** Urban transportation faces significant challenges, including congestion,
  environmental concerns, and inefficient bike sharing systems. Traditional
