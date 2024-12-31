@@ -28,6 +28,7 @@ The system reduces waste and promotes efficient use of fertilizers, supporting s
 2. SDG 13: Climate Action
 By minimizing greenhouse gas emissions from excessive fertilizer use and runoff, the system contributes to climate change mitigation efforts.
 
+
 | Members                 | 
 |:-----------------------:|
 | Navarang C D            | 
