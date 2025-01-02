@@ -24,12 +24,9 @@ This system is intended to make the process of traffic management responsive and
 
 
 ## Key Features:
-**Real-Time Emergency Sound Detection:**
-Identifies high-decibel sirens and triggers responsive actions.
-**IoT Connectivity:**
-Sends data to a centralized platform for real-time monitoring and decision-making.
-**Immediate Alerts:**
-Provides visual (LED) and auditory (Buzzer) alerts during emergency events.
+- Real-Time Emergency Sound Detection: Identifies high-decibel sirens and triggers responsive actions.
+- IoT Connectivity: Sends data to a centralized platform for real-time monitoring and decision-making.
+- Immediate Alerts: Provides visual (LED) and auditory (Buzzer) alerts during emergency events.
 
 
 ## Hardware Requirements:
