@@ -6,6 +6,10 @@
 ## IoT #23
 ## Team Information
 - *IoT Team Number:* 23
+- *Team Members:*  
+  - Pavan Shanmukha Madhav Gunda (CB.EN.U4CYS22049)  
+  - Anurag Reddy (CB.EN.U4CYS22069)  
+  - Vishal RS (CB.EN.U4CYS22073)  
 
 ---
 
