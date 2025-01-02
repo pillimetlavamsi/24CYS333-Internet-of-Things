@@ -24,6 +24,15 @@ Borewell pumps are critical for providing water in agriculture, industrial, and 
 1. Arduino IDE: Programs and uploads code to microcontrollers for integrating and controlling sensors.
 2. AWS Cloud platform: Provides remote data storage, real-time monitoring, and control of borewell pumps through analytics and dashboards.
 
+**Sustainable Development Goals(SDGs):**
+- **SDG 6: Clean Water and Sanitation**
+
+  Ensures efficient water usage, reduces wastage, and promotes sustainable groundwater management.
+  
+- **SDG 12: Responsible Consumption and Production**
+
+  Optimizes energy and water resource usage, minimizing waste and encouraging sustainable practices.
+
 | Members | 
 |:-------:|
 | Charan K | 
