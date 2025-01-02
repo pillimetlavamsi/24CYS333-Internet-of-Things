@@ -3,4 +3,11 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#XX
+## IoT#03
+## Real-Time pH and Contaminant Monitoring System for Drinking Water
+
+| Members | 
+|:-------:|
+| Agil Prasanna P | 
+| Amal Ritessh A P | 
+| Ananth R |
