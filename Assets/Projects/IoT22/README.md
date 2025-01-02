@@ -24,21 +24,23 @@ This system is intended to make the process of traffic management responsive and
 
 
 ## Key Features:
-Real-Time Emergency Sound Detection: Identifies high-decibel sirens and triggers responsive actions IoT Connectivity: Sends data to a centralized platform for real-time monitoring and decision-making.
+Real-Time Emergency Sound Detection: Identifies high-decibel sirens and triggers responsive actions.
+**IoT Connectivity:**
+Sends data to a centralized platform for real-time monitoring and decision-making.
 **Immediate Alerts:**
 Provides visual (LED) and auditory (Buzzer) alerts during emergency events.
 
 
 ## Hardware Requirements:
---ESP32 Microcontroller
---Sound sensor(KY-038)
---LED Indicators
---Buzzer
---LiPo Battery based power supply
---Voltage Regulator (LM7805 or AMS1117)
---Breadboard
---Jumper Wires
---Noise Calibration Tool(Extech 407760 or BAFX Products Sound Level Meter)
+- ESP32 Microcontroller
+- Sound sensor(KY-038)
+- LED Indicators
+- Buzzer
+- LiPo Battery based power supply
+- Voltage Regulator (LM7805 or AMS1117)
+- Breadboard
+- Jumper Wires
+- Noise Calibration Tool(Extech 407760 or BAFX Products Sound Level Meter)
 
 
 ## Sustainable Develpoment Goals:  
