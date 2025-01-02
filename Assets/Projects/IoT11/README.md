@@ -104,17 +104,28 @@ Literature Survey
 Relevant SDGs
 -------------
 
-*   *SDG 3*: Good Health and Well-Being
-    
-    *   Enhancing elderly safety and reducing response times during medical emergencies.
-        
-*   *SDG 9*: Industry, Innovation, and Infrastructure
-    
-    *   Leveraging IoT technologies to develop innovative solutions for elderly care.
-        
-*   *SDG 11*: Sustainable Cities and Communities
-    
-    *   Promoting inclusive and sustainable urban environments that support aging populations.
+#### SDG 3 - Good Health and Well-Being
+To ensure healthy lives and promote well-being for all at all ages.
+<p align="center">
+  <img src="Assets/G3.png" width="350" />
+  <img src="Assets/3_SDG.gif" width="350" />
+</p>
+
+#### SDG 9 - Industry, Innovation and Infrastructure
+Leveraging IoT technologies to develop innovative solutions for elderly care.
+
+<p align="center">
+  <img src="Assets/G9.png" width="350" />
+  <img src="Assets/9_SDG.gif" width="350" />
+</p>
+
+#### SDG 11 - Sustainable Cities and Communities 
+Promoting inclusive and sustainable urban environments that support aging populations.
+
+<p align="center">
+  <img src="Assets/G11.png" width="350" />
+  <img src="Assets/11_SDG.gif" width="350" />
+</p>
         
 
 This project builds upon these findings to develop a robust, cost-effective, and user-friendly system tailored for elderly safety and monitoring.
