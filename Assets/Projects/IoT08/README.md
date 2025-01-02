@@ -5,10 +5,11 @@
 
 ## IoT#08
 
-## Team members:
-Rahul Shankar V
-Aadhithya Sivakumar
-Hamsini G
+| Team members|
+|-------------|
+| Rahul Shankar V |
+| Aadhithya Sivakumar |
+| Hamsini G |
 
 ### Project Title: Smart Vehicle Theft Detection System Using IoT and GPS
 ## Problem statement: 
@@ -37,15 +38,15 @@ Even if that doesnt trigger, the GPS can be used for geofencing.
 The owner can again wait for the opportune moment to the sound the alarm again for helping the police detect the car
 
 ## Hardware list
-Raspberry PI Pico Rp2040
-Accelerometer/Gyroscope: MPU6050
-GPS module: Neo-6M GPS or NEO-M8N
-5V Single Channel Relay Module
-Motors for blocking movement
-GSM Module SIM800L
-rechargeable battery pack.
-Buzzer/Alarm
-R 307 fingerprint module
-Switches
-Bread board
-LEDs
+- Raspberry PI Pico Rp2040
+- Accelerometer/Gyroscope: MPU6050
+- GPS module: Neo-6M GPS or NEO-M8N
+- 5V Single Channel Relay Module
+- Motors for blocking movement
+- GSM Module SIM800L
+- rechargeable battery pack.
+- Buzzer/Alarm
+- R 307 fingerprint module
+- Switches
+- Bread board
+- LEDs
