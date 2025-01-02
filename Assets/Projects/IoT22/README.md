@@ -24,7 +24,8 @@ This system is intended to make the process of traffic management responsive and
 
 
 ## Key Features:
-Real-Time Emergency Sound Detection: Identifies high-decibel sirens and triggers responsive actions.
+**Real-Time Emergency Sound Detection:**
+Identifies high-decibel sirens and triggers responsive actions.
 **IoT Connectivity:**
 Sends data to a centralized platform for real-time monitoring and decision-making.
 **Immediate Alerts:**
@@ -44,5 +45,4 @@ Provides visual (LED) and auditory (Buzzer) alerts during emergency events.
 
 
 ## Sustainable Develpoment Goals:  
-**Goal 11- Sustainable Cities and Communities:**
-By monitoring the sounds through sensors that enables quicker emergency response action.
+- SDG 11
