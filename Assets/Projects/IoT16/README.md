@@ -3,7 +3,13 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#16
+## IoT#16 : IoT-based Crop Disease Detection System
+
+Team Members:
+Hemanth Kumaar J P(CB.EN.U4CYS22028)
+Jose Rohit M(CB.EN.U4CYS22030)
+Kaushik M(CB.EN.U4CYS22035)
+
 
 Problem statement:
 
