@@ -6,8 +6,11 @@
 ## IoT#16 : IoT-based Crop Disease Detection System
 
 Team Members:
+
 Hemanth Kumaar J P(CB.EN.U4CYS22028)
+
 Jose Rohit M(CB.EN.U4CYS22030)
+
 Kaushik M(CB.EN.U4CYS22035)
 
 
