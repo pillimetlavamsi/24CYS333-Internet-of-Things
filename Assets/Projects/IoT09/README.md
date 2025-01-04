@@ -3,9 +3,15 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#09
+## IoT#09  - Smart Bike Sharing System with IoT Integration for Tracking and Maintenance
 
-## Title: Smart Bike Sharing System with IoT Integration for Tracking and Maintenance
+| Members                 | 
+|:-----------------------:|
+| B M Sai Sathvik - CB.EN.U4CYS22013| 
+|    Gunateet Dev - CB.EN.U4CYS22025| 
+|        Vishal S - CB.EN.U4CYS22075|
+
+
 
 **Problem Statement:** <br>
 Urban transportation faces significant challenges, including congestion,
@@ -31,8 +37,3 @@ Urban transportation faces significant challenges, including congestion,
 - Breadboard <br>
 - Jump Wires <br>
 
-| Members                 | 
-|:-----------------------:|
-| B M Sai Sathvik - CB.EN.U4CYS22013| 
-|    Gunateet Dev - CB.EN.U4CYS22025| 
-|        Vishal S - CB.EN.U4CYS22075|
