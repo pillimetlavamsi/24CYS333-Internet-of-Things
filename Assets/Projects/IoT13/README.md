@@ -28,12 +28,15 @@ Integrating Blockchain and IoT technologies offers a potential solution to these
 ### Software Requirements
 TBD
 ### Sustainable Development Goals (SDG)
+
 - This project satisfies the following SDGs:
+
 | **Goal** | **Function** |
-|:--------:|:------------:|
+|:--------:|:------------|
 | SDG 2    | Reduce milk waste by monitoring storage conditions and ensuring optimal transportation logistics.|
 | SDG 12   | Ensure a safe and sustainable supply of milk by reducing wastage and spoilage through real-time monitoring.|
 | SDG 17   | Collaboration among farmers, producers, distributors, and consumers through a transparent Blockchain-enabled ecosystem|
+
 ### References
 - Agriculture-Food Supply Chain Management Based on Blockchain and IoT: A Narrative on Enterprise Blockchain Interoperability (https://www.mdpi.com/1429254)
 - A secure food supply chain solution: blockchain and IoT-enabled container to enhance the efficiency of shipment for strawberry supply chain (https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2023.1294829/full) 
