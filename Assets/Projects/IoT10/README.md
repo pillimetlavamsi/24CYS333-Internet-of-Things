@@ -3,10 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#10
-# IoT-Enabled Smart Home Plantation System
-
-## Team: IoT#10
+## IoT#10 -  IoT-Enabled Smart Home Plantation System
 
 
 ### Project Overview
