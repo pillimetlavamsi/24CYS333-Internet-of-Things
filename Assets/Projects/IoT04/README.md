@@ -10,17 +10,21 @@
 | Aishwarya S | 
 | Dharshika S | 
 | Shree Harini T |
+---
+## Problem Statement : 
+Volunteer-driven NGO campaigns face challenges in transparency, real-time participation tracking, and accurate data collection, especially in remote areas. The absence of IoT integration and reliance on manual methods lead to inefficiencies and scalability issues. IoT can enable real-time data collection, secure participation logging  to address these issues effectively.
 
-# Hardware Requirements
+---
+### Hardware Requirements
 
 | Components                    |
 |------------------------------|
-| **Raspberry Pi 4 Model B**   |
-| **ESP32 Board**              |
-| **GSM Module (SIM800L)**     |
-| **DHT11/DHT22**              |
-| **GPS Module (NEO-6M)**      |
-
+| Raspberry Pi 4 Model B   |
+| ESP32 Board             |
+| GSM Module (SIM800L)     |
+| DHT11/DHT22              |
+| GPS Module (NEO-6M)    |
+---
 ### Literature Survey  
 
 #### Existing Solutions  
@@ -38,16 +42,20 @@ Current systems addressing transparency, traceability, and incentivization in vo
 1. **Encouraging Volunteer Engagement:** By integrating NFT rewards, the project provides recognition that extends beyond monetary incentives, motivating sustained volunteer participation.  
 2. **Empowering Grassroots Communities:** The redemption of blockchain-secured tokens for SHG products supports local economies and builds a direct connection between stakeholders.  
 3. **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
-4. **Real-Time Activity Monitoring:** IoT integration enables real-time tracking of volunteer activities, increasing efficiency in campaign management.  
+4. **Real-Time Activity Monitoring:** IoT integration enables real-time tracking of volunteer activities, increasing efficiency in campaign management.
+---
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
+- Goal 9 - Industry, Innovation, and Infrastructure.
+- Goal 17 - Partnerships for the Goals.
+---
+#### References  
+- *IoT-GChain:* Internet of Things-Assisted Secure and Tractable Grain Supply Chain Framework Leveraging Blockchain (2024)  
+  Source: [MDPI](https://www.mdpi.com/2079-9292/13/18/3740)  
 
-#### References:
-- IoT-GChain: Internet of Things-Assisted Secure and Tractable Grain Supply Chain Framework Leveraging Blockchain(2024)
-  --Source: https://www.mdpi.com/2079-9292/13/18/3740
-- NFT-IoT Pharma Chain: IoT Drug Traceability System Based on Blockchain and Non
-  Fungible Tokens (NFTs) (2023)
-  --Source: https://www.sciencedirect.com/science/article/pii/S1319157822004347
-- Integration of Internet of Things (IoT) and Blockchain to increase humanitarian aid supply chains performance(2019)
-  --Source: https://ieeexplore.ieee.org/abstract/document/8883757
+- *NFT-IoT Pharma Chain:* IoT Drug Traceability System Based on Blockchain and Non-Fungible Tokens (NFTs) (2023)  
+  Source: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1319157822004347)  
 
+- *Integration of Internet of Things (IoT) and Blockchain to increase humanitarian aid supply chains performance (2019)*  
+  Source: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8883757)
 
 
