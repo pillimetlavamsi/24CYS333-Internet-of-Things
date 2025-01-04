@@ -5,15 +5,18 @@
 
 ## IoT#09  - Smart Bike Sharing System with IoT Integration for Tracking and Maintenance
 
-| Members                 | 
-|:-----------------------:|
-| B M Sai Sathvik - CB.EN.U4CYS22013| 
-|    Gunateet Dev - CB.EN.U4CYS22025| 
-|        Vishal S - CB.EN.U4CYS22075|
+Team Members
+----------------
+| Name   | Roll Number | 
+|----------------|--------------------|
+| B M Sai Sathvik | CB.EN.U4CYS22013| 
+|    Gunateet Dev | CB.EN.U4CYS22025| 
+|        Vishal S | CB.EN.U4CYS22075|
 
 
 
-**Problem Statement:** <br>
+Problem Statement
+-------------------
 Urban transportation faces significant challenges, including congestion,
  environmental concerns, and inefficient bike sharing systems. Traditional
  bike-sharing setups often lack smart features like seamless payment, real-time
@@ -27,13 +30,22 @@ Urban transportation faces significant challenges, including congestion,
  A GPS module will enable real-time tracking, allowing users and administrators to
  monitor the bike’s location for safety and efficient management.
 
-**Hardware Requirements:** <br>
-- Neo 6m (GPS module) <br>
-- ESP 32 Micro controller <br>
-- OLED/LED Display Panel <br>
-- Power Supply (Battery) <br>
-- LED Indicators <br>
-- Buzzer <br>
-- Breadboard <br>
-- Jump Wires <br>
+Hardware Requirements
+-------------------------
+
+| Component                  | Functionality                                                                                    |
+|----------------------------|--------------------------------------------------------------------------------------------------|  
+| ESP 32 Micro controller    | Core control unit to handle logic.                                                               |
+| Servo Motor                | Simulates the physical lock/unlock mechanism.                                                    |
+| GPS Module (NEO-6M)        | Tracks the bike's location in real time and enables location based features.                     |
+| OLED/LED Display Panel     | Shows status messages (e.g., "Unlocked")                                                         |
+| Buzzer                     | Audio feedback for lock/unlock status                                                            |
+| Power Supply (Battery)     | Ensures portability and uninterrupted power supply to the system.                                |
+| LED indicators             | Offers a simple and clear visual cue for the lock's status.                                      |
+| Breadboard and Jump Wires  |  Allows prototyping by connecting components without soldering.                                  |
+
+References
+---------------
+[Distributed Campus Bike Sharing System Based-on Internet of Things (IoT)](https://ieeexplore.ieee.org/document/8528778/authors#authors)  
+[Smart management of next generation bike sharing systems using Internet of Things](https://ieeexplore.ieee.org/document/7366219)  
 
