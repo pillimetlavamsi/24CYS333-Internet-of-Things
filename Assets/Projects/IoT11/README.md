@@ -3,18 +3,16 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#11
+## IoT#11 : IoT-Based Comprehensive Elderly Monitoring System with Integrated Fall Detection and Emergency Alert Mechanism
 
-*Team Members:*
+### Team Members:
 
-1) B Rushyendra Reddy - CB.EN.U4CYS22015
+| Name                           | Roll Number        |
+|--------------------------------|--------------------|
+| Burla Rushyendra Reddy         | CB.EN.U4CYS22015  |
+| Palakurty Roopak Naga Venkata Sree Sai | CB.EN.U4CYS22048  |
+| Yallanuru Kishan Sai           | CB.EN.U4CYS22064  |
 
-2) P Roopak - CB.EN.U4CYS22048
-
-3) Y Kishan Sai - CB.EN.U4CYS22064
-
-IoT-Based Comprehensive Elderly Monitoring System with Integrated Fall Detection and Emergency Alert Mechanism
-==============================================================================================================
 
 Project Description
 -------------------
@@ -107,24 +105,31 @@ Relevant SDGs
 #### SDG 3 - Good Health and Well-Being
 To ensure healthy lives and promote well-being for all at all ages.
 <p align="center">
-  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G3.png?raw=true" width="350" />
-  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/3_SDG.gif?raw=true" width="350" />
+  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G3.png?raw=true" width="200" />
+  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/3_SDG.gif?raw=true" width="200" />
 </p>
 
 #### SDG 9 - Industry, Innovation and Infrastructure
 Leveraging IoT technologies to develop innovative solutions for elderly care.
 
 <p align="center">
-  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G9.png?raw=true" width="350" />
-  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/9_SDG.gif?raw=true" width="350" />
+  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G9.png?raw=true" width="200" />
+  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/9_SDG.gif?raw=true" width="200" />
 </p>
 
 #### SDG 11 - Sustainable Cities and Communities 
 Promoting inclusive and sustainable urban environments that support aging populations.
 
 <p align="center">
-  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G11.png?raw=true" width="350" />
-  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/11_SDG.gif?raw=true" width="350" />
+  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G11.png?raw=true" width="200" />
+  <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/11_SDG.gif?raw=true" width="200" />
 </p>
 
 This project builds upon these findings to develop a robust, cost-effective, and user-friendly system tailored for elderly safety and monitoring.
+
+References
+----------
+[Research Gate](https://www.researchgate.net/publication/385531159_Fall_Detection_System_Using_IoT?enrichId=rgreq-3a913ad97f0180986d86dc32713fefa0-XXX&enrichSource=Y292ZXJQYWdlOzM4NTUzMTE1OTtBUzoxMTQzMTI4MTI4ODUyMDU0MUAxNzMwNzgwNjcwMzI2&el=1_x_2&_esc=publicationCoverPdf)  
+[Nevon Projects](https://nevonprojects.com/iot-based-personwheelchair-fall-detection/)  
+[RCCIIT](https://rcciit.org.in/students_projects/projects/ee/2021/GR9.pdf)  
+[IEE EXPLORE](https://ieeexplore.ieee.org/document/9376569/)
