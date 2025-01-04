@@ -3,7 +3,6 @@
 
 ---
 
-## Agenda: Project Scope and Research Focus  
 
 ---
 
