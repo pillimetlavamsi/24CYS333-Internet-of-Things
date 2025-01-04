@@ -3,8 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#12
-## Remote Monitoring and Control of Borewell Pumps using IoT
+## IoT#12 - Remote Monitoring and Control of Borewell Pumps using IoT
 
 **Problem Statement:**
 
@@ -24,6 +23,35 @@ Borewell pumps are critical for providing water in agriculture, industrial, and 
 1. Arduino IDE: Programs and uploads code to microcontrollers for integrating and controlling sensors.
 2. AWS Cloud platform: Provides remote data storage, real-time monitoring, and control of borewell pumps through analytics and dashboards.
 
+**Proposed solution:**
+
+The proposed system addresses the challenges of manual monitoring and control of borewell pumps by providing an IoT-based solution for real-time monitoring, automated control, and operational efficiency.
+
+**Core Functionalities:**
+- **Continuous Monitoring:**
+  - Real-time tracking of water levels in borewell and overhead tanks.
+  - Monitoring pump status, energy consumption, and performance metrics.
+   
+- **Cloud Integration:**
+  - Sensor data is uploaded to an AWS cloud platform for remote access, visualization, and analysis.
+  - Historical data logs enable better decision-making and resource optimization.
+
+- **Proactive Alerts:**
+  - Real-time alerts for critical conditions like dry running, overflow, or pump failures via SMS, email, or push notifications.
+
+- **Automated and Remote Control:**
+  - Automated pump operation based on water level thresholds.
+  - Remote ON/OFF control via a mobile app or web interface for flexibility.
+
+- **User-Friendly Interface:**
+  - Intuitive web/mobile application for both technical and non-technical users to monitor and control the system effectively.
+
+This solution improves efficiency, reduces resource wastage, and enhances the reliability of borewell pump operations, especially in remote areas.
+
+**Literature survey**:
+
+The study by Udhaya Kumar et al. (2020) highlights the potential of IoT-based Bore Well Monitoring Systems in addressing groundwater challenges, particularly in agriculture. By integrating sensors and microcontrollers like Arduino Uno and NodeMCU, these systems enable real-time monitoring of water levels, leakage, and usage through smartphone applications such as Blynk. Traditional bore well monitoring methods in India, such as manual measurements, are time-consuming, inaccurate, and require on-site presence, necessitating innovative solutions for improved efficiency. While GSM and SMS-based systems have been used, they lack real-time analysis and comprehensive data integration. Recent IoT advancements provide automated and scalable solutions, reducing manpower and enabling precise monitoring of parameters like water levels, flow rates, and leaks. The proposed system offers predictive analytics, empowering farmers to manage water resources efficiently and sustainably, thereby addressing critical groundwater management issues in agrarian economies.
+
 **Sustainable Development Goals(SDGs):**
 - **SDG 6: Clean Water and Sanitation**
 
@@ -32,6 +60,10 @@ Borewell pumps are critical for providing water in agriculture, industrial, and 
 - **SDG 12: Responsible Consumption and Production**
 
   Optimizes energy and water resource usage, minimizing waste and encouraging sustainable practices.
+
+**References:**
+  - https://ijsrd.com/articles/IJSRDV8I70141.pdf
+  - https://www.researchgate.net/publication/334399396_Internet_of_Things_Based_Autonomous_Borewell_Management_System
 
 | Members | 
 |:-------:|
