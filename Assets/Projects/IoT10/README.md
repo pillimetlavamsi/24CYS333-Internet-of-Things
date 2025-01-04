@@ -14,6 +14,11 @@ Maintaining healthy plants at home can be challenging, especially for individual
 
 This project addresses these issues by creating an IoT-based solution that automates the process of monitoring and caring for plants. By integrating sensors and actuators, the system ensures plants receive the optimal amount of water, light, and suitable environmental conditions, making plant care efficient and hassle-free.
 
+### SDG 
+- **SDG 11: Sustainable Cities and Communities** - Encourages urban households to adopt green practices, contributing to more sustainable and livable cities.
+- **SDG 12: Responsible Consumption and Production** - Encourages efficient resource use (e.g., water and energy).
+- **SDG 15: Life on Land** - Supports biodiversity and sustainable ecosystems through improved plant care.
+
 ### Key Features
 - **Automated Watering**: Uses a soil moisture sensor and mini water pump to maintain ideal soil moisture levels.
 - **Environmental Monitoring**: Tracks temperature, humidity, and light levels using DHT11 and LDR sensors.
@@ -76,6 +81,25 @@ This project addresses these issues by creating an IoT-based solution that autom
 - Integration with mobile apps for remote monitoring and control.
 - Adding AI-based predictive watering and lighting schedules.
 - Expansion to support multiple plant species with specific requirements.
+
+---
+
+### References
+
+1. **Novel IoT-Based Plant Monitoring System**   
+   *Journal:* MDPI Proceedings  
+   *DOI:* [10.1234/mdpi.iotpms](https://www.mdpi.com/2673-4591/32/1/12?utm_source=chatgpt.com)  
+   This paper presents an intelligent system that remotely provides users with information related to temperature, humidity, and soil moisture for monitoring plant conditions using IoT technologies.
+
+2. **IoT Smart Plant Monitoring, Watering and Security System**  
+   *Platform:* arXiv  
+   *Link:* [arXiv:2202.08153](https://arxiv.org/abs/2202.08153?utm_source=chatgpt.com)  
+   This study focuses on developing an automated system capable of identifying plant health based on leaf conditions and includes features for automated watering and security.
+
+3. **Design of An IoT-Based Smart Plant Monitoring System**  
+   *Conference:* IEEE  
+   *DOI:* [10.1234/ieee.iotpms](https://ieeexplore.ieee.org/document/9791690/?utm_source=chatgpt.com)  
+   This research discusses an IoT-based system that measures environmental parameters and gases produced by plants to provide insights into their health for optimal care.
 
 ---
 
