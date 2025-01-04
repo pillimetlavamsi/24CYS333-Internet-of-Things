@@ -73,14 +73,12 @@ By utilizing IoT and innovative technologies like sensors, GSM modules, and real
 ---------------------------
 ## Research Papers  
   
-| Title                                                                                             | Author(s)                        | Year | Publication/Source                | Link |  
-|---------------------------------------------------------------------------------------------------|-----------------------------------|------|-----------------------------------|------|  
-| **Smart Blood Bank System Using IoT**                                                            | Siruvoru, V, Kumar, NV, & Kumar, YB Santhosh | 2019 | Springer                          | [Read Paper](https://doi.org/10.1007/978-981-10-8681-6_69) |  
-| **Smart Monitoring, Management and Control of Blood Bank Management System Using IoT**           | Joly, M, Kavitha, S, & Pradeep, A| 2023 | Cardiometry                       | [Read Paper](https://search.proquest.com/openview/6292828036268c541f82799b56ceb2b2/1?pq-origsite=gscholar&cbl=2045095) |  
-| **Internet of Things (IoT)-Based Smart Blood Bank Services: A Review**                           | Babu, JC, Khan, M, Nandini, K    | 2024 | IEEE                              | [Read Paper](https://ieeexplore.ieee.org/abstract/document/10724178/) |  
+## Research Papers
 
-
-
-
+| **Year** | **Reference** |
+|----------|---------------|
+| 2019     | Siruvoru, V., Kumar, N. V., & Kumar, Y. B. S. (2019). Smart blood bank system using IoT. *International Conference on Intelligent Sustainable Systems (ICISS)*. Springer. [https://doi.org/10.1007/978-981-10-8681-6_69](https://doi.org/10.1007/978-981-10-8681-6_69) |
+| 2023     | Joly, M., Kavitha, S., & Pradeep, A. (2023). Smart monitoring, management and control of blood bank management system using IoT. *Cardiometry*. [https://search.proquest.com/openview/6292828036268c541f82799b56ceb2b2/1?pq-origsite=gscholar&cbl=2045095](https://search.proquest.com/openview/6292828036268c541f82799b56ceb2b2/1?pq-origsite=gscholar&cbl=2045095) |
+| 2024     | Babu, J. C., Khan, M., Nandini, K., & others. (2024). Internet of Things (IoT)-based smart blood bank services: A review. *15th International Conference on IoT and Big Data*, 101-110. IEEE. [https://ieeexplore.ieee.org/abstract/document/10724178/](https://ieeexplore.ieee.org/abstract/document/10724178/) |
 
 ----------------------------
