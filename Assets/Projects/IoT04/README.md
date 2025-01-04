@@ -3,8 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#04
-## Empowering Volunteerism with Blockchain and IoT: NFT Rewards for NGO Campaigns.
+## IoT#04 -  Empowering Volunteerism with Blockchain and IoT: NFT Rewards for NGO Campaigns
 
 | Members | 
 |:-------:|
