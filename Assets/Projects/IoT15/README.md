@@ -73,7 +73,7 @@ By utilizing IoT and innovative technologies like sensors, GSM modules, and real
 ---------------------------
 ## Research Papers  
   
-## Research Papers
+
 
 | **Year** | **Reference** |
 |----------|---------------|
