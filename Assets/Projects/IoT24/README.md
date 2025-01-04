@@ -1,10 +1,26 @@
-# 24CYS333 - Internet of Things  
-![Batch](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![UG](https://img.shields.io/badge/UG-blue) ![Subject](https://img.shields.io/badge/Subject-IoT-blue)  
-![Lecture](https://img.shields.io/badge/Lecture-2-orange) ![Practical](https://img.shields.io/badge/Practical-3-orange) ![Credits](https://img.shields.io/badge/Credits-3-orange)  
+# 24CYS333 - Internet of Things
+![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-IoT-blue)
+<br/>
+![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
 ---
 
-## IoT-Based Indoor Air Pollution Monitoring System
+# IoT#024 - IoT Enabled Air Quality Monitoring System
+
+
+---
+
+## Team Information  
+
+ **Team Members:**  
+  1. **Ramraj S**  
+     *Roll Number:* CB.EN.U4CYS22055  
+  2. **R M Naren Adithya**  
+     *Roll Number:* CB.EN.U4CYS22050 
+  3. **B Vijay Nishanth**  
+     *Roll Number:* CB.EN.U4CYS22074 
+
+---
 
 ### Problem Statement
 Indoor air pollution, caused by gases like Carbon Dioxide (CO₂) and Carbon Monoxide (CO), significantly impacts human health. These pollutants, often invisible and odorless, can lead to respiratory diseases, reduced cognitive function, and severe health risks over prolonged exposure. Despite its importance, indoor air quality remains under-monitored in most households and workplaces.
@@ -26,18 +42,37 @@ The proposed solution is an **IoT-enabled Indoor Air Pollution Monitoring System
 - **Cost-Effective and Scalable Design:**
   - Built using affordable, readily available hardware components, making it accessible to a wider audience.
 
-### Hardware Requirements
-1. **Arduino Uno**: Serves as the central microcontroller for data processing and control.
-2. **Node-MCU ESP8266**: Provides Wi-Fi connectivity for data transmission to cloud platforms.
-3. **16x2 LCD**: Displays real-time air quality readings in parts per million (PPM).
-4. **MQ135 Gas Sensor**: Measures indoor air quality by detecting gases like ammonia, nitrogen oxides, and benzene.
-5. **MQ7 LPG Gas Sensor**: Detects carbon monoxide (CO) levels, ensuring safety against this toxic gas.
-6. **Buzzer**: Emits audible alerts when pollutant levels exceed predefined thresholds.
-7. **LEDs**: Visually indicate air quality status through color-coded signals.
+### Hardware Requirements  
 
+1. **Microcontroller:**  
+   - Arduino Uno: Serves as the central processing unit for data collection and control.  
+2. **WiFi Module:**  
+   - NodeMCU ESP8266: Enables wireless data transmission to cloud platforms.  
+3. **Sensors:**  
+   - BME280: Measures temperature, humidity, and atmospheric pressure.  
+   - MQ7: Detects carbon monoxide (CO).  
+   - MQ2: Detects flammable gases like propane and methane.  
+   - MQ135: Measures overall air quality by detecting harmful gases such as ammonia, benzene, and nitrogen oxides.  
+   - PMS5003: Measures particulate matter (PM2.5 and PM10).  
+4. **Display:**  
+   - 16x2 LCD: Displays real-time pollutant concentrations and environmental conditions.  
+5. **Alert Components:**  
+   - Buzzer: Emits audible alerts for unsafe conditions.  
+   - LEDs: Visual indicators for air quality status.
+  
 ### Software Requirements
 1. **Arduino IDE**: Used for programming the Arduino Uno and Node-MCU ESP8266 boards, facilitating sensor integration and data handling.
 2. **ThingSpeak**: A cloud-based platform for monitoring and analyzing air quality data in real-time.
+
+### Literature Survey  
+
+Studies on IoT-based air quality monitoring systems reveal:  
+
+1. Integration of sensors such as PMS5003 and MQ135 for detecting particulate matter and gases proved effective in real-time monitoring.  
+2. BME280 sensors were shown to provide accurate environmental conditions, making them integral to air quality systems.  
+3. Low-cost implementations using Arduino and ESP8266 proved scalable for wider deployment.  
+4. Combining multiple sensors like MQ7 and MQ135 offered comprehensive pollutant detection.  
+
 
 ### Alignment with Sustainable Development Goals (SDGs)
 - **SDG 3: Good Health and Well-Being**  
@@ -54,3 +89,9 @@ The proposed solution is an **IoT-enabled Indoor Air Pollution Monitoring System
 
 ### Conclusion
 The IoT-Based Indoor Air Pollution Monitoring System is a comprehensive solution for addressing the critical issue of indoor air quality. It empowers individuals and organizations to take control of their living and working environments, ensuring healthier and more sustainable indoor spaces while aligning with global sustainability goals.
+
+### References  
+
+1. Kumar, S., Gupta, A., & Rana, S. (2020). "IoT-based air pollution monitoring system using Arduino."  
+2. Singh, P., & Chaturvedi, R. (2019). "Integration of gas sensors for real-time air quality monitoring using cloud platforms."  
+3. Alharbi, N., Abdulrahman, A., & Mohammad, M. (2021). "Comparative analysis of air quality monitoring systems with IoT and cloud technology."
