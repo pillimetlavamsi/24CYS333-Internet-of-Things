@@ -3,12 +3,9 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#22
+## IoT#22 - IoT-Based System to mitigate traffic congestion for emergency vehicles.
 
-## Title:
- IoT-Based System to mitigate traffic congestion for emergency vehicles.
 
- 
 ## Problem Statement:
 Heavy traffic congestion is increasingly becoming a problem in urban areas, which is a challenge to emergency response systems. Emergency vehicles like ambulances, fire engines, and police cars are often stuck in traffic, delaying their arrival at critical locations. Such delays can have severe consequences, including loss of lives, increased damage to property, and reduced effectiveness of emergency response efforts.Currently, the existing systems of traffic management do not accommodate the needs for the free flow of emergency vehicles, especially in peak hours. This creates tremendous challenges for the emergency services when they have to navigate through roads that are very congested and,therefore, cannot provide help in time. This calls for an innovative solution to address this issue so that emergency vehicles reach their destinations without such delays.
 
@@ -42,4 +39,7 @@ This system is intended to make the process of traffic management responsive and
 
 
 ## Sustainable Develpoment Goals:  
-- SDG 11
+- SDG 11 - Sustainable Cities and Communities
+
+## References:
+- https://ieeexplore.ieee.org/abstract/document/8473210
