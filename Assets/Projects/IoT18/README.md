@@ -4,6 +4,12 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
 # IoT#18 IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns
+## Team Members
+|   **Name** |   **Roll Number**   |
+|------------|---------------------|
+|[Lalitha K](https://github.com/Lalitha0614)   |CB.EN.U4CYS22037     |
+|[Parthiv kumar Nikku](https://github.com/parthivkumarnikku)   |CB.EN.U4CYS22046     |
+|[Pillimetla Vamsi](https://github.com/pillimetlavamsi)      |CB.EN.U4CYS22047     |
 ## Problem Statement
 Current smart home solutions often lack integration, requiring multiple systems for security, health monitoring, and dietary management. This project aims to develop a unified IoT-based platform that ensures home security through intrusion detection, monitors health via sensors, and provides personalized dietary recommendations, enhancing convenience, safety, and well-being in a smart living environment.
 
