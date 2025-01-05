@@ -3,7 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-# IoT#18 IoT-Enabled Sleep Monitoring System for Analyzing Sleep Patterns
+# IoT#18 Integrated IoT-Based Smart Home System for Security, Health Monitoring, and Dietary Assistance
 ## Team Members
 |   **Name** |   **Roll Number**   |
 |------------|---------------------|
