@@ -44,6 +44,21 @@ Hardware Requirements
 | LED indicators             | Offers a simple and clear visual cue for the lock's status.                                      |
 | Breadboard and Jump Wires  |  Allows prototyping by connecting components without soldering.                                  |
 
+### SDG 
+- **SDG 7:** - Ensure access to affordable, reliable, sustainable and modern energy for all
+- **SDG 9:** - Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
+- **SDG 11:** - Make cities and human settlements inclusive, safe, resilient and sustainable.
+- **SDG 13:** Take urgent action to combat climate change and its impacts.
+
+### Key Features
+- Real-Time Bike Tracking 
+- Decentralized Accessibility 
+- Maintenance Automation 
+- Enhanced User Experience (reservations, smart locks, payment integration, real-time availability updates) 
+- Sustainability 
+- Cost Efficiency 
+- Scalability
+
 References
 ---------------
 [Distributed Campus Bike Sharing System Based-on Internet of Things (IoT)](https://ieeexplore.ieee.org/document/8528778/authors#authors)  
