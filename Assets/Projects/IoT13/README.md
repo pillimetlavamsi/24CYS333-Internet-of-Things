@@ -10,6 +10,7 @@
 | Deepak Kumar S| 
 | Joshua Anto A |
 | Midhru Jayan K|
+
 ### Problem Statement
 The supply chain management of milk faces significant challenges in ensuring transparency, traceability, efficiency, and quality control. Traditional systems are often fragmented, rely heavily on manual processes, and lack real-time monitoring and verification mechanisms. These shortcomings result in inefficiencies, higher costs, and compromised milk quality, ultimately affecting consumer trust and satisfaction.
 #### Key challenges:
@@ -33,9 +34,9 @@ TBD
 
 | **Goal** | **Function** |
 |:--------:|:------------|
-| SDG 2    | Reduce milk waste by monitoring storage conditions and ensuring optimal transportation logistics.|
-| SDG 12   | Ensure a safe and sustainable supply of milk by reducing wastage and spoilage through real-time monitoring.|
-| SDG 17   | Collaboration among farmers, producers, distributors, and consumers through a transparent Blockchain-enabled ecosystem|
+|<div style="text-align: center;"><img src="Images/SDG2.png" alt="Alt text for image 1" width="100"><br><small> **SDG - 2** </small></div>| Reduce milk waste by monitoring storage conditions and ensuring optimal transportation logistics.|
+|<div style="text-align: center;"><img src="Images/SDG12.png" alt="Alt text for image 1" width="100"><br><small> **SDG - 12** </small></div>| Ensure a safe and sustainable supply of milk by reducing wastage and spoilage through real-time monitoring.|
+|<div style="text-align: center;"><img src="Images/SDG17.png" alt="Alt text for image 1" width="100"><br><small> **SDG - 17** </small></div>| Collaboration among farmers, producers, distributors, and consumers through a transparent Blockchain-enabled ecosystem|
 
 ### References
 - Agriculture-Food Supply Chain Management Based on Blockchain and IoT: A Narrative on Enterprise Blockchain Interoperability (https://www.mdpi.com/1429254)
