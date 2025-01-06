@@ -19,7 +19,8 @@ Problem statement:
 The project aims to design and develop an IoT-based model that collects real-time sensor data from crop fields and uploads it to the cloud. This data is analyzed using machine learning techniques on the cloud to make accurate and efficient decisions, thereby improving processing speed and reducing device complexity compared to similar architectures. The model will detect crop diseases and provide recommendations for the best pesticides to assist farmers in improving crop yield.
 
 Proposed Solution:
-     Developing an IoT-based Crop Disease Detection System that leverages smart sensors, real-time monitoring, and cloud integration to identify and track crop diseases efficiently.
+
+Developing an IoT-based Crop Disease Detection System that leverages smart sensors, real-time monitoring, and cloud integration to identify and track crop diseases efficiently.
      The system utilizes environmental sensors (humidity, temperature, soil moisture, and leaf wetness) and imaging devices to collect data continuously from the field.
      Machine learning models analyze the collected data to detect early signs of diseases, enabling farmers to take timely preventive actions.
      Integration of real-time tracking and automated alerts via mobile/web interfaces ensures timely updates for farmers.
@@ -49,4 +50,8 @@ By improving early detection and prevention of crop diseases, the project suppor
 
 SDG 2: Good Health and Well-being
 Healthier crops lead to higher quality and safer food, preventing health risks associated with consuming infected crops.
+
+Reference:
+
+https://github.com/PraveenGirishNadumani/iotBasedCropDiseaseDetection/tree/master
 
