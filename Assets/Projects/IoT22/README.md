@@ -43,3 +43,8 @@ This system is intended to make the process of traffic management responsive and
 
 ## References:
 - https://ieeexplore.ieee.org/abstract/document/8473210
+
+## Team members:
+- Nedurumalli Ved Varshith Reddy
+- Rudra Srilakshmi
+- Saride Someswara Sai Sri Chakri
