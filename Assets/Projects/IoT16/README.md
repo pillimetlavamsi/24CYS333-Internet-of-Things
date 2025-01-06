@@ -3,7 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#16 : IoT-based Crop Disease Detection System
+## IoT#16 : IoT-based Crop Disease Detection System for Mango trees
 
 Team Members:
 
