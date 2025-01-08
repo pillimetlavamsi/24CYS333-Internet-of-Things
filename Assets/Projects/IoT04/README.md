@@ -5,8 +5,9 @@
 
 ## IoT#04 -  Empowering Volunteerism with Blockchain and IoT: NFT Rewards for NGO Campaigns
 
- ![](https://img.shields.io/badge/Member-Aishwarya_S-gold)  ![](https://img.shields.io/badge/Member-Dharshika_S-gold)  ![](https://img.shields.io/badge/Member-Shree_Harini_T-gold) <br/> 
-  ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-17-darkgreen) 
+![](https://img.shields.io/badge/Member-Aishwarya_S-gold)  ![](https://img.shields.io/badge/Member-Dharshika_S-gold)  ![](https://img.shields.io/badge/Member-Shree_Harini_T-gold) <br/> 
+![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-17-darkgreen) <br/>
+![](https://img.shields.io/badge/Reviewed-08th_Jan_2025-brown) 
 
 ---
 ### Problem Statement
@@ -61,7 +62,7 @@ Current systems addressing transparency, traceability, and incentivization in vo
 | IoT#15 | Blood Donation Campaign | 
 ---
 
-#### References  
+### References  
 - Thakur, K. S., Ahuja, R., & Singh, R. (2024). **IoT-GChain: Internet of Things-Assisted Secure and Tractable Grain Supply Chain Framework Leveraging Blockchain.** _Electronics_, 13(18), 3740. 
   
 - Turki, M., Cheikhrouhou, S., Dammak, B., Baklouti, M., Mars, R., & Dhahbi, A. (2023). **NFT-IoT pharma chain: IoT drug traceability system based on blockchain and non fungible tokens (NFTs)**. _Journal of King Saud University-Computer and Information Sciences_, 35(2), 527-543.
