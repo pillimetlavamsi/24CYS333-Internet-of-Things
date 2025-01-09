@@ -16,15 +16,15 @@ Volunteer-driven NGO campaigns face challenges in transparency, real-time partic
 ---
 ### Hardware Requirements
 
-| Components      | Purpose | 
-|:-----------------|:-------|
-| Raspberry Pi 4 Model B   | | 
-| ESP32 Board             |  |
-| GSM Module (SIM800L)     | |
-| DHT11/DHT22              |  |
-| GPS Module (NEO-6M)    |    |
-| NFC Stickers    |    |
-| RFID Tags    |    |
+| Components               | Purpose                                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| Raspberry Pi 4 Model B   | Serves as the central processing unit for managing IoT devices, processing data, and blockchain integration. |
+| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
+| GSM Module (SIM800L)     | Facilitates communication and data transfer in areas with limited Wi-Fi access. |
+| DHT11/DHT22              | Monitors temperature and humidity, providing real-time environmental data. |
+| GPS Module (NEO-6M)      | Tracks the geographical location for geo-tagging data and monitoring field operations. |
+| NFC Stickers             | Used for volunteer identification and logging participation securely. |
+| RFID Tags                | Provides authentication and tracking for volunteers and equipment. |
 
 ---
 ### Literature Survey  
@@ -51,10 +51,11 @@ Current systems addressing transparency, traceability, and incentivization in vo
 ---
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
-| SDG | Alignment |
-|:---|:----------|
-| Goal 9 - Industry, Innovation, and Infrastructure |   |
-| Goal 17 - Partnerships for the Goals |  |
+| SDG                                      | Alignment                                                                                                                                                 |
+|:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Goal 9 - Industry, Innovation, and Infrastructure | Enhances transparency with blockchain, improves campaign management via IoT, and provides modern, efficient solutions for NGOs.                           |
+| Goal 17 - Partnerships for the Goals     | Strengthens NGO-volunteer bonds with NFT rewards, optimizes resources using IoT, and provides collaboration with tech experts for impactful solutions.      |
+
 
 ### Collaboration 
 | Team | Module & Scope |
