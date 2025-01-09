@@ -42,6 +42,11 @@ The project satisfies
 
 ---
 
+### Collaborations:
+- **Team#09** (Smart bike sharing system)
+
+---
+
 ### Proposed solution:
 The aim of the proposed solution is to have a system that detects unauthorized entry such as a break in and an unauthorized car jack.
 
@@ -78,9 +83,8 @@ The aim of the proposed solution is to have a system that detects unauthorized e
 - LEDs
 ---
 ### References:
-- GPS-based vehicle tracking and theft detection systems using Google Cloud IoT core f irebase PV Crisgar, PR Wijaya, MDF Pakpahan... (2021) 
-- GPSandGSMbasedanti-theft vehicle system M Shaikh, M Shah, KE Momin (2018) 
-- Smartsecurity system for vehicles using internet of things (IOT) M Sathiyanarayanan, S Mahendra (2018) 
-- https://www.dcceew.gov.au/environment/protection/ozone/ozone science/antarctic-ozone-hole: :text=The
+- PV Crisgar, PR Wijaya, MDF Pakpahan (2021) GPS-based vehicle tracking and theft detection systems using Google Cloud IoT core firebase 
+- M Shaikh, M Shah, KE Momin (2018) GPSandGSMbasedanti-theft vehicle system 
+- M Sathiyanarayanan, S Mahendra (2018) Smartsecurity system for vehicles using internet of things (IOT) 
 
 ---
