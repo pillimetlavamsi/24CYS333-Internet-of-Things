@@ -3,23 +3,19 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#05 - GPS-Enabled IoT System for Passenger Safety and Route Monitoring in Taxis with Office Alert Integration
+## IoT#05 - GPS-Enabled Passenger Safety and Route Monitoring in Taxis with Office Alert Integration
 
-| Team Members | 
-|:-------:|
-| C S Amritha | 
-| Anaswara Suresh M K | 
-| R. Sruthi |
+![](https://img.shields.io/badge/Member-Anaswara_Suresh_M_K-gold)  ![](https://img.shields.io/badge/Member-C_S_Amritha-gold)  ![](https://img.shields.io/badge/Member-R.Sruthi-gold) <br/> 
+![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
 
-## <u>**Problem Statement**</u>
-In regions with limited technological infrastructure, passenger safety, particularly for women during taxi rides, remains a pressing challenge. Existing solutions, while helpful, fail to provide comprehensive protection due to their high costs and lack of direct integration with authorities or offices for rapid intervention. These limitations leave passengers vulnerable in critical situations, highlighting the urgent need for an accessible, affordable, and robust safety system that can bridge these gaps effectively.
+---
 
+### Problem Statement
+Passenger safety in public transportation, especially for women, remains a significant concern worldwide. Despite advancements in technology, many passengers lack access to immediate and effective ways to signal distress and seek assistance during their journey. To address this issue, there is a need for an IoT-based safety solution integrated into cabs that enables passengers to send instant alerts to the cab operator's office or a central monitoring system. This solution should ensure rapid response and enhance passenger confidence in the safety of the service.
 
-## <u>**Proposed Solution**</u>
-The proposed solution is a standalone safety device designed to enhance the security of passengers, particularly women, during taxi rides. Upon identifying a route deviation or emergency, the device triggers smart alerts, notifying designated contacts and offices for rapid response. Additionally, the system logs travel history, enabling future analysis and insights.
+---
 
-
-## <u>**Hardware**</u>
+### Hardware
 | Component                  | Description                       |
 |----------------------------|-----------------------------------|
 | *Microcontroller/Development Board* | Arduino Uno or Arduino Mega |
@@ -31,22 +27,43 @@ The proposed solution is a standalone safety device designed to enhance the secu
 | *Power Supply*            | Li-ion Battery Pack or Vehicle Power Adapter |
 | *Accelerometer/Gyroscope* | MPU6050                          |
 
+---
 
-## <u>**SDG Mapping**</u>
+### Literature Survey  
+1. **Emergency Route Optimization and Notification Systems**: Geo-IoT and pgRouting, as used by Hataitara et al. (2024), enable real-time route tracking and analysis. This can be adapted to monitor taxi route deviations and alert contacts.<br></br>
+2. **Dual-Function Safety Devices**: IoT-enabled devices with buttons and sensors for distinguishing medical emergencies from danger scenarios (IEEE, 2022) provide a foundation for implementing specific triggers for route deviations in passenger safety.<br></br>
+3. **IoT Modules for Real-Time Alerts**: GSM (SIM800) and GPS (Neo-6M) modules are effective for real-time location tracking and communication, offering a scalable and cost-efficient solution for sending alerts to contacts or authorities.<br></br>
+4. **Portable and Affordable Safety Devices**: The IEEE paper (2022) showcases a wearable safety device that is compact and portable, using low-cost microcontrollers like ATmega2560. This reinforces the idea that your passenger safety device can also remain affordable and easy to carry, enhancing its practicality in low-resource regions.
 
-## **Goal 9: Industry, Innovation, and Infrastructure**
-**To build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.**
-- Improves passenger safety with smart IoT technology.
-- Affordable design can grow with future upgrades like blockchain.
-- Tracks routes and logs trips in real-time for better safety.
+### Research Gaps
+1. Lack of real-time route deviation detection for passenger safety.
+2. No direct integration with authorities for emergency intervention.
+3. Absence of travel history logging for post-event analysis.
+4. Limited scalability for low-cost, portable safety devices.
+   
+---
 
-## **Goal 11: Sustainable Cities and Communities**
-**To make cities inclusive, safe, resilient, and sustainable.**
-- Makes transportation safer, especially for women.
-- Real-time alerts help quickly handle emergencies.
-- Creates safer travel options, supporting better urban living.
+### Proposed Solution
+1. **Standalone Safety Device:** A compact IoT-based safety tool installed in cabs, designed to enhance passenger security.
+2. **Emergency Alert Mechanism:** Passengers can press a button in case of an emergency.The button triggers an immediate alert to the office or a central monitoring system.  
+3. **Travel History Logging:** The system records travel routes and history for future analysis.
+   
+---
 
-## <u>**References**</u>
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
+| SDG | Alignment |
+|:---|:----------|
+| Goal 9 - Industry, Innovation, and Infrastructure |   |
+| Goal 11 - Sustainable cities and communities |  |
+
+### Collaboration
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT#7 | Real-Time loT-Driven Public Transport Scheduling and Tracking System | 
+
+---
+
+### References
 - Hataitara, R., Piyathamrongchai, K., & Choosumrong, S. (2024). Development of an emergency notification system to analyze the access route for emergency medical services using Geo-IoT and pgRouting. *Applied Geomatics, 16*(2), 441–449. [https://doi.org/10.1007/s12518-024-00557-8](https://doi.org/10.1007/s12518-024-00557-8)
 - Design of an IoT-Enabled Smart Safety Device. (2022b, November 19). *IEEE Conference Publication | IEEE Xplore.* [https://ieeexplore.ieee.org/abstract/document/10088332](https://ieeexplore.ieee.org/abstract/document/10088332)
 
