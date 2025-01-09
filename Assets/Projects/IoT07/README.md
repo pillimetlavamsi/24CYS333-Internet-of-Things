@@ -34,8 +34,8 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ### Literature Survey  
 
 #### Existing Solutions  
-- **WhereIsMyTransport:** Aggregates real-time public transport data in emerging markets, focusing on mapping informal transit networks, but lacks advanced predictive capabilities and commuter-focused features.-
-**Google Maps Transit Integration:**Provides real-time public transport schedules and vehicle tracking using GPS data from transit agencies, but focuses more on static schedule integration and lacks dynamic, decentralized IoT scalability.  
+- **WhereIsMyTransport:** Aggregates real-time public transport data in emerging markets, focusing on mapping informal transit networks, but lacks advanced predictive capabilities and commuter-focused features.
+- **Google Maps Transit Integration:** Provides real-time public transport schedules and vehicle tracking using GPS data from transit agencies, but focuses more on static schedule integration and lacks dynamic, decentralized IoT scalability.  
 - **Citymapper:** Offers real-time tracking, route optimization, and live updates for public transport, but heavily relies on centralized data feeds, making it less adaptable to decentralized or volunteer-driven models.
 
 #### Research Gaps  
