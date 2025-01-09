@@ -5,6 +5,9 @@
 
 ## IoT#06 - Developing an IoT-Based Smart Grid Architecture for Efficient Energy Distribution
 
+![](https://img.shields.io/badge/Member-Arul_Sujith_S-gold)  ![](https://img.shields.io/badge/Member-Hemadhri_P_C-gold)  ![](https://img.shields.io/badge/Member-Akshit_Singh-gold) <br/> 
+![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
+
 ### Problem statement:
 
 Traditional power grids lack real-time optimization, leading to over-reliance on fossil fuels even when renewable energy is available.Current grids struggle to integrate renewable sources efficiently, resulting in underutilization and increased carbon emissions.There is no autonomous system to prioritize renewable energy over fossil fuels based on real-time demand and supply.Grids lack real-time monitoring tools, delaying fault detection and reducing overall efficiency.Reactive maintenance and operational inefficiencies increase costs and lead to longer downtimes during outages.
