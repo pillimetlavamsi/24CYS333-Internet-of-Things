@@ -34,25 +34,24 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ### Literature Survey  
 
 #### Existing Solutions  
- 
-**WhereIsMyTransport:**Aggregates real-time public transport data in emerging markets, focusing on mapping informal transit networks, but lacks advanced predictive capabilities and commuter-focused features.-
+- **WhereIsMyTransport:** Aggregates real-time public transport data in emerging markets, focusing on mapping informal transit networks, but lacks advanced predictive capabilities and commuter-focused features.-
 **Google Maps Transit Integration:**Provides real-time public transport schedules and vehicle tracking using GPS data from transit agencies, but focuses more on static schedule integration and lacks dynamic, decentralized IoT scalability.  
-**Citymapper:**Offers real-time tracking, route optimization, and live updates for public transport, but heavily relies on centralized data feeds, making it less adaptable to decentralized or volunteer-driven models.
+- **Citymapper:** Offers real-time tracking, route optimization, and live updates for public transport, but heavily relies on centralized data feeds, making it less adaptable to decentralized or volunteer-driven models.
 
 #### Research Gaps  
-**Predictive Analytics for Dynamic Scheduling:** Most systems focus on static schedules with basic GPS tracking, lacking advanced AI-driven predictive algorithms to dynamically adjust schedules based on real-time conditions like traffic or delays.
-**Passenger Engagement and Feedback:** Few solutions involve passengers actively, either through crowdsourcing data or incentivizing participation to enhance system accuracy and reliability. 
-3. **Data Privacy and Security:**While IoT systems collect extensive data, research is lacking on ensuring robust data encryption and protecting passenger privacy, especially in public transportation systems.
+- **Predictive Analytics for Dynamic Scheduling:** Most systems focus on static schedules with basic GPS tracking, lacking advanced AI-driven predictive algorithms to dynamically adjust schedules based on real-time conditions like traffic or delays.
+- **Passenger Engagement and Feedback:** Few solutions involve passengers actively, either through crowdsourcing data or incentivizing participation to enhance system accuracy and reliability. 
+- **Data Privacy and Security:** While IoT systems collect extensive data, research is lacking on ensuring robust data encryption and protecting passenger privacy, especially in public transportation systems.
 
 ---
 
 ### Proposed Solution 
 
 #### Relevance of Proposed Work  
-**Improves Public Transit Efficiency:** The system reduces delays, optimizes routes, and enhances reliability, encouraging more people to use public transportation.
-**Encourages Community Involvement:** Volunteer-driven contributions and incentivized reporting foster community participation and accountability in maintaining the system.
-**Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
-4. **Innovates Beyond Existing Solutions:**Combines IoT and blockchain to address gaps in decentralization, predictive analytics, and integration of informal transport modes.---
+- **Improves Public Transit Efficiency:** The system reduces delays, optimizes routes, and enhances reliability, encouraging more people to use public transportation.
+- **Encourages Community Involvement:** Volunteer-driven contributions and incentivized reporting foster community participation and accountability in maintaining the system.
+- **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
+- **Innovates Beyond Existing Solutions:** Combines IoT and blockchain to address gaps in decentralization, predictive analytics, and integration of informal transport modes.---
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG                                      | Alignment                                                                                                                                                 |
@@ -68,6 +67,6 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ---
 
 ### References  
-A. A. Habadi and Y. S. Abu Abdullah, "Keen Safety School Buses System Using RFID and Carbon Dioxide Detection," 2018 first International Conference on Computer Applications and Information Security (ICCAIS), Riyadh, 2018, pp. 1-7. 
+- A. A. Habadi and Y. S. Abu Abdullah, "Keen Safety School Buses System Using RFID and Carbon Dioxide Detection," 2018 first International Conference on Computer Applications and Information Security (ICCAIS), Riyadh, 2018, pp. 1-7. 
 
 - Leeza Singla, Dr Parteek Bhatia "GPS Based Bus Tracking System" IEEE International Conference on Computer, Communication and Control (IC4-2015).
