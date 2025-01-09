@@ -4,37 +4,15 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
 # IoT#18 Integrated Smart Home Intrusion Detection System 
-## Team Members
-|   *Name* |   *Roll Number*   |
-|------------|---------------------|
-|[Lalitha K](https://github.com/Lalitha0614)   |CB.EN.U4CYS22037     |
-|[Parthiv kumar Nikku](https://github.com/parthivkumarnikku)   |CB.EN.U4CYS22046     |
-|[Pillimetla Vamsi](https://github.com/pillimetlavamsi)      |CB.EN.U4CYS22047     |
+![](https://img.shields.io/badge/Member-Lalitha_K-gold)  ![](https://img.shields.io/badge/Member-Nikku_Parthiv_Kumar-gold)  ![](https://img.shields.io/badge/Member-Pillimetla_Vamsi-gold) <br/> 
+![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
+![](https://img.shields.io/badge/Reviewed-06th_Jan_2025-brown) 
+
 ## Problem Statement
+
 Current smart home solutions often lack integration, requiring multiple systems for Intrusion Detection and health monitoring. This project aims to develop a unified IoT-based platform that ensures home security through intrusion detection, monitors health via sensors, and enhancing convenience, safety, and well-being in a smart living environment.
 
-# Literature Survey
-
-## Existing Solutions
-
-### Intrusion Detection Systems (IDS)
-- *IoT-Based Smart Home Security System*: Utilizes PIR motion sensors and alerts for intrusion detection. However, it is limited to standalone security.
-- *IoT Security Survey*: Explores IoT security methods, emphasizing challenges in scalability and integration.
-
-### Health Monitoring Systems
-- *IoT-Based Health Monitoring System*: Tracks heart rate and body temperature with real-time alerts but lacks integration into smart home ecosystems.
-
-## Research Gaps and Our Objective
-- *Use of Multiple Sensors*: Existing solutions lack comprehensive multi-sensor setups for intrusion detection.
-- *Integration Challenges*: There is a lack of integration between intrusion detection and health monitoring.
-- *Unified IoT Platforms*: Limited focus on creating unified IoT platforms for enhanced user convenience in smart homes.
-
-## Challenges
-- *Integration Complexity*: Combining intrusion detection and health monitoring is difficult due to limited resources.
-- *Real-Time Functionality*: Ensuring real-time performance across diverse IoT systems is challenging.
-- *Privacy and Security Concerns*: Addressing privacy and security issues related to sensitive health.
-- *Cost-Effectiveness*: Developing scalable, user-friendly, and cost-effective solutions.
-
+---
 
 ## Hardware / Resources
 
@@ -72,8 +50,33 @@ Current smart home solutions often lack integration, requiring multiple systems 
 
 ---
 
+# Literature Survey
+
+## Existing Solutions
+
+### Intrusion Detection Systems (IDS)
+- *IoT-Based Smart Home Security System*: Utilizes PIR motion sensors and alerts for intrusion detection. However, it is limited to standalone security.
+- *IoT Security Survey*: Explores IoT security methods, emphasizing challenges in scalability and integration.
+
+### Health Monitoring Systems
+- *IoT-Based Health Monitoring System*: Tracks heart rate and body temperature with real-time alerts but lacks integration into smart home ecosystems.
+
+## Research Gaps and Our Objective
+- *Use of Multiple Sensors*: Existing solutions lack comprehensive multi-sensor setups for intrusion detection.
+- *Integration Challenges*: There is a lack of integration between intrusion detection and health monitoring.
+- *Unified IoT Platforms*: Limited focus on creating unified IoT platforms for enhanced user convenience in smart homes.
+
+## Challenges
+- *Integration Complexity*: Combining intrusion detection and health monitoring is difficult due to limited resources.
+- *Real-Time Functionality*: Ensuring real-time performance across diverse IoT systems is challenging.
+- *Privacy and Security Concerns*: Addressing privacy and security issues related to sensitive health.
+- *Cost-Effectiveness*: Developing scalable, user-friendly, and cost-effective solutions.
+
+---
 
 ## Proposed Solution
+
+#### Relevance of Proposed Work 
 *The Integrated IoT-Based Smart Home System* will utilize a Raspberry Pi as the central controller. The system will integrate intrusion detection through motion sensors, health monitoring through wearable devices. A mobile app will provide a user-friendly interface for monitoring, control, and alerts.
 1. *Intrusion Detection:*
    - Motion sensors and cameras will detect unauthorized movements and send alerts to the homeowner's smartphone.
@@ -81,17 +84,31 @@ Current smart home solutions often lack integration, requiring multiple systems 
 2. *Health Monitoring:*
    - Sensors will monitor vital signs like heart rate, blood pressure, SpO2 in real-time,sugar levels, including basic health tracking(Body movement and Exercise)
 3. Colabrating with Teams workingon smart home(Smart light, motion detection, Air Quality, etc)
+   
+---
 
-## SDG
-*Sustainable Development Goals (SDG):*
-1. *Good Health and Well-Being (SDG 3):* The system promotes health monitoring  to improve well-being.
-2. *Sustainable Cities and Communities (SDG 11):* Enhances safety and smart living through integrated IoT solutions.
-3. *Industry, Innovation, and Infrastructure (SDG 9):* Encourages innovation in IoT for unified home systems.
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
+| SDG | Alignment |
+|:---|:----------|
+| Goal 3 - Good Health and Well-Being | The system promotes health monitoring  to improve well-being. |
+| Goal 9 - Industry, Innovation, and Infrastructure | Encourages innovation in IoT for unified home systems. |
+| Goal 11 - Sustainable Cities and Communities | Enhances safety and smart living through integrated IoT solutions. |
+
+
+### Collaboration 
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT# |  | 
+
+---
+
+
 
 ## References
-https://ieeexplore.ieee.org/abstract/document/8256877 
+- [K. C. Sahoo and U. C. Pati, **IoT based intrusion detection system using PIR sensor**,  __2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT), Bangalore_, India, 2017__](https://ieeexplore.ieee.org/abstract/document/8256877)
 
-https://www.researchgate.net/profile/Prajoona-Valsalan/publication/340665031_IOT_BASED_HEALTH_MONITORING_SYSTEM/links/5f60adb792851c078967a5f3/IOT-BASED-HEALTH-MONITORING-SYSTEM.pdf
-https://ieeexplore.ieee.org/abstract/document/8079564
+- [Valsalan, Prajoona & Tariq, Ahmed & Hussain, Ali. (2020). **IOT BASED HEALTH MONITORING SYSTEM.**  _Journal of Critical Reviews. 2020_](https://www.researchgate.net/profile/Prajoona-Valsalan/publication/340665031_IOT_BASED_HEALTH_MONITORING_SYSTEM/links/5f60adb792851c078967a5f3/IOT-BASED-HEALTH-MONITORING-SYSTEM.pdf)
+
+- [H. N. Saha et al., **Health monitoring using Internet of Things (IoT)*,  _2017 8th Annual Industrial Automation and Electromechanical Engineering Conference (IEMECON), Bangkok, Thailand, 2017_](https://ieeexplore.ieee.org/abstract/document/8079564)
 
 
