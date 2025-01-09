@@ -25,7 +25,7 @@ Design a smart waste management system that utilizes sensor-equipped waste bins 
 
 ---
 ### Literature Survey 
-- We have read two papers “IoT-Enabled Smart Waste Management: A Comprehensive Study on Sensor Technologies and Implementation Strategies” and "IoT-Enabled Intelligent Garbage Management System for Smart City: A Fairness Perspective", both are 2024 papers. Both propose solutions for a smart bin management and route optimization.
+- We have read two papers “IoT-Enabled Smart Waste Management: A Comprehensive Study on Sensor Technologies and Implementation Strategies” and "IoT-Enabled Intelligent Garbage Management System for Smart City: A Fairness Perspective". Both propose solutions for a smart bin management and route optimization.
 
 - Both the papers use the LoRa technology for communication as it is the most cost-effective and energy-efficient communication protocol for long-range data transmission. The other methods like GSM, WiFi and ZigBee were also mentioned, but, LoRa remains the best protocol for the proposed system due to its scalability, energy efficiency, and affordability. So we have decided on using the LoRa technology for communication.
 
@@ -40,11 +40,11 @@ Design a smart waste management system that utilizes sensor-equipped waste bins 
 The proposed solution involves the strategic deployment of LoRa gateways using optimization techniques to ensure efficient coverage and minimize congestion. The waste bins, equipped with sensors, transmit real-time data to the nearest gateways, which forward the information to a central server for processing. This server aggregates data on waste levels, bin locations, and fill status, analyzing it to determine the most efficient collection routes. While the specific algorithm for route optimization has yet to be finalized, the system will prioritize factors like distance, collection frequency, and waste volume to optimize efficiency. 
 
 ---
-### Sustainable Development Goals
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 | SDG | Alignment |
 |:---|:----------|
-| Goal 9 - Industry, Innovation, and Infrastructure |   |
-| Goal 11 - Sustainable Cities and Communities |  |
+| Goal 9 - Industry, Innovation, and Infrastructure | Promotes efficient waste management, reducing urban waste overflow, enhancing cleanliness, lowering carbon footprints, and leveraging data-driven insights to improve urban aesthetics and enables smarter waste management strategies. |
+| Goal 11 - Sustainable Cities and Communities | Leveraging IoT and analytics to modernize waste management, optimize collection processes, and enhance infrastructure efficiency, resilience, and cost-effectiveness. |
 
 ---
 ### References
