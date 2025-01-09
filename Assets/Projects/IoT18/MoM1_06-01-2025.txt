@@ -1,0 +1,16 @@
+# Minutes of Meeting [MoM]
+
+## Meeting Details
+- **Date:** [06-01-2025]
+- **Purpose:** [Discussion on enhancing our project Integrated Smart Home Intrusion Detection System]
+---
+
+## Discussion Points
+### Focusing on making a whole on Smart home
+- Collabrating with other teams also and integrating, there by contributing to make a smart home
+- **Action:** Collabrating with team#23, working on IoT-Based Smart Lighting System for Adaptive Brightness, Motion Detection, and Energy Conservation
+### Using of HoneyPot
+- Using HoneyPi for smart home network intrusion detection.
+- **Action:**Decided to include Honeypot in our project, understanding the working and implementation of Honeypot.
+- Removal of showing dietary Assistance in our project.
+- Adding required features in problem statement.
