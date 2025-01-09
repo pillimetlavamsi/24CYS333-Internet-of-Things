@@ -44,6 +44,8 @@ Hardware Requirements
 | LED indicators             | Offers a simple and clear visual cue for the lock's status.                                      |
 | Breadboard and Jump Wires  |  Allows prototyping by connecting components without soldering.                                  |
 
+
+
 ### SDG 
 - **SDG 7:** - Ensure access to affordable, reliable, sustainable and modern energy for all
 - **SDG 9:** - Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
@@ -58,6 +60,11 @@ Hardware Requirements
 - Sustainability 
 - Cost Efficiency 
 - Scalability
+
+### Collaboration 
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT#08 | Theft Detection System | 
 
 References
 ---------------
