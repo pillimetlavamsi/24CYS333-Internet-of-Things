@@ -53,6 +53,8 @@ Healthier crops lead to higher quality and safer food, preventing health risks a
 
 Reference:
 
-Nadumani, P. G *IoT Based Crop Disease Detection* [GitHub repository]. [GitHub repository](https://github.com/PraveenGirishNadumani/iotBasedCropDiseaseDetection/tree/master)
+Praveen Girish Nadumani,Shashidhar Dodamani [2019] IoT Based Crop Disease Detection . RV College of Engineering [GitHub repository](https://github.com/PraveenGirishNadumani/iotBasedCropDiseaseDetection/tree/master)
+
+Apeksha Gawande ,  Swati S. Sherekar (2023). Analysis of crop diseases using IoT and machine learning approaches. matoshri college of engineering [ResearchGate](https://www.researchgate.net/publication/370422006_Analysis_of_Crop_Diseases_Using_IoT_and_Machine_Learning_Approaches)
 
 
