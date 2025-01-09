@@ -53,5 +53,6 @@ Healthier crops lead to higher quality and safer food, preventing health risks a
 
 Reference:
 
-https://github.com/PraveenGirishNadumani/iotBasedCropDiseaseDetection/tree/master
+Nadumani, P. G *IoT Based Crop Disease Detection* [GitHub repository]. [GitHub repository](https://github.com/PraveenGirishNadumani/iotBasedCropDiseaseDetection/tree/master)
+
 
