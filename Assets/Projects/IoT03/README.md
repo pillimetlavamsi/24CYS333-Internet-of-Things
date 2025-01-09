@@ -5,12 +5,11 @@
 
 ## IoT#03 - Real Time Water Contaminant Monitoring System for Drinking Water
 
-| Members | 
-|:-------:|
-| Agil Prasanna P | 
-| Amal Ritessh A P | 
-| Ananth R |
+![](https://img.shields.io/badge/Member-Agil_Prasanna_P-gold)  ![](https://img.shields.io/badge/Member-Amal_Ritessh_A_P-gold)  ![](https://img.shields.io/badge/Member-Ananth_R-gold) <br/> 
+![](https://img.shields.io/badge/SDG-6-darkgreen) ![](https://img.shields.io/badge/SDG-3-darkgreen) <br/>
+![](https://img.shields.io/badge/Reviewed--brown)
 
+---
 ### Problem Statement
  Ensuring the safety and quality of water is critical for public health and environmental sustainability. Traditional water testing methods are slow and lack real-time insights, making it difficult to address contamination promptly.
 
@@ -18,9 +17,11 @@
 
  By leveraging advanced sensors, data analytics, and cloud connectivity, the system will track parameters such as pH, turbidity, and contaminant levels, providing instant alerts on water quality issues. This enables proactive interventions to ensure safety, improve resource management, and maintain compliance with health and environmental standards across various applications.
 
+---
  ### Literature Survey
  Existing IoT-based water quality monitoring systems typically focus on basic parameters like pH and TDS, using microcontrollers such as Arduino or ESP32 for real-time data transmission and platforms like ThingSpeak for visualization. However, they lack advanced analytics, monitor limited parameters, face scalability and energy efficiency challenges, and often neglect IoT security. Our project addresses these gaps by integrating predictive analytics to provide early warnings for contamination, expanding monitoring to include microbial content, heavy metals, and agricultural contaminants like nitrates and phosphates. Additionally, we aim to design scalable, energy-efficient solutions, such as solar-powered systems, suitable for diverse applications like drinking water, household systems, public water tanks, and agriculture. Robust IoT security measures will also ensure secure data transmission.
 
+---
  ### Hardwares Required
 1. Gravity: Analog pH Sensor/Meter Kit V2.
 2. Gravity: Analog Turbidity Sensor for Arduino.
@@ -31,6 +32,7 @@
 7. Ammonia Sensor.
 8. Nitrate and Nitrite Sensor.
 
+---
  ### Proposed Solution
 - The proposed system utilizes IoT-enabled sensors to continuously monitor pH levels
 and contaminant concentrations in real time.
@@ -40,6 +42,7 @@ algorithms identify anomalies and provide actionable insights.
 interventions. This solution ensures efficient water quality management, promotes
 public health safety, and meets regulatory compliance.
 
+---
  ### Sustainable Development Goals
 - SDG 6: Clean Water and Sanitation 
   - Ensuring access to safe and clean drinking water is a core aspect 
@@ -52,6 +55,14 @@ diseases, thus promoting good health and reducing mortality
 rates. This IoT-based solution supports public health initiatives 
 by minimizing risks associated with unsafe water.
 
+---
+### Collaboration 
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT#10 | Water Contaminant Monitoring for Home Plantation System | 
+| IoT#12 | Water Contaminant Monitoring for Borewell |
+
+---
  ### References
  - [Real Time Monitoring System of Drinking Water Quality Using Internet 
 of Things](https://www.semanticscholar.org/paper/Intelligent-IoT-Based-Real-Time-Water-Quality-and-Mathew-Chacko/ecf8559959f6024698a123bbe1ba9f4d7f6e8037) - Zainul Abidin, Eka Maulana, Muhammad Yogi Nurrohman, 
