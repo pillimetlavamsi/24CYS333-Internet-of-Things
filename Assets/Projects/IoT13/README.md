@@ -19,9 +19,11 @@ The supply chain management of milk faces significant challenges in ensuring tra
 | Components      | Purpose | 
 |:-----------------|:-------| 
 | ESP32 Board             |  |
-| PIR Motion sensor(HC-SR501  | |
-| DHT11 (Temperature/Humidity)|  |
+| PIR Motion sensor(HC-SR501)  | |
+| DHT22 (Temperature/Humidity)|  |
 | GPS Module (NEO-6M)    |    |
+| GSM Module (SIM7600)    |    |
+| Breadboard and Jump Wires    |    |
 
 ### Software Requirements
 - TBD
