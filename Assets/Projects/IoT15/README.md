@@ -3,19 +3,10 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#05 - Smart Blood Bank Management System  
-![](https://img.shields.io/badge/Member-vsatayasidhartha-gold) ![](https://img.shields.io/badge/Member-jeesh27-gold) ![](https://img.shields.io/badge/Member-Harshith1201-gold) <br/> 
+## IoT#15 - Smart Blood Bank Management System  
+![](https://img.shields.io/badge/Member-vsatayasiddardha-gold) ![](https://img.shields.io/badge/Member-jeesh27-gold) ![](https://img.shields.io/badge/Member-Harshith1201-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen)<br/>
 ![](https://img.shields.io/badge/Reviewed-02nd_Jan_2025-brown)
-
---------------
-## Team Members
-
-| Name                     | Roll Number          |
-|--------------------------|----------------------|
-| Harshith Gangisetty      | CB.EN.U4CYS22027     | 
-| Karri Jeeshitha          | CB.EN.U4CYS22032     | 
-| Vajjula Satya Siddardha  | CB.EN.U4CYS22063     | 
 
 ---------------
 
