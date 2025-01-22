@@ -16,13 +16,13 @@ Design a smart waste management system that utilizes sensor-equipped waste bins 
 ---
 ### Hardware Requirements
 
-| Hardware |  Name  | 
-|:-----|:--------:|
-| Ultrasonic sensors   | HC-SR04 | 
-| Weight Sensors   |  Load Cells  |  
-| Microcontroller   | Arduino MKR WiFi 1010 | 
-| Power Supply | LiPo Battery |
-| Indicators | LED Indicators (Red, yellow and green) |
+| Hardware |  Name  | Purpose |
+|:-----|:--------:|:--------:|
+| Ultrasonic sensors   | HC-SR04 | Measures the real-time waste levels in the bin by detecting the distance between the sensor and the waste.
+| Weight Sensors   |  Load Cells  | Measures the total weight of the waste in the bin, offering an additional parameter to complement the ultrasonic sensor readings.
+| Microcontroller   | Arduino MKR WiFi 1010 | Processes sensor data, manages power, and communicates with a central server or cloud platform using its WiFi capabilities.
+| Power Supply | LiPo Battery | Provides a reliable and portable power source for the sensors and microcontroller, especially in outdoor or remote locations.
+| Indicators | LED Indicators (Red, yellow and green) |Provide a simple, visual indication of the bin's status for nearby users or waste collectors.
 
 ---
 ### Literature Survey 
