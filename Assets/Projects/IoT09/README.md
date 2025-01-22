@@ -5,18 +5,14 @@
 
 ## IoT#09  - Smart Bike Sharing System with IoT Integration for Tracking and Maintenance
 
-Team Members
-----------------
-| Name   | Roll Number | 
-|----------------|--------------------|
-| B M Sai Sathvik | CB.EN.U4CYS22013| 
-|    Gunateet Dev | CB.EN.U4CYS22025| 
-|        Vishal S | CB.EN.U4CYS22075|
+![](https://img.shields.io/badge/Member-B_M_Sai_Sathvik-gold)  ![](https://img.shields.io/badge/Member-Gunateet_Dev-gold)  ![](https://img.shields.io/badge/Member-Vishal_S-gold) <br/> 
+![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
 
 
+---
 
-Problem Statement
--------------------
+### Problem Statement
+
 Urban transportation faces significant challenges, including congestion,
  environmental concerns, and inefficient bike sharing systems. Traditional
  bike-sharing setups often lack smart features like seamless payment, real-time
@@ -30,32 +26,26 @@ Urban transportation faces significant challenges, including congestion,
  A GPS module will enable real-time tracking, allowing users and administrators to
  monitor the bike’s location for safety and efficient management.
 
-Hardware Requirements
--------------------------
+ ---
+
+### Hardware Requirements
+
 
 | Component                  | Functionality                                                                                    |
 |----------------------------|--------------------------------------------------------------------------------------------------|  
 | ESP 32 Micro controller    | Core control unit to handle logic.                                                               |
-| Servo Motor                | Simulates the physical lock/unlock mechanism.                                                    |
+| Servo Motor                | Simulates the lock/unlock mechanism for the bike-sharing system.                                 |
 | GPS Module (NEO-6M)        | Tracks the bike's location in real time and enables location based features.                     |
-| OLED/LED Display Panel     | Shows status messages (e.g., "Unlocked")                                                         |
-| Buzzer                     | Audio feedback for lock/unlock status                                                            |
+| OLED/LED Display Panel     | Displays the range of the vehicle and system status for additional user feedback.                |
+| Buzzer                     | Provides audio feedback for alerts like successful payment, unlocking, or unauthorized access.   |
 | Power Supply (Battery)     | Ensures portability and uninterrupted power supply to the system.                                |
-| LED indicators             | Offers a simple and clear visual cue for the lock's status.                                      |
-| Breadboard and Jump Wires  |  Allows prototyping by connecting components without soldering.                                  |
+| LED indicators             | Visual indicators for system statuses such as power, lock status, payment success, or errors.    |
+| Breadboard and Jump Wires  | Allow easy connections for assembling and testing components.                                    |
 
-Key Features
---------------
-- Real-Time Bike Tracking 
-- Decentralized Accessibility 
-- Maintenance Automation 
-- Enhanced User Experience (reservations, smart locks, payment integration, real-time availability updates) 
-- Sustainability 
-- Cost Efficiency 
-- Scalability
+---
 
-Literature Survey  
---------------
+
+### Literature Survey  
 
 #### Existing Solutions  
 Current systems addressing secure bike-sharing, tracking, and theft prevention include:  
@@ -68,8 +58,18 @@ Current systems addressing secure bike-sharing, tracking, and theft prevention i
 - **Integrated Theft Detection and Prevention:** Although the present systems are not perfect, theft prevention models that use a combination of accelerometers and geofencing to predict unauthorized movement are not available at present.
 - **Real-Time Tracking and Alerts:** Existing solutions inadequately use IoT and GPS for immediate alerts, live status updates and remote control, hindering effective fleet and security management.
 
-Mapping the Project to Relevant Sustainable Development Goals (SDGs)
---------------
+---
+
+### Key Features
+- Real-Time Bike Tracking 
+- Decentralized Accessibility 
+- Maintenance Automation 
+- Enhanced User Experience (reservations, smart locks, payment integration, real-time availability updates) 
+- Sustainability 
+- Cost Efficiency 
+- Scalability
+---
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 | SDG                                      | Alignment                                                                                                                                                 |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Goal 7 - Affordable and Clean Energy     | Supports energy-efficient transportation systems, especially when integrated with electric bikes powered by renewable energy sources. |
@@ -83,10 +83,10 @@ Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 |:----:|:---------------|
 | IoT#08 | Theft Detection System | 
 
+---
+### References
 
-References
---------------
-- Fauzan Adhi Rachman, Aji Gautama Putrada, Maman Abdurohman (2018). **Distributed Campus Bike Sharing System Based-on Internet of Things (IoT)**. _6th International Conference on Information and Communication Technology (ICoICT), Bandung, Indonesia_, 03–05 May 2018, 2–7.
+- Rachman, F. A., Putrada, A. G., & Abdurohman, M. (2018, May). **Distributed campus bike sharing system based-on internet of things (IoT)**. _In 2018 6th International Conference on Information and Communication Technology (ICoICT)_ (pp. 333-336). IEEE.
   
-- M. A. Razzaque and S. Clarke, **Smart management of next generation bike sharing systems using Internet of Things** _2015 IEEE First International Smart Cities Conference (ISC2), Guadalajara, Mexico_, 2015, pp. 1-6.
+- Razzaque, M. A., & Clarke, S. (2015, October). **Smart management of next generation bike sharing systems using Internet of Things**. _In 2015 IEEE First International Smart Cities Conference (ISC2)_ (pp. 1-8). IEEE.
 
