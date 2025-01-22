@@ -18,9 +18,10 @@ Traditional power grids lack real-time optimization, leading to over-reliance on
 
 | Components               | Purpose                                                                                          |
 |:-------------------------|:-------------------------------------------------------------------------------------------------|
-| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
+| ESP32 Board                | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
 | Power Supply (Battery)     | Ensures portability and uninterrupted power supply to the system.                                |
-| INA219 Module            | Measures voltage, current, and power accurately, suitable for small loads like LEDs.             |
+| INA219 Module              | Measures voltage, current, and power accurately, suitable for small loads like LEDs.             |
+| CD74HC4067 Module          | Multiplexer to route multiple analog signals to a single measurement device (INA219) |
 | LED indicators             | Used as energy-consuming devices to demonstrate real-time energy monitoring |
 | Breadboard and Jump Wires  | Allow easy connections for assembling and testing components.                                    |
 
