@@ -5,11 +5,8 @@
 
 ## IoT#08 - Smart Vehicle Theft Detection System Using GPS
 
-| Team members        |
-| ------------------- |
-| Rahul Shankar V     |
-| Aadhithya Sivakumar |
-| Hamsini G |
+![](https://img.shields.io/badge/Member-Aadhithya_Sivakumar-gold)  ![](https://img.shields.io/badge/Member-Hamsini_G-gold)  ![](https://img.shields.io/badge/Member-Rahul_Shankar_V-gold) <br/> 
+![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-16-darkgreen) <br/>
 
 ---
 ### Problem Statement
@@ -17,18 +14,16 @@ Addressing the issue of wide-spread vehicle theft, by implementing a tamperproof
 
 ---
 ### Hardware Requirements
-- Raspberry PI Pico Rp2040
-- Accelerometer/Gyroscope: MPU6050
-- GPS module: Neo-6M GPS or NEO-M8N
-- 5V Single Channel Relay Module
-- Motors for blocking movement
-- GSM Module SIM800L
-- rechargeable battery pack.
-- Buzzer/Alarm
-- R 307 fingerprint module
-- Switches
-- Bread board
-- LEDs
+
+| Components               | Purpose                                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| R 307 fingerprint module | Biometric verification of owner via fingerprint recognition |
+| Alarm/Buzzer | Alerting the surrounding populace |
+| MPU6050 Accelerometer | To detect sudden unexpected movement of the car |
+| Neo-6M GPS module | Geofencing and Geolocation features |
+| Rechargeble Battery | Active monitoring even when the car is off |
+| SIM800L GSM module | Enable communication using cellular network |
+
 ---
 ### Literature Survey  
 #### Existing Solutions: 
@@ -56,9 +51,7 @@ The aim of the proposed solution is to have a system that detects unauthorized e
 * The fingerprint scanner fails and raises alarm.
 * An SoS is sent to the phone and its live location is transmitted via the GPS.
 * The owner can then inform the police who can track the car.
-* At the opportune moment, the owner can disable the engine motors and activate the defense system.
-* A panel in the dashboard opens, revealing a 6 shot rubber ball launcher(paintball launcher) that can incapacitate the intruder.
-* The owner can be assured that his car is safe.
+* At the opportune moment, the owner can disable the engine motors and activate the alarm system.
 ##### Case 3 (Carjacking):
 * The intruder decides to take the car by using some sort of car dragging mechanism so that he steal the car without driving it.
 * The accelerometer in the car detects this movement and immediately sounds the alarm and sends SoS to the owners phone number.
@@ -76,7 +69,6 @@ The aim of the proposed solution is to have a system that detects unauthorized e
 | Goal 9 - Industry, Innovation, and Infrastructure | Giving the owner  knowledge of the cars whereabouts and control to turn off specific functionalities when the owner deems appropriate |
 | Goal 16 - Peace, Justice and Strong Institutions  | Enhancing security and recovery of vehicles to ensure stolen vehicles are recovered                                                   |
 
----
 ### Collaboration 
 | Team   | Module & Scope                                                              |
 | ------ | --------------------------------------------------------------------------- |
@@ -84,6 +76,6 @@ The aim of the proposed solution is to have a system that detects unauthorized e
 
 ---
 ### References  
-- PV Crisgar, PR Wijaya, MDF Pakpahan (2021): **GPS-based vehicle tracking and theft detection systems using Google Cloud IoT core firebase** 
-- M Shaikh, M Shah, KE Momin (2018):  **GPSandGSMbasedanti-theft vehicle system** 
-- M Sathiyanarayanan, S Mahendra (2018): **Smartsecurity system for vehicles using internet of things (IOT)**
+- Crisgar, P. V., Wijaya, P. R., Pakpahan, M. D., Syamsuddin, E. Y., & Hasanuddin, M. O. (2021, June). **GPS-based vehicle tracking and theft detection systems using Google Cloud IoT core & Firebase**. _In 2021 International Symposium on Electronics and Smart Devices (ISESD) (pp. 1-6). IEEE._
+- Maurya, K., Singh, M., & Jain, N. (2012). **Real time vehicle tracking system using GSM and GPS technology-an anti-theft tracking system**. _International Journal of Electronics and Computer Science Engineering, 1(3)_, 1103-1107.
+- Sathiyanarayanan, M., Mahendra, S., & Vasu, R. B. (2018, August). **Smart security system for vehicles using internet of things (IoT)**. _In 2018 Second International Conference on Green Computing and Internet of Things (ICGCIoT)_ (pp. 430-435). IEEE.
