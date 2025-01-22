@@ -185,14 +185,8 @@ This solution ensures timely emergency response, optimized navigation, and impro
 | IoT#07 |  Real-Time IoT-Driven Public Transport Scheduling and Tracking System |
 -----
 ### *References*  
-1. Dumka, A., & Sah, V. (2021). Smart Ambulance System Using Big Data Concepts for Emergency Services. Semantic Scholar.  
-   [Link to Paper](https://www.semanticscholar.org/paper/Smart-ambulance-system-using-concept-of-big-data-of-Dumka-Sah/f8d90dd982d682e539f8a320a929b847cfd28905)  
+1. Dumka, A., & Sah, A. (2019). **Smart ambulance system using concept of big data and internet of things**. _In Healthcare data analytics and management_ (pp. 155-176). Academic Press.
 
-2. Sharma, K., & Verma, P. (2022). IoT-Based Intelligent Ambulance Monitoring and Traffic Control System. ResearchGate.  
-   [Link to Paper](https://www.researchgate.net/publication/349430654_IoT_Based_Intelligent_Ambulance_Monitoring_and_Traffic_Control_System/references)  
+2. Godwin, J. J., Krishna, B. S., Rajeshwari, R., Sushmitha, P., & Yamini, M. (2021). **IoT based intelligent ambulance monitoring and traffic control system.** _Further Advances in Internet of Things in Biomedical and Cyber Physical Systems_, 269-278.  
 
-3. Smith, J., & Johnson, D. (2020). Emergency Response Systems: A Review. IJCRT.  
-   [Link to Paper](https://ijcrt.org/papers/IJCRT24A3077.pdf)  
-
-4. Miller, R., & Clark, E. (2019). IoT Solutions for Emergency Services. Semantic Scholar.  
-   [Link to Paper](https://pdfs.semanticscholar.org/6ac5/90852b41df9dfb507daa7988d76f9a8ad73e.pdf)
+3. Sakthidevi, I., Megha, S.,Hindhu Shree, G.,ABARNA, U.,Ruba, V., **IOT Smart Ambulance: Revolutionizing Emergency Response & Patient Care**, _International Journal of Creative Research Thoughts (IJCRT)_, ISSN:2320-2882, Volume.12, Issue 3
