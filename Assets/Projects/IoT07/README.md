@@ -68,6 +68,6 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ---
 
 ### References  
-- Habadi, A. A., & AbuAbdullah, Y. S. (2018, April). **Intelligent safety school buses system using RFID and carbon dioxide detection**. In 2018 1st International Conference on Computer Applications & Information Security (ICCAIS) (pp. 1-7). IEEE.
+- Habadi, A. A., & AbuAbdullah, Y. S. (2018, April). **Intelligent safety school buses system using RFID and carbon dioxide detection**. _In 2018 1st International Conference on Computer Applications & Information Security_(ICCAIS) (pp. 1-7). IEEE.
 
-- Leeza Singla, Dr Parteek Bhatia "GPS Based Bus Tracking System" IEEE International Conference on Computer, Communication and Control (IC4-2015).
+- Singla, L., & Bhatia, P. (2015, September). **GPS based bus tracking system**. _In 2015 International Conference on Computer, Communication and Control_ (IC4) (pp. 1-6). IEEE.
