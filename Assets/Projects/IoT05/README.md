@@ -16,16 +16,16 @@ Passenger safety in public transportation, especially for women, remains a signi
 ---
 
 ### Hardware
-| Component                  | Description                       |
-|----------------------------|-----------------------------------|
-| *Microcontroller/Development Board* | Arduino Uno or Arduino Mega |
-| *GPS Module*              | NEO-6M GPS Module                |
-| *Communication Module*    | GSM/GPRS Module                  |
-| *Both for Communication and Microcontroller* | ESP32               |
-| *Speed Sensor*            | Reed Switch or Hall Effect Sensor|
-| *Alert Button*            | Push Button                      |
-| *Power Supply*            | Li-ion Battery Pack or Vehicle Power Adapter |
-| *Accelerometer/Gyroscope* | MPU6050                          |
+| Component                  | Specification                     |Purpose                            |
+|----------------------------|-----------------------------------|-----------------------------------|
+| Microcontroller/Development Board | Arduino Uno or Arduino Mega |Acts as the central control unit to process data and manage communication between components.|
+| GPS Module              | NEO-6M GPS Module                |Tracks the real-time location of the vehicle to ensure passenger safety through monitoring or emergency response.|
+| Communication Module    | GSM/GPRS Module                  |Enables data transmission to a remote server or mobile devices for alerts and updates.|
+| Both for Communication and Microcontroller | ESP32               |Combines wireless communication (Wi-Fi/Bluetooth) and microcontroller functionality for data handling and connectivity.|
+| Speed Sensor            | Reed Switch or Hall Effect Sensor|Monitors the vehicle’s speed to detect overspeeding or potential accidents.|
+| Alert Button            | Push Button                      |Allows passengers to manually send emergency alerts in case of danger or mishaps.|
+| Power Supply            | Li-ion Battery Pack or Vehicle Power Adapter |Provides necessary power to the entire system for uninterrupted operation.|
+| Accelerometer/Gyroscope | MPU6050                          |Detects sudden movements, tilts, or collisions to identify accidents or unsafe driving patterns.|
 
 ---
 
@@ -53,8 +53,8 @@ Passenger safety in public transportation, especially for women, remains a signi
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 | SDG | Alignment |
 |:---|:----------|
-| Goal 9 - Industry, Innovation, and Infrastructure |   |
-| Goal 11 - Sustainable cities and communities |  |
+| Goal 9 - Industry, Innovation, and Infrastructure | Innovate passenger safety systems, enhancing transportation infrastructure. |
+| Goal 11 - Sustainable cities and communities | Supports creating safer, smarter transport solutions, promoting sustainable and resilient urban mobility. |
 
 ### Collaboration
 | Team | Module & Scope |
@@ -64,8 +64,9 @@ Passenger safety in public transportation, especially for women, remains a signi
 ---
 
 ### References
-- Hataitara, R., Piyathamrongchai, K., & Choosumrong, S. (2024). Development of an emergency notification system to analyze the access route for emergency medical services using Geo-IoT and pgRouting. *Applied Geomatics, 16*(2), 441–449. [https://doi.org/10.1007/s12518-024-00557-8](https://doi.org/10.1007/s12518-024-00557-8)
-- Design of an IoT-Enabled Smart Safety Device. (2022b, November 19). *IEEE Conference Publication | IEEE Xplore.* [https://ieeexplore.ieee.org/abstract/document/10088332](https://ieeexplore.ieee.org/abstract/document/10088332)
+- Hataitara, R., Piyathamrongchai, K., & Choosumrong, S. (2024). __Development of an emergency notification system to analyze the access route for emergency medical services using Geo-IoT and pgRouting.__ *Applied Geomatics, 16*(2), 441–449. [https://doi.org/10.1007/s12518-024-00557-8](https://doi.org/10.1007/s12518-024-00557-8)
+- Yakaiah, P., Bhavani, P., Kumar, B., Masireddy, S., & Elari, P. (2022, November 19). __Design of an IoT-enabled smart safety device.__ *IEEE Conference Publication.* 
+ [https://ieeexplore.ieee.org/abstract/document/10088332](https://ieeexplore.ieee.org/abstract/document/10088332)
 
 
 
