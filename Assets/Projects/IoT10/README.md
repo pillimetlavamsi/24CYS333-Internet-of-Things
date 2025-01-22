@@ -5,106 +5,68 @@
 
 ## IoT#10 -  IoT-Enabled Smart Home Plantation System
 
+![](https://img.shields.io/badge/Member-B_Prem_Kumar-gold)  ![](https://img.shields.io/badge/Member-S_Mohana_Vamsi-gold)  ![](https://img.shields.io/badge/Member-Sree_Sharvesh_S_S-gold) <br/> 
+![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-15-darkgreen)<br/>
+![](https://img.shields.io/badge/Reviewed-08th_Jan_2025-brown) 
 
-### Project Overview
-The **IoT-Enabled Smart Home Plantation System** aims to provide an automated and efficient solution for maintaining home plants. This system leverages IoT technologies to monitor environmental conditions, ensure optimal plant health, and reduce manual intervention.
-
+---
 ### Problem Statement
 Maintaining healthy plants at home can be challenging, especially for individuals with busy schedules or limited knowledge of plant care. Irregular watering, unsuitable temperature or humidity levels, and inadequate sunlight often lead to poor plant health or even plant death. Manual monitoring of these parameters can be time-consuming and error-prone.
 
 This project addresses these issues by creating an IoT-based solution that automates the process of monitoring and caring for plants. By integrating sensors and actuators, the system ensures plants receive the optimal amount of water, light, and suitable environmental conditions, making plant care efficient and hassle-free.
 
-### SDG 
-- **SDG 11: Sustainable Cities and Communities** - Encourages urban households to adopt green practices, contributing to more sustainable and livable cities.
-- **SDG 12: Responsible Consumption and Production** - Encourages efficient resource use (e.g., water and energy).
-- **SDG 15: Life on Land** - Supports biodiversity and sustainable ecosystems through improved plant care.
-
-### Key Features
-- **Automated Watering**: Uses a soil moisture sensor and mini water pump to maintain ideal soil moisture levels.
-- **Environmental Monitoring**: Tracks temperature, humidity, and light levels using DHT11 and LDR sensors.
-- **Real-Time Feedback**: Displays data on an LCD screen for easy monitoring.
-- **Energy Efficiency**: Powered by a LIPO battery-based system for portability and efficiency.
-- **Custom Alerts**: LEDs indicate the need for user intervention, such as low water levels or inadequate sunlight.
-
 ---
-
-## Hardware Requirements
-
-| Component                | Function                                            |
+### Hardware Requirements  
+| Component                | Purpose                                            |
 |--------------------------|----------------------------------------------------|
-| **ESP32 Microcontroller** | Built-in WiFi for connectivity and system control  |
-| **Soil Moisture Sensor** | Monitors soil moisture levels                      |
-| **Mini Water Pump**      | Provides water to plants (3-6V)                    |
-| **LCD Screen**           | Displays real-time sensor data                     |
+| **ESP32 Microcontroller** | Provides computation power and connectivity       |
+| **Soil Moisture Sensor** | To Monitor the soil moisture levels                |
+| **Mini Water Pump**      | Pumps Water to the plants when necessary           |
+| **LCD Screen**           | Provides Feedback to the user                      |
 | **Light Dependent Resistor (LDR)** | Measures ambient light for optimal plant growth |
-| **DHT11 Sensor**         | Monitors temperature and humidity                  |
+| **DHT11 Sensor**         | Monitors temperature and humidity of the surroundings     |
 | **LEDs**                 | Indicates system status and alerts                 |
 | **LIPO Battery**         | Powers the system                                  |
 | **Breadboard and Jumper Wires** | Facilitates prototyping and connections          |
 
 ---
+### Literacy Survey
 
-## System Workflow
-1. **Initialization**: The ESP32 initializes all sensors and sets up the Wi-Fi connection.
-2. **Data Collection**: 
-   - Soil moisture sensor checks the water level.
-   - LDR measures ambient light intensity.
-   - DHT11 monitors temperature and humidity.
-3. **Data Processing**:
-   - ESP32 processes the sensor data to determine required actions.
-   - Displays data on the LCD.
-4. **Automation**:
-   - Activates the water pump if soil moisture is below a threshold.
-   - Alerts the user via LEDs if sunlight or temperature conditions are suboptimal.
-5. **Real-Time Updates**: The system continuously monitors and adjusts based on changing conditions.
+#### Exsisting Solutions
+- Existing IoT systems monitor environmental parameters like temperature, humidity, and soil moisture for real-time plant condition tracking.
+- Some systems assess plant health based on leaf conditions, enhancing monitoring capabilities.
+- Many lack advanced features such as predictive watering and automation tailored to plant-specific needs.
+- Energy efficiency and portability are often overlooked in current solutions.
+- Certain systems emphasize niche aspects like plant-emitted gases or security features, which can complicate core functionalities.
+
+#### Research Gaps
+- Lack of integration with mobile applications for real-time remote monitoring and control.
+- Limited focus on energy efficiency and portability, which are critical for practical deployment.
+- Absence of AI-based predictive analytics for customized watering and lighting schedules.
+- Insufficient adaptability to diverse plant species with varying environmental requirements.
+---
+### Proposed Solution
+
+The system automates plant care using an ESP32 microcontroller with soil moisture, DHT11, and LDR sensors for environmental monitoring. It activates a water pump when soil moisture is low, displays real-time data on an LCD, and uses LEDs for alerts (e.g., low water levels or inadequate sunlight). Powered by a LIPO battery, it ensures portability and energy efficiency. Setup involves assembling hardware, configuring Wi-Fi, and uploading code. Future enhancements include mobile app integration, AI-driven schedules, and support for diverse plant species.  
 
 ---
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
+| SDG                                      | Alignment                                                                                                         |
+|:-----------------------------------------|:------------------------------------------------------------------------------------------------------------------|
+| Goal 11 - Sustainable Cities and Communities | Encourages urban households to adopt green practices, contributing to more sustainable and livable cities.    |
+| Goal 12 - Responsible Consumption and Production     | Encourages efficient resource use (e.g., water and energy).                                           |
+| Goal 15 - Life on Land                               | Supports biodiversity and sustainable ecosystems through improved plant care.                         |
 
-## Installation and Setup
-### 1. Hardware Assembly
-- Connect all sensors and components to the ESP32 microcontroller as per the circuit diagram.
-- Mount the mini water pump and tubing securely for efficient water flow.
-
-### 2. Software Setup
-- Install the Arduino IDE and ESP32 board drivers.
-- Download the project code from the repository.
-- Configure the Wi-Fi credentials in the code.
-- Upload the code to the ESP32.
-
-### 3. Powering the System
-- Use a fully charged LIPO battery to power the system.
-- Ensure all connections are stable to avoid disruptions.
-
+### Collaboration 
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT#03 | Real Time Water Contaminant Monitoring System for Drinking Water |
+| IoT#12 | Water Contaminant Monitoring for Borewell |
 ---
-
-## Future Scope
-- Integration with mobile apps for remote monitoring and control.
-- Adding AI-based predictive watering and lighting schedules.
-- Expansion to support multiple plant species with specific requirements.
-
----
-
 ### References
 
-1. **Novel IoT-Based Plant Monitoring System**   
-   *Journal:* MDPI Proceedings  
-   *DOI:* [10.1234/mdpi.iotpms](https://www.mdpi.com/2673-4591/32/1/12?utm_source=chatgpt.com)  
-   This paper presents an intelligent system that remotely provides users with information related to temperature, humidity, and soil moisture for monitoring plant conditions using IoT technologies.
+- Absar, M. H., Mirza, G. F., Zakai, W., John, Y., & Mansoor, N. (2023). **Novel IoT-based plant monitoring system.** _Engineering Proceedings, 32(1), 12_
 
-2. **IoT Smart Plant Monitoring, Watering and Security System**  
-   *Platform:* arXiv  
-   *Link:* [arXiv:2202.08153](https://arxiv.org/abs/2202.08153?utm_source=chatgpt.com)  
-   This study focuses on developing an automated system capable of identifying plant health based on leaf conditions and includes features for automated watering and security.
+- Ariyaratne, U. H. D., Vitharana, V., Deelaka, L. H., & Herath, H. M. (2022). **IoT Smart Plant Monitoring, Watering and Security System.** _arXiv preprint arXiv:2202.08153._
 
-3. **Design of An IoT-Based Smart Plant Monitoring System**  
-   *Conference:* IEEE  
-   *DOI:* [10.1234/ieee.iotpms](https://ieeexplore.ieee.org/document/9791690/?utm_source=chatgpt.com)  
-   This research discusses an IoT-based system that measures environmental parameters and gases produced by plants to provide insights into their health for optimal care.
-
----
-
-### Team Members
-- **B Prem Kumar** - CB.EN.U4CYS22014
-- **S Mohana Vamsi** - CB.EN.U4CYS22057
-- **Sree Sharvesh SS** - CB.EN.U4CYS22061
----
+- Rane, A., Vidhale, B., Kale, P. H., & Khekare, G. (2022, April). **Design of an IoT based smart plant monitoring system.** _In 2022 10th International conference on emerging trends in engineering and technology-signal and information processing (ICETET-SIP-22) (pp. 1-5). IEEE._
