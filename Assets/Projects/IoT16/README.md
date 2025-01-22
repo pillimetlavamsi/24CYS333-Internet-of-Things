@@ -31,7 +31,8 @@ Hardware Requirements:
 2. Sensors :  
    - Temperature Sensor (e.g., LM35, DHT22): Monitors ambient temperature.  
    - Humidity Sensor (e.g., DHT22): Measures air moisture levels.  
-   - Color Sensor (e.g., TCS3200): Detects variations in leaf color, which can indicate diseases.  
+   - Color Sensor (e.g., TCS3200): Detects variations in leaf color, which can indicate diseases.
+   - Lesf Wetness Sensor(e.g., LWS-02):Identifies water presence on leaves
 3. Wi-Fi Module (e.g., ESP8266 or ESP32): Enables data transmission to a server or cloud platform.  
 4. Battery:  Rechargeable lithium-ion battery or any suitable power source to ensure uninterrupted operation.  
 
