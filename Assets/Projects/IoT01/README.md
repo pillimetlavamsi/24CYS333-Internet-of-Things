@@ -3,12 +3,12 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#01 IoT-Driven Smart Ambulance System for Real-Time Traffic Management and Emergency Response Optimization
+## IoT#01 - IoT-Driven Smart Ambulance System for Real-Time Traffic Management and Emergency Response Optimization
 
 ![](https://img.shields.io/badge/Member-Adarsh_R_K-gold) ![](https://img.shields.io/badge/Member-Namitha_Sudhishkumar_Nair-gold) ![](https://img.shields.io/badge/Member-Anagh_Shaji-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/> 
 
----
+------
 
 ### *Problem Statement*  
 Emergency ambulances face delays due to traffic congestion and lack of efficient communication with hospitals and traffic systems, impacting patient outcomes. This project aims to design an IoT-based Smart Ambulance System for optimized routing, real-time traffic management, and seamless communication with hospitals.
@@ -22,8 +22,9 @@ To develop a Smart Ambulance System using IoT technologies to:
 *Impact and Metrics:*  
 - Reduce average ambulance response time by *20%*.  
 - Improve patient survival rates in emergencies by *15%*.  
-- Enhance the efficiency of emergency medical services while ensuring data security and scalability.  
-
+- Enhance the efficiency of emergency medical services while ensuring data security and scalability.
+   
+-----
 ### Hardware Requirements
 
 | Components               | Purpose                                                                                         |
@@ -37,7 +38,7 @@ To develop a Smart Ambulance System using IoT technologies to:
 | LiPo Battery             | Portable power source ensuring system operation during transit.                               |
 | GSM/GPRS Module          | Facilitates reliable long-distance communication with hospitals and traffic systems.          |
 
-
+-----
 ### Literature Survey 
 #### *Existing Solutions and Challenges*  
 
@@ -70,7 +71,7 @@ To develop a Smart Ambulance System using IoT technologies to:
 - *Enhanced Communication Protocols:* Integration of ESP8266 and GSM modules for secure, low-latency data exchange between all stakeholders.  
 - *Blockchain Integration (Future Enhancement):* Ensures secure handling of sensitive patient and system data.  
 - *Scalable and Modular Design:* Hardware and software are designed to integrate easily with existing traffic systems and public emergency services like the 108 network.
-   
+-----  
 ### *Proposed Solution: Smart Ambulance System*  
 
 #### *Overview*  
@@ -108,7 +109,7 @@ To ensure the confidentiality, integrity, and availability of data:
 - *Improved Communication:* Secure and reliable data exchange between ambulances, traffic systems, and hospitals ensures better coordination.  
 - *Future-Ready:* Scalable design and advanced technologies like blockchain (future enhancement) make the system adaptable to evolving needs.  
 - *Sustainability:* Energy-efficient hardware and optimization algorithms reduce the environmental impact.
-  
+-----  
 ### *Implementation Plan*  
 
 #### *1. Setup:*  
@@ -146,7 +147,7 @@ To ensure the confidentiality, integrity, and availability of data:
 #### *Future Steps:*  
 - Gather feedback from field trials to refine the system further.  
 - Expand testing to different geographic regions with diverse traffic and communication conditions.  
-
+-----
 ### *Future Enhancements:*
 
 1. *Vehicle-to-Vehicle (V2V) Communication:*  
@@ -167,9 +168,8 @@ To ensure the confidentiality, integrity, and availability of data:
 4. *Scalability to Public Services (e.g., 108 Emergency Systems):*  
    - *Feasibility:* This enhancement involves connecting the system with public emergency services, requiring API integrations and collaboration with government agencies.    
    - *Priority:* High, as it would allow the system to scale to wider public service applications, benefiting more people.
-
 This solution ensures timely emergency response, optimized navigation, and improved patient care while leveraging cutting-edge technologies. {Refer to the document for more detailed explanations}
-
+-----
 
 ### *Mapping the Project to Relevant Sustainable Development Goals (SDGs)*  
 
@@ -183,7 +183,7 @@ This solution ensures timely emergency response, optimized navigation, and impro
 |:----:|:--------------------------|
 | IoT#05 |GPS-Enabled Passenger Safety and Route Monitoring in Taxis with Office Alert Integration |
 | IoT#07 |  Real-Time IoT-Driven Public Transport Scheduling and Tracking System |
-
+-----
 ### *References*  
 1. Dumka, A., & Sah, V. (2021). Smart Ambulance System Using Big Data Concepts for Emergency Services. Semantic Scholar.  
    [Link to Paper](https://www.semanticscholar.org/paper/Smart-ambulance-system-using-concept-of-big-data-of-Dumka-Sah/f8d90dd982d682e539f8a320a929b847cfd28905)  
