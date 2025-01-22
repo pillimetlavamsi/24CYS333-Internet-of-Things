@@ -23,14 +23,17 @@
 
 ---
  ### Hardwares Required
-1. Gravity: Analog pH Sensor/Meter Kit V2.
-2. Gravity: Analog Turbidity Sensor for Arduino.
-3. Gravity: Analog TDS Sensor/Meter for Arduino. 
-4. DS18B20 Waterproof Temperature Sensor.
-5. Microprocessor with Built-in Wi-Fi (ESP32).
-6. Chlorine Sensor.
-7. Ammonia Sensor.
-8. Nitrate and Nitrite Sensor.
+
+| Components               | Purpose                                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| LED Display SSD1306  | Displays visual data like text or graphics in a compact format. |
+| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
+| ELECROW Crowtail- PH Sensor    | Measures the pH level of a solution to determine its acidity or alkalinity. |
+| Turbidity Sensor             | Detects water clarity by measuring suspended particles. |
+| Analog TDS Sensor Water Conductivity Sensor Module Board Kit  | Measures the total dissolved solids (TDS) in water to assess its quality. |
+| 5V active Alarm Buzzer Module    | Produces an audible alarm for alerts or notifications. |
+| INVENTO 11.1V-12V 1500 mAh               | Provides rechargeable power for electronic devices or projects. |
+| DS18B20 Waterproof| Measures temperature in environments that may involve liquids or moisture. |
 
 ---
  ### Proposed Solution
@@ -43,19 +46,13 @@ interventions. This solution ensures efficient water quality management, promote
 public health safety, and meets regulatory compliance.
 
 ---
- ### Sustainable Development Goals
-- SDG 6: Clean Water and Sanitation 
-  - Ensuring access to safe and clean drinking water is a core aspect 
-of this goal. Real-time monitoring and analysis of water quality 
-directly contribute to achieving targets related to improving 
-water safety and reducing contamination. 
-- SDG 3: Good Health and Well-Being 
-  - Safe drinking water is essential for preventing waterborne 
-diseases, thus promoting good health and reducing mortality 
-rates. This IoT-based solution supports public health initiatives 
-by minimizing risks associated with unsafe water.
+ ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 
----
+| SDG | Alignment |
+|:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SDG 6: Clean Water and Sanitation | Ensuring access to safe and clean drinking water is a core aspect of this goal. Real-time monitoring and analysis of water quality directly contribute to achieving targets related to improving water safety and reducing contamination. |
+| SDG 3: Good Health and Well-Being | Safe drinking water is essential for preventing waterborne diseases, thus promoting good health and reducing mortality rates. This IoT-based solution supports public health initiatives by minimizing risks associated with unsafe water. |
+
 ### Collaboration 
 | Team | Module & Scope |
 |:----:|:---------------|
@@ -64,9 +61,5 @@ by minimizing risks associated with unsafe water.
 
 ---
  ### References
- - [Real Time Monitoring System of Drinking Water Quality Using Internet 
-of Things](https://www.semanticscholar.org/paper/Intelligent-IoT-Based-Real-Time-Water-Quality-and-Mathew-Chacko/ecf8559959f6024698a123bbe1ba9f4d7f6e8037) - Zainul Abidin, Eka Maulana, Muhammad Yogi Nurrohman, 
-Fitri Candra Wardana, Warsito.
-- [Intelligent IoT-Based Real-Time Water Quality Monitoring and 
-Pollution Detection System](https://www.researchgate.net/publication/363679076_Real_Time_Monitoring_System_of_Drinking_Water_Quality_Using_Internet_of_Things) - Binu K. Mathew, Fossy Mary Chacko, Nikhil 
-A., Shabin Kandisseril Shilu, Sreelakshmi S. 
+ - Mathew, B. K., Chacko, F. M., Nikhil, A., Shilu, S. K., & Sreelakshmi, S. (2023, December). Intelligent IoT-Based Real-Time Water Quality Monitoring and Pollution Detection System. In 2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES) (pp. 1-7). IEEE.
+- Abidin, Z., Maulana, E., Nurrohman, M. Y., & Wardana, F. C. (2022, August). Real time monitoring system of drinking water quality using internet of things. In 2022 International Electronics Symposium (IES) (pp. 131-135). IEEE. 
