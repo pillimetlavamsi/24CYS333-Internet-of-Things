@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Asrita_NL-gold)  ![](https://img.shields.io/badge/Member-Chitla_Vyshali-gold)  ![](https://img.shields.io/badge/Member-Chinni_Nagasree_Hansica-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/>
-
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
 ---
 ### Problem Statement
 The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Tracking System to address challenges like traffic congestion, route changes, and delays. Utilizing IoT technology, GPS sensors, and wireless communication, vehicles are monitored in real-time, providing data on location, speed, and routes to a central system. Passengers can access real-time updates on arrival times, delays, and occupancy through mobile apps or digital boards at bus stops, enabling efficient passenger flow management and reduced waiting times.
