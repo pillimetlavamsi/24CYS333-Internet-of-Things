@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
 
 
-### Problem Statement:<br>
+### Problem Statement<br>
 Agriculture faces challenges in achieving efficient crop growth while minimizing environmental harm due to inefficient fertilizer application methods. Overuse or underuse of nutrients harms soil health, reduces yields, and increases costs, while excessive runoff leads to water pollution and greenhouse gas emissions. The absence of precise, real-time monitoring and automated solutions exacerbates nutrient imbalances, failing to account for diverse soil conditions and crop requirements. An IoT-Based Automated Fertilizer Dispensing System can address these issues by leveraging smart sensors to monitor soil conditions and automate precise fertilizer delivery, optimizing resource use and promoting sustainable farming practices.
 
 ---
@@ -18,16 +18,15 @@ Agriculture faces challenges in achieving efficient crop growth while minimizing
 | Components                             | Purpose                                                                                          |
 |:---------------------------------------|:-------------------------------------------------------------------------------------------------|
 | NPK Soil Sensor                        | Measures the nutrient levels (Nitrogen, Phosphorus, Potassium) in the soil.  |
-| Capacitive Soil Moisture Sensor v1.2   |  Detects the moisture level of the soil to determine irrigation needs.
-| Solenoid Valve                         | Controls the flow of water in the irrigation system. |
-| GSM Module (SIM800)                    | Enables communication in areas with limited or no Wi-Fi access. |
-| Sprayer System                         | Distributes water or nutrients uniformly over the field. |
+| Capacitive Soil Moisture Sensor v1.2   | Detects the moisture level of the soil to determine irrigation needs.
+|12V DC Plastic Solenoid Valve           | Controls the flow of water in the irrigation system. |
+| GSM Module (SIM800L)                   | Enables communication in areas with limited or no Wi-Fi access. |
 | Raspberry Pi                           | Acts as the central processing unit for data management and IoT control. |
 | Wi-Fi Module (ESP32)                   | Facilitates wireless connectivity for IoT operations.   |
-| Battery                                | Provides power to the components for portable and remote use. 
-
+| Battery (INVENTO 11.1V-12V 1500 mAh)   | Provides power to the components for portable and remote use.|
+| 12V Mini Water Pump                    | Provides water and aids in the automated delivery of water-soluble fertilizers. |
 ---
-### Literature Survey:<br>
+### Literature Survey<br>
 #### Existing Solutions:
 Existing solutions in IoT-enabled smart farming focus on precision agriculture and resource optimization.
 
@@ -49,24 +48,24 @@ The proposed solution involves the system will use an NPK sensor to monitor soil
 
 ---
 
-### Sustainable Development Goals:
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 
-| SDG                                                 | Alignment       |
-|:----------------------------------------------------|-----------------|
-| Goal 12 - Responsible Consumption and Production    |                 |
-| Goal 13 - Climate Action                            |                 |
+| SDG                                                 | Alignment                                                                                              |
+|:----------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Goal 12 - Responsible Consumption and Production    |  Optimizes fertilizer use, reduces waste, and promotes sustainable farming practices                   |
+| Goal 13 - Climate Action                            | Reduces fertilizer runoff, lowers greenhouse gas emissions, and promotes climate-resilient agriculture |
 
 ### Collaboration 
 | Team   | Module & Scope                 |
 |:------:|:-------------------------------|
-| IoT#10 | Smart Home Plantation System | 
+| IoT#10 | Smart Home Plantation System   | 
 ---
 
 
 
 ### References:
-- Amrutha, A., Lekha, R., Sreedevi, A. (2016). _"Automatic soil nutrient detection and fertilizer dispensary system."_ 
-- Kabilan, S., Gunapriya, D., Ragavi Sri, S., Shivagurunathan, A., Thalagandasamy, N. (2024). _"IOT-based soil nutrient monitoring decision system."_ 
-- Zainal Abidin, A. I., Fadzil, F. A., Peh, Y. S. (2018). _"Micro-controller based fertilizer dispenser control system."_
+- Amrutha, A., Lekha, R., & Sreedevi, A. (2016, December). Automatic soil nutrient detection and fertilizer dispensary system. In 2016 International Conference on Robotics: Current Trends and Future Challenges (RCTFC) (pp. 1-5). IEEE.
+- Kabilan, S., Gunapriya, D., Shivagurunathan, A., & Thalagandasamy, N. (2024, March). IOT-Based Soil Nutrient Monitoring Decision System. In 2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS) (Vol. 1, pp. 2297-2301). IEEE.
+- Abidin, A. I. Z., Fadzil, F. A., & Peh, Y. S. (2018, November). Micro-controller based fertilizer dispenser control system. In 2018 IEEE Conference on Wireless Sensors (ICWiSe) (pp. 17-22). IEEE.
 <br>
 
