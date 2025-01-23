@@ -5,7 +5,8 @@
 
 ## IoT#15 - Smart Blood Bank Management System  
 ![](https://img.shields.io/badge/Member-vsatayasiddardha-gold) ![](https://img.shields.io/badge/Member-jeesh27-gold) ![](https://img.shields.io/badge/Member-Harshith1201-gold) <br/> 
-![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen)
+![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/>
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
 
 ---------------
 
@@ -90,8 +91,6 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 |:--------------------------------------------------|:---------------------------------------------------------------------------------------------------|  
 | Goal 3 - Good Health and Well-Being               | Ensures timely availability of safe, high-quality blood, enhancing healthcare outcomes.            |  
 | Goal 9 - Industry, Innovation, and Infrastructure | Promotes innovation with IoT and fosters efficient, scalable blood bank operations.                |  
-
--------------------
 
 ### Collaboration  
 
