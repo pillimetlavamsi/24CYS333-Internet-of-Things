@@ -37,7 +37,7 @@ The proposed **IoT-Based Comprehensive Elderly Monitoring System** incorporates 
 | NodeMCU                    | Cloud integration for IoT connectivity.                                                                    |
 | Buzzer                     | Audible alert during emergencies.                                                                          |
 | Touch Sensor               | Panic button for manual distress signaling.                                                                |
-| 2500mAH Power Bank/Battery | Portable power source for uninterrupted operation.                                                          |
+| 2500mAH Power Bank/Battery | Portable power source for uninterrupted operation.                                                         |
 | LED Indicators             | Visual cues for system status.                                                                             |
 
 ---
@@ -83,7 +83,7 @@ Panic buttons and auditory/visual indicators improve usability for elderly popul
 ---
 
 ### References
-- [IoT Applications in Healthcare Systems](https://ieeexplore.ieee.org/document/123456789)  
-- [Sensor Fusion Techniques in Wearable Devices](https://www.elsevier.com/books)  
-- [IoT for Emergency Management](https://link.springer.com/book/10.1007)  
-- [Design Principles for Aging Populations](https://journals.sagepub.com)  
+- Ren, L., & Peng, Y. (2019). Research of Fall Detection and Fall Prevention Technologies: A Systematic Review. IEEE Access. Institute of Electrical and Electronics Engineers (IEEE). http://doi.org/10.1109/access.2019.2922708
+- Department of Computer Engineering ,BV(DU)COE, Pune, India., Garg*, D. K., Rao, G., & Department of Computer Engineering, BV(DU)COE, Pune, India. (2020, April 30). An IoT Based Fall Detection System. International Journal of Innovative Technology and Exploring Engineering. Blue Eyes Intelligence Engineering and Sciences Engineering and Sciences Publication - BEIESP. http://doi.org/10.35940/ijitee.f3917.049620  
+- Mahesh, G., & Kalidas, M. (2023, November 23). A Real-Time IoT Based Fall Detection and Alert System for Elderly. 2023 International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT). IEEE. http://doi.org/10.1109/icaiccit60255.2023.10465914
+- Hasan, N., & Ahmed, M. F. (2024, January). Wearable Technology for Elderly Care: Integrating Health Monitoring and Emergency Alerts. (D. F. H. Sadok, Ed.), Journal of Computer Networks and Communications. Wiley. http://doi.org/10.1155/jcnc/5593708
