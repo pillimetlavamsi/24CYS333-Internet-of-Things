@@ -67,7 +67,7 @@ The proposed solution is an **IoT-enabled Indoor Air Pollution Monitoring System
 
 ---
 
-### Alignment with Sustainable Development Goals (SDGs)
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 
 | SDG | Alignment                                         |
 |-----|--------------------------------------------------|
@@ -90,6 +90,6 @@ The IoT-Based Indoor Air Pollution Monitoring System is a comprehensive solution
 ---
 
 ### References
-1. Kumar, S., Gupta, A., & Rana, S. (2020). "IoT-based air pollution monitoring system using Arduino."  
-2. Singh, P., & Chaturvedi, R. (2019). "Integration of gas sensors for real-time air quality monitoring using cloud platforms."  
-3. Alharbi, N., Abdulrahman, A., & Mohammad, M. (2021). "Comparative analysis of air quality monitoring systems with IoT and cloud technology."
+1. Gupta, H., Bhardwaj, D., Agrawal, H., Tikkiwal, V. A., & Kumar, A. (2019, February). **An IoT Based Air Pollution Monitoring System for Smart Cities**. _2019 IEEE International Conference on Sustainable Energy Technologies (ICSET)._
+2. Medeiros, H. P. L. de ., & Girao, G. (2020, September 28). **An IoT-based Air Quality Monitoring Platform**. _2020 IEEE International Smart Cities Conference (ISC2)._ 
+3. Karnati, H. (2023). **IoT-Based Air Quality Monitoring System with Machine Learning for Accurate and Real-time Data Analysis** _(Version 1)._
