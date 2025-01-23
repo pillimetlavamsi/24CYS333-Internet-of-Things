@@ -5,7 +5,7 @@
 
 ## IoT#16 : IoT-based Crop Disease Detection System for Mango trees
 
-Team Members:
+### Team Members:
 
 Hemanth Kumaar J P(CB.EN.U4CYS22028)
 
@@ -14,11 +14,11 @@ Jose Rohit M(CB.EN.U4CYS22030)
 Kaushik M(CB.EN.U4CYS22035)
 
 
-Problem statement:
+### Problem statement:
 
 The project aims to design and develop an IoT-based model that collects real-time sensor data from crop fields and uploads it to the cloud. This data is analyzed using machine learning techniques on the cloud to make accurate and efficient decisions, thereby improving processing speed and reducing device complexity compared to similar architectures. The model will detect crop diseases and provide recommendations for the best pesticides to assist farmers in improving crop yield.
 
-Proposed Solution:
+### Proposed Solution:
 
 Developing an IoT-based Crop Disease Detection System that leverages smart sensors, real-time monitoring, and cloud integration to identify and track crop diseases efficiently.
      The system utilizes environmental sensors (humidity, temperature, soil moisture, and leaf wetness) and imaging devices to collect data continuously from the field.
@@ -26,36 +26,59 @@ Developing an IoT-based Crop Disease Detection System that leverages smart senso
      Integration of real-time tracking and automated alerts via mobile/web interfaces ensures timely updates for farmers.
      Maintenance includes periodic sensor calibration and health monitoring to ensure reliability.
      
-Hardware Requirements:
-1. Arduino Board : Acts as the central microcontroller for data collection and transmission.  
-2. Sensors :  
-   - Temperature Sensor (e.g., LM35, DHT22): Monitors ambient temperature.  
-   - Humidity Sensor (e.g., DHT22): Measures air moisture levels.  
-   - Color Sensor (e.g., TCS3200): Detects variations in leaf color, which can indicate diseases.
-   - Leaf Wetness Sensor(e.g., LWS-02):Identifies water presence on leaves
-3. Wi-Fi Module (e.g., ESP8266 or ESP32): Enables data transmission to a server or cloud platform.  
-4. Battery:  Rechargeable lithium-ion battery or any suitable power source to ensure uninterrupted operation.  
+### Hardware Requirements:
+| Component                          | Functionality                                                                                   |
+|------------------------------------|----------------------------------------------------------------------------------------------- |
+| Arduino Board                      | Acts as the central microcontroller for data collection and transmission.                      |
+| Temperature Sensor (e.g., LM35, DHT22) | Monitors ambient temperature to provide environmental data for analysis.                   |
+| Humidity Sensor (e.g., DHT22)      | Measures air moisture levels to monitor environmental conditions.                              |
+| Color Sensor (e.g., TCS3200)       | Detects variations in leaf color, which can indicate plant diseases or stress.                |
+| Leaf Wetness Sensor (e.g., LWS-02) | Identifies the presence of water on leaves, important for monitoring plant health.            |
+| Wi-Fi Module (e.g., ESP8266 or ESP32) | Enables data transmission to a server or cloud platform for remote monitoring.               |
+| Battery                            | Provides uninterrupted power, such as a rechargeable lithium-ion battery.                     |
 
+---
+### Software Requirements:
+| Component            | Functionality                                                                                 |
+|----------------------|--------------------------------------------------------------------------------------------- |
+| Arduino IDE          | Used for programming the Arduino board and uploading the code.                              |
+| Hardware Programming | Written in Arduino C/C++ for controlling sensors and modules.                               |
+| Python               | Used for server-side logic and communication with hardware devices.                         |
+| MySQL Database       | Stores sensor data and logs for analysis, ensuring data persistence and accessibility.      |
 
-Software Requirements:
-1. Arduino IDE : For programming the Arduino board and uploading the code.  
-2. Hardware Programming : Written in Arduino C/C++ for controlling sensors and modules.  
-3. Server Back-End :  
-   - Python : For server-side logic and communication with hardware.  
-   - MySQL Database : For storing sensor data and logs for analysis.
+###Sustainable Development Goals: 
 
-Sustainable Development Goals: 
+| SDG                             | Contribution                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------|
+| **SDG 1: Zero Hunger**          | By improving early detection and prevention of crop diseases, the project supports sustainable agriculture, increases food production, ensures food security, and reduces hunger. |
+| **SDG 2: Good Health and Well-being** | Healthier crops lead to higher quality and safer food, preventing health risks associated with consuming infected crops.                |
+| **SDG 13: Climate Action**      | Promotes sustainable agriculture and reduces crop loss, contributing to climate resilience and minimizing environmental impact.        |
 
-SDG 1: Zero Hunger
-By improving early detection and prevention of crop diseases, the project supports sustainable agriculture and increases food production, ensuring food security and reducing hunger.
+### Literature Survey on Mango Crop Disease Detection
 
-SDG 2: Good Health and Well-being
-Healthier crops lead to higher quality and safer food, preventing health risks associated with consuming infected crops.
+This study explores the use of IoT technology to detect and control mango crop diseases, ensuring improved yield and quality. 
 
-Reference:
+1. Key Diseases and Control:
+   - Powdery Mildew: White fungal growth on leaves and fruits; controlled with fungicides like tridemorph.
+   - Anthracnose: Black spots and fruit rot in humid conditions; managed by pruning and carbendazim sprays.
+   - Dieback: Drying of branches; treated with copper oxychloride.
+   - Phoma Blight: Yellow lesions on leaves; controlled by benomyl sprays.
+   - Bacterial Canker: Water-soaked lesions on leaves and fruits; treated with streptocycline.
+   - Sooty Mold: Black fungal coating due to insect secretions; managed by pruning and sprays.
+   - Diplodia Stem-End Rot: Affects fruit stems; controlled with carbendazim dips.
 
-- Praveen Girish Nadumani ., & Shashidhar Dodamani. [2019]. **IoT Based Crop Disease Detection** . RV College of Engineering [GitHub repository](https://github.com/PraveenGirishNadumani/iotBasedCropDiseaseDetection/tree/master)
+2. IoT Application:
+   - Sensors like temperature, humidity, and color detect early signs of diseases.
+   - Automated monitoring reduces losses and promotes sustainable farming.
 
-- Apeksha Gawande ., & Swati S., Sherekar. (2023). **Analysis of crop diseases using IoT and machine learning approaches**. matoshri college of engineering [ResearchGate](https://www.researchgate.net/publication/370422006_Analysis_of_Crop_Diseases_Using_IoT_and_Machine_Learning_Approaches)
+3. Impact:
+   - IoT enables precise disease management, enhancing productivity and minimizing agricultural losses. 
+
+This approach offers a cost-effective and efficient solution for mango disease management.
+
+### Reference:
+
+- Praveen, G. N., & Shashidhar, D. [2019]. **IoT Based Crop Disease Detection** . RV College of Engineering. 
+- Gawande, A. R., & Sherekar, S. S. (2023, May). **Analysis of crop diseases using IoT and machine learning approaches**. In International Conference on Applications of Machine Intelligence and Data Analytics (ICAMIDA 2022) (pp. 78-85). Atlantis Press. 
 
 
