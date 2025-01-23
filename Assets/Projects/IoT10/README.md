@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-B_Prem_Kumar-gold)  ![](https://img.shields.io/badge/Member-S_Mohana_Vamsi-gold)  ![](https://img.shields.io/badge/Member-Sree_Sharvesh_S_S-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-15-darkgreen)<br/>
-
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
 ---
 ### Problem Statement
 Maintaining healthy plants at home can be challenging, especially for individuals with busy schedules or limited knowledge of plant care. Irregular watering, unsuitable temperature or humidity levels, and inadequate sunlight often lead to poor plant health or even plant death. Manual monitoring of these parameters can be time-consuming and error-prone.
