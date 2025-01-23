@@ -6,7 +6,6 @@
 # IoT#18 Integrated Smart Home Intrusion Detection System 
 ![](https://img.shields.io/badge/Member-Lalitha_K-gold)  ![](https://img.shields.io/badge/Member-Nikku_Parthiv_Kumar-gold)  ![](https://img.shields.io/badge/Member-Pillimetla_Vamsi-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-06th_Jan_2025-brown) 
 
 ## Problem Statement
 
@@ -17,7 +16,7 @@ Current smart home solutions often lack seamless integration, requiring multiple
 ## Hardware / Resources
 
 ## Intrusion Detection
-| Component             | Function                                               | Reason for Inclusion                                                                 |
+| Component             | Function                                               | Purpose for Inclusion                                                                 |
 |----------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Raspberry Pi 4         | Acts as the central processing unit, handling sensor data and communication. | Provides computational power for processing sensor data, managing communication modules, and sending alerts to users. |
 |                            |                                                           | Supports USB boot and network boot, eliminating the need for an SD card.               |
@@ -38,7 +37,7 @@ Current smart home solutions often lack seamless integration, requiring multiple
 
 ## Health Monitoring Components
 
-| Component                 | Model       | Function                                      | Reason for Inclusion                              |
+| Component                 | Model       | Function                                      | Purpose for Inclusion                              |
 |-------------------------------|-----------------|--------------------------------------------------|------------------------------------------------------|
 | Pulse Oximeter Sensor     | MAX30102        | Measures heart rate and SpO₂.                    | Vital for monitoring cardiovascular health.          |
 | Body Temperature Sensor   | DS18B20         | Measures body temperature with high accuracy.    | Detects fever or hypothermia.                        |
@@ -111,12 +110,12 @@ The Integrated IoT-Based Smart Home Intrusion Detection System will utilize a Ra
 
 
 ## References
-- [K. C. Sahoo and U. C. Pati, *IoT based intrusion detection system using PIR sensor*,  _2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT), Bangalore, India, 2017__](https://ieeexplore.ieee.org/abstract/document/8256877)
+- Sahoo, K. C., & Pati, U. C. (2017, May). **IoT based intrusion detection system using PIR sensor**. _In 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology__ (RTEICT) (pp. 1641-1645). IEEE.
+  
+- Valsalan, P., Baomar, T. A. B., & Baabood, A. H. O. (2020). **IoT based health monitoring system**. _Journal of critical reviews__, 7(4), 739-743.
 
-- [Valsalan, Prajoona & Tariq, Ahmed & Hussain, Ali. (2020). *IOT BASED HEALTH MONITORING SYSTEM.*  Journal of Critical Reviews. 2020](https://www.researchgate.net/profile/Prajoona-Valsalan/publication/340665031_IOT_BASED_HEALTH_MONITORING_SYSTEM/links/5f60adb792851c078967a5f3/IOT-BASED-HEALTH-MONITORING-SYSTEM.pdf)
+- Saha, H. N., Auddy, S., Pal, S., Kumar, S., Pandey, S., Singh, R., ... & Saha, S. (2017, August). **Health monitoring using internet of things (IoT)**. __In 2017 8th annual industrial automation and electromechanical engineering conference__ (IEMECON) (pp. 69-73). IEEE.
 
-- [H. N. Saha et al., *Health monitoring using Internet of Things (IoT),  2017 8th Annual Industrial Automation and Electromechanical Engineering Conference (IEMECON), Bangkok, Thailand, 2017](https://ieeexplore.ieee.org/abstract/document/8079564)
+- Tripathi, S., & Kumar, R. (2018, December). **Raspberry pi as an intrusion detection system, a honeypot and a packet analyzer**. __In 2018 International Conference on Computational Techniques, Electronics and Mechanical Systems__ (CTEMS) (pp. 80-85). IEEE.
 
-- https://ieeexplore.ieee.org/abstract/document/8769135 
-
-- https://ieeexplore.ieee.org/abstract/document/8229911
+- Mahajan, V., & Peddoju, S. K. (2017, May). **Integration of network intrusion detection systems and honeypot networks for cloud security**. __In 2017 International Conference on Computing, Communication and Automation__ (ICCCA) (pp. 829-834). IEEE.
