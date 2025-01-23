@@ -15,17 +15,14 @@ Elderly individuals often face challenges in maintaining healthy sleep patterns,
 ---
 ### Hardware Requirements
 
-| Components                     | Purpose                              |  
-|:-------------------------------|:-------------------------------------|  
-| MAX30100 or MAX30102           | Heart Rate Sensor (PPG)             |  
-| Piezoelectric pressure sensor  | Respiratory Sensor                  |  
-| ESP8266                        | Wi-Fi Module for IoT connectivity   |  
-| Arduino Nano                   | Microcontroller for data processing |  
-| Wearable device band           | Portable Housing of Sensor          |  
-| Rechargeable lithium-ion batteries | Power supply for the device        |  
-| Accelerometer                  | Detecting motion and activity levels|  
-|  MPU6050                       | Gyroscope for motion detection      |  
-| LED display                    | Visual feedback for user metrics    |  
+| Sensor                          | Specification                       | Purpose                              |  
+|-------------------------------- |------------------------------------ |--------------------------------------|  
+| Heart Rate Sensor               | MAX30100 or MAX30102                | Measuring heart rate using PPG       |   
+| Wearable Housing                | Device band                         | Providing portability and comfort    |  
+| Power Supply                    | Rechargeable lithium-ion batteries  | Powering the wearable device         |  
+| Gyroscope                       | MPU6050                             | Detecting orientation and movement   |  
+| Display                         | LED display                         | Providing visual feedback to users   |  
+
 
 
 ---
@@ -51,15 +48,15 @@ Current methods addressing sleep monitoring and health status tracking include:
 3. *Real-Time Health Monitoring:* Integrated sensors will continuously track heart rate and respiratory patterns, ensuring real-time health parameter updates.
 The system will also monitor motion and activity levels through accelerometer and gyroscope sensors, adding depth to the analysis.
 4. *Emergency Anomaly Detection:* A built-in emergency response mechanism will automatically contact preconfigured emergency services or caregivers in case of abrupt heart rate anomalies, ensuring timely medical intervention.
-5. *User-Friendly Interface:* The system will feature an intuitive dashboard to visualize sleep metrics, providing users and caregivers with detailed monthly reports for tracking progress and identifying trends.
-6. *Portability and Ease of Use:* Designed as a wearable device, the system will be lightweight, ergonomic, and powered by rechargeable lithium-ion batteries for uninterrupted usage.
+5. *User-Friendly Interface:* The system will feature an intuitive dashboard to visualize sleep metrics. It will also provide users and caregivers with detailed monthly reports to track progress and identify trends.
+6. *Portability and Ease of Use:* The system will be lightweight, ergonomic, and powered by rechargeable lithium-ion batteries for uninterrupted usage. It will be designed as a wearable device.
 ---
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG | Alignment |
 |:---|:----------|
-| Goal 03 | Good Health and Well-being  |
-| Goal 09 | Industry, Innovation, and Infrastructure  |
+| Goal 03 - Good Health and Well-being | The project helps users identify potential sleep disorders (e.g., insomnia, sleep apnea), detect irregularities in heart rate or breathing, and promote healthy sleep hygiene |
+| Goal 09 - Industry, Innovation, and Infrastructure |  By utilizing IoT technology to analyze sleep patterns, the system demonstrates innovation in the intersection of healthcare and technology |
 
 
 ### Collaboration 
