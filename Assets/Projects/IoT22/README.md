@@ -21,11 +21,12 @@ Heavy traffic congestion is increasingly becoming a problem in urban areas, whic
 | --------- | ------------- |
 | ESP32 Microcontroller | Acts as the central processing unit for handling inputs and outputs |
 | Sound sensor(KY-038) | Detects sound levels and converts audio signals to electrical signals |
-| LiPo Battery based power supply | Supplies portable power to the system |
-| Voltage Regulator (LM7805 or AMS1117) | Ensures a stable voltage supply to components |
+| 7.4V 2200mAh Li-ion Battery Pack | Supplies portable power to the system |
+| Voltage Regulator (LM7805) | Ensures a stable voltage supply to components |
 | Breadboard | Allows for easy and temporary circuit prototyping |
 | Jumper Wires | Connect various components for signal and power transmission |
-| Noise Calibration Tool(Extech 407760 or BAFX Products Sound Level Meter) | Measures and calibrates sound levels for accurate sensor operation |
+| Noise Calibration Tool(BAFX Products Sound Level Meter) | Measures and calibrates sound levels for accurate sensor operation |
+
 
 ---
 
