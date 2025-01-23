@@ -7,10 +7,10 @@
 
 ![](https://img.shields.io/badge/Member-Adarsh_R_K-gold) ![](https://img.shields.io/badge/Member-Namitha_Sudhishkumar_Nair-gold) ![](https://img.shields.io/badge/Member-Anagh_Shaji-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/> 
-
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown) 
 ------
 
-### *Problem Statement*  
+### Problem Statement
 Emergency ambulances face delays due to traffic congestion and lack of efficient communication with hospitals and traffic systems, impacting patient outcomes. This project aims to design an IoT-based Smart Ambulance System for optimized routing, real-time traffic management, and seamless communication with hospitals.
 
 *Objective:*  
@@ -72,7 +72,7 @@ To develop a Smart Ambulance System using IoT technologies to:
 - *Blockchain Integration (Future Enhancement):* Ensures secure handling of sensitive patient and system data.  
 - *Scalable and Modular Design:* Hardware and software are designed to integrate easily with existing traffic systems and public emergency services like the 108 network.
 -----  
-### *Proposed Solution: Smart Ambulance System*  
+### Proposed Solution: Smart Ambulance System
 
 #### *Overview*  
 The Smart Ambulance System leverages IoT technologies to optimize emergency medical services by addressing navigation inefficiencies, enhancing real-time communication, and dynamically prioritizing ambulances at traffic signals. The system incorporates secure data transmission, scalability, and seamless integration with existing public services.  
@@ -148,7 +148,7 @@ To ensure the confidentiality, integrity, and availability of data:
 - Gather feedback from field trials to refine the system further.  
 - Expand testing to different geographic regions with diverse traffic and communication conditions.  
 -----
-### *Future Enhancements:*
+### Future Enhancements
 
 1. *Vehicle-to-Vehicle (V2V) Communication:*  
    - *Feasibility:* V2V communication can improve traffic navigation and ambulance prioritization. It requires a robust network infrastructure and collaboration with traffic authorities.  
@@ -171,7 +171,7 @@ To ensure the confidentiality, integrity, and availability of data:
 This solution ensures timely emergency response, optimized navigation, and improved patient care while leveraging cutting-edge technologies. {Refer to the document for more detailed explanations}
 -----
 
-### *Mapping the Project to Relevant Sustainable Development Goals (SDGs)*  
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 
 | SDG                                      | Alignment                                                                                                                                                 |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -184,7 +184,7 @@ This solution ensures timely emergency response, optimized navigation, and impro
 | IoT#05 |GPS-Enabled Passenger Safety and Route Monitoring in Taxis with Office Alert Integration |
 | IoT#07 |  Real-Time IoT-Driven Public Transport Scheduling and Tracking System |
 -----
-### *References*  
+### References
 1. Dumka, A., & Sah, A. (2019). **Smart ambulance system using concept of big data and internet of things**. _In Healthcare data analytics and management_ (pp. 155-176). Academic Press.
 
 2. Godwin, J. J., Krishna, B. S., Rajeshwari, R., Sushmitha, P., & Yamini, M. (2021). **IoT based intelligent ambulance monitoring and traffic control system.** _Further Advances in Internet of Things in Biomedical and Cyber Physical Systems_, 269-278.  
