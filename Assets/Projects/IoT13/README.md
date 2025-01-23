@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Deepak_Kumar_S-gold)  ![](https://img.shields.io/badge/Member-Joshua_Anto_A-gold)  ![](https://img.shields.io/badge/Member-Midhru_Jayan_K-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-2-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-17-darkgreen) <br/>
-<!--![](https://img.shields.io/badge/Reviewed-brown)-->
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
 
 ---
 ### Problem Statement
@@ -58,5 +58,5 @@ The supply chain management of milk faces significant challenges in ensuring tra
 ---
 
 ### References
-- Bhat, S. A., Huang, N., Sofi, I. B., & Sultan, M. (2021). Agriculture-Food Supply chain Management Based on Blockchain and IoT: A Narrative on Enterprise Blockchain Interoperability. Agriculture, 12(1), 40. https://doi.org/10.3390/agriculture12010040.
-- Gondal, M. U. A., Khan, M. A., Haseeb, A., Albarakati, H. M., & Shabaz, M. (2023). A secure food supply chain solution: blockchain and IoT-enabled container to enhance the efficiency of shipment for strawberry supply chain. Frontiers in Sustainable Food Systems, 7. https://doi.org/10.3389/fsufs.2023.1294829
+- Bhat, S. A., Huang, N., Sofi, I. B., & Sultan, M. (2021). **Agriculture-Food Supply chain Management Based on Blockchain and IoT: A Narrative on Enterprise Blockchain Interoperability.** _Agriculture_, 12(1), 40. https://doi.org/10.3390/agriculture12010040.
+- Gondal, M. U. A., Khan, M. A., Haseeb, A., Albarakati, H. M., & Shabaz, M. (2023). **A secure food supply chain solution: blockchain and IoT-enabled container to enhance the efficiency of shipment for strawberry supply chain.** _Frontiers in Sustainable Food Systems_, 7. https://doi.org/10.3389/fsufs.2023.1294829
