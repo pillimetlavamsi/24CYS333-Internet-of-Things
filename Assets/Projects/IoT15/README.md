@@ -5,18 +5,17 @@
 
 ## IoT#15 - Smart Blood Bank Management System  
 ![](https://img.shields.io/badge/Member-vsatayasiddardha-gold) ![](https://img.shields.io/badge/Member-jeesh27-gold) ![](https://img.shields.io/badge/Member-Harshith1201-gold) <br/> 
-![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen)<br/>
-![](https://img.shields.io/badge/Reviewed-02nd_Jan_2025-brown)
+![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen)
 
 ---------------
 
-## Problem Statement
+### Problem Statement
 
 Blood banks face inefficiencies in inventory management, proper storage, and timely distribution, leading to wastage and shortages. The lack of real-time monitoring for blood stock, storage conditions, and immediate communication between donors, blood banks, and recipients further exacerbates the problem. An IoT-enabled system can address these challenges by enabling real-time data collection, inventory tracking, and seamless communication.  
 
 -----------
 
-## Hardware Required  
+### Hardware Required  
 
 | Components               | Purpose                                                                                         |  
 |:-------------------------|:------------------------------------------------------------------------------------------------|  
@@ -40,9 +39,9 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 -----------
 
-## Literature Survey
+### Literature Survey
 
-### *Existing Solutions*  
+#### *Existing Solutions*  
 1. *Traditional Inventory Systems:*  
    - Manual and database-driven inventory management in blood banks.  
    - *Limitations:* Lack of real-time tracking and automated updates.  
@@ -55,16 +54,16 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
    - Platforms like erakthgosh are available.  
    - *Limitations:* These solutions have limited adoption and are used in only a few regions.  
 
-### *Research Gaps*  
+#### *Research Gaps*  
 1. *Real-Time Integration:* Lack of systems integrating IoT for dynamic inventory management and anomaly detection.  
 2. *Donor-Recipient Communication:* Minimal focus on automated notifications to bridge gaps between donors and recipients.  
 3. *Emergency Response Management:* Absence of mechanisms to reserve blood dynamically during emergencies.  
 
 ------------------------------
 
-## Proposed Solution  
+### Proposed Solution  
 
-### *Relevance of Proposed Work*  
+#### *Relevance of Proposed Work*  
 
 1. *Smart Storage and Monitoring:*  
    - IoT sensors track temperature and stock quantity in real-time, ensuring blood safety.  
@@ -84,7 +83,7 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 -------------------
 
-## Mapping the Project to Relevant Sustainable Development Goals (SDGs)  
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)  
 
 
 | SDG                                               | Alignment                                                                                          |  
@@ -94,7 +93,7 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 -------------------
 
-## Collaboration  
+### Collaboration  
 
 | Team   | Module & Scope                                                                 |  
 |:------:|:-------------------------------------------------------------------------------|  
@@ -102,8 +101,8 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 ---------------
 
-## References  
+### References  
 
-- Babu, JC, Khan, M, Nandini, K, & ... (2024). Internet of Things (IoT)-Based Smart Blood Bank Services: A Review. 2024 15th …, ieeexplore.ieee.org, <https://ieeexplore.ieee.org/abstract/document/10724178/>
-- Siruvoru, V, Kumar, NV, & Kumar, YB Santhosh (2019). Smart blood bank system using IOT. International Conference on …, Springer, <https://doi.org/10.1007/978-981-10-8681-6_69>
+- (n.d.). Internet of Things (IoT)-Based Smart Blood Bank Services: A Review | IEEE Conference Publication | IEEE Xplore. Retrieved from https://ieeexplore.ieee.org/abstract/document/10724178
+- Siruvoru, V., Kumar, N. V., & Santhosh Kumar, Y. B. (2018, September 18). Smart Blood Bank System Using IOT. Lecture Notes on Data Engineering and Communications Technologies. Springer Singapore. http://doi.org/10.1007/978-981-10-8681-6_69
 
