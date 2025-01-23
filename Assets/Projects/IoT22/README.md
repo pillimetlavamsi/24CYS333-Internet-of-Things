@@ -68,7 +68,7 @@ This system is intended to make the process of traffic management responsive and
 ### Collaboration
 | Team | Module & Scope |
 |:-----|:---------------|
-| [IoT#01](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT01) | **IoT-Driven Smart Ambulance System for Real-Time Traffic Management and Emergency Response Optimization** |
+| [IoT#01](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT01) | IoT-Driven Smart Ambulance System for Real-Time Traffic Management and Emergency Response Optimization** |
 
 ### References
-- [S. V. Bhate, P. V. Kulkarni, S. D. Lagad, M. D. Shinde and S. Patil, **IoT based Intelligent Traffic Signal System for Emergency vehicles**, _2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT), Coimbatore, India, 2018_](https://ieeexplore.ieee.org/abstract/document/8473210)
+- Bhate, S. V., Kulkarni, P. V., Lagad, S. D., Shinde, M. D., & Patil, S. (2018). IoT-based intelligent traffic signal system for emergency vehicles. 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT), 788–793. https://doi.org/10.1109/ICICCT.2018.8473210 
