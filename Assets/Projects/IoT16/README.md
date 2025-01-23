@@ -4,20 +4,17 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
 ## IoT#16 : IoT-based Crop Disease Detection System for Mango trees
+![](https://img.shields.io/badge/Member-Hemanth_Kumaar_J_P-gold)  ![](https://img.shields.io/badge/Member-Jose_Rohit_M-gold)  ![](https://img.shields.io/badge/Member-Kaushik_M-gold) <br/> 
+![](https://img.shields.io/badge/SDG-1-darkgreen) ![](https://img.shields.io/badge/SDG-2-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
 
-### Team Members:
-
-Hemanth Kumaar J P(CB.EN.U4CYS22028)
-
-Jose Rohit M(CB.EN.U4CYS22030)
-
-Kaushik M(CB.EN.U4CYS22035)
+---
 
 
 ### Problem statement:
 
 The project aims to design and develop an IoT-based model that collects real-time sensor data from crop fields and uploads it to the cloud. This data is analyzed using machine learning techniques on the cloud to make accurate and efficient decisions, thereby improving processing speed and reducing device complexity compared to similar architectures. The model will detect crop diseases and provide recommendations for the best pesticides to assist farmers in improving crop yield.
 
+---
 ### Proposed Solution:
 
 Developing an IoT-based Crop Disease Detection System that leverages smart sensors, real-time monitoring, and cloud integration to identify and track crop diseases efficiently.
@@ -26,6 +23,7 @@ Developing an IoT-based Crop Disease Detection System that leverages smart senso
      Integration of real-time tracking and automated alerts via mobile/web interfaces ensures timely updates for farmers.
      Maintenance includes periodic sensor calibration and health monitoring to ensure reliability.
      
+---   
 ### Hardware Requirements:
 | Component                          | Functionality                                                                                   |
 |------------------------------------|----------------------------------------------------------------------------------------------- |
@@ -46,6 +44,7 @@ Developing an IoT-based Crop Disease Detection System that leverages smart senso
 | Python               | Used for server-side logic and communication with hardware devices.                         |
 | MySQL Database       | Stores sensor data and logs for analysis, ensuring data persistence and accessibility.      |
 
+---
 ###Sustainable Development Goals: 
 
 | SDG                             | Contribution                                                                                   |
@@ -54,6 +53,7 @@ Developing an IoT-based Crop Disease Detection System that leverages smart senso
 | **SDG 2: Good Health and Well-being** | Healthier crops lead to higher quality and safer food, preventing health risks associated with consuming infected crops.                |
 | **SDG 13: Climate Action**      | Promotes sustainable agriculture and reduces crop loss, contributing to climate resilience and minimizing environmental impact.        |
 
+---
 ### Literature Survey on Mango Crop Disease Detection
 
 This study explores the use of IoT technology to detect and control mango crop diseases, ensuring improved yield and quality. 
@@ -76,6 +76,7 @@ This study explores the use of IoT technology to detect and control mango crop d
 
 This approach offers a cost-effective and efficient solution for mango disease management.
 
+---
 ### Reference:
 
 - Praveen, G. N., & Shashidhar, D. [2019]. **IoT Based Crop Disease Detection** . RV College of Engineering. 
