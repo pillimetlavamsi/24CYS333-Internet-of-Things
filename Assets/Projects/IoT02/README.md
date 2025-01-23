@@ -3,7 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#02 - Smart Waste Bin Monitoring and Route Optimization for Garbage Collection.
+## IoT#02 - Smart Waste Bin Monitoring and Route Optimization for Garbage Collection
 
 ![](https://img.shields.io/badge/Member-Adithya_N_S-gold)  ![](https://img.shields.io/badge/Member-Avi_Nair-gold)  ![](https://img.shields.io/badge/Member-S_Parvathi-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
@@ -17,7 +17,7 @@ Design a smart waste management system that utilizes sensor-equipped waste bins 
 ### Hardware Requirements
 
 | Hardware |  Name  | Purpose |
-|:-----|:--------:|:--------:|
+|:-----|:--------:|:--------|
 | Ultrasonic sensors   | HC-SR04 | Measures the real-time waste levels in the bin by detecting the distance between the sensor and the waste.
 | Weight Sensors   |  Load Cells  | Measures the total weight of the waste in the bin, offering an additional parameter to complement the ultrasonic sensor readings.
 | Microcontroller   | Arduino MKR WiFi 1010 | Processes sensor data, manages power, and communicates with a central server or cloud platform using its WiFi capabilities.
