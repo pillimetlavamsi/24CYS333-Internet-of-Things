@@ -64,8 +64,8 @@ The proposed solution involves the system will use an NPK sensor to monitor soil
 
 
 ### References:
-- Amrutha, A., Lekha, R., & Sreedevi, A. (2016, December). Automatic soil nutrient detection and fertilizer dispensary system. In 2016 International Conference on Robotics: Current Trends and Future Challenges (RCTFC) (pp. 1-5). IEEE.
-- Kabilan, S., Gunapriya, D., Shivagurunathan, A., & Thalagandasamy, N. (2024, March). IOT-Based Soil Nutrient Monitoring Decision System. In 2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS) (Vol. 1, pp. 2297-2301). IEEE.
-- Abidin, A. I. Z., Fadzil, F. A., & Peh, Y. S. (2018, November). Micro-controller based fertilizer dispenser control system. In 2018 IEEE Conference on Wireless Sensors (ICWiSe) (pp. 17-22). IEEE.
+- Amrutha, A., Lekha, R., & Sreedevi, A. (2016, December). **Automatic soil nutrient detection and fertilizer dispensary system**. _In 2016 International Conference on Robotics: Current Trends and Future Challenges (RCTFC)_ (pp. 1-5). IEEE.
+- Kabilan, S., Gunapriya, D., Shivagurunathan, A., & Thalagandasamy, N. (2024, March). **IOT-Based Soil Nutrient Monitoring Decision System**. _In 2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)_ (Vol. 1, pp. 2297-2301). IEEE.
+- Abidin, A. I. Z., Fadzil, F. A., & Peh, Y. S. (2018, November). **Micro-controller based fertilizer dispenser control system**. _In 2018 IEEE Conference on Wireless Sensors (ICWiSe)_ (pp. 17-22). IEEE.
 <br>
 
