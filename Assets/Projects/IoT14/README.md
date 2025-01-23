@@ -5,11 +5,10 @@
 <br>
 
 # IoT#14 - Real-Time Accident Detection and Alert System
-
 ![](https://img.shields.io/badge/Member-G_VETTRIVEL-gold)  ![](https://img.shields.io/badge/Member-LOGESH_R-gold)  ![](https://img.shields.io/badge/Member-RATHNESH_R-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen)
 <br>
-<br>
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
 
 ---
 
