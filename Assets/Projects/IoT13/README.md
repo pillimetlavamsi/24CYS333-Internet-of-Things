@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Deepak_Kumar_S-gold)  ![](https://img.shields.io/badge/Member-Joshua_Anto_A-gold)  ![](https://img.shields.io/badge/Member-Midhru_Jayan_K-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-2-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-17-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-brown)
+<!--![](https://img.shields.io/badge/Reviewed-brown)-->
 
 ---
 ### Problem Statement
@@ -18,12 +18,12 @@ The supply chain management of milk faces significant challenges in ensuring tra
 
 | Components      | Purpose | 
 |:-----------------|:-------| 
-| ESP32 Board             |  |
-| PIR Motion sensor(HC-SR501)  | |
-| DHT22 (Temperature/Humidity)|  |
-| GPS Module (NEO-6M)    |    |
-| GSM Module (SIM7600)    |    |
-| Breadboard and Jump Wires    |    |
+| ESP32 Board             | Acts as the central microcontroller to integrate and process data from various IoT sensors.  |
+| PIR Motion sensor(HC-SR501)  |Detects unauthorized access to milk storage or transportation areas.|
+| DHT22 (Temperature/Humidity)| Monitors the storage and transportation conditions to ensure milk quality. |
+| GPS Module (NEO-6M)    | Tracks the real-time location of milk during transportation for traceability.  |
+| GSM Module (SIM7600)    | Enables wireless communication for transmitting IoT data to the blockchain network.   |
+| Breadboard and Jump Wires    | Facilitates connections between hardware components for prototyping and testing.   |
 
 ### Software Requirements
 - TBD
