@@ -7,29 +7,18 @@
 
 ![](https://img.shields.io/badge/Member-B_M_Sai_Sathvik-gold)  ![](https://img.shields.io/badge/Member-Gunateet_Dev-gold)  ![](https://img.shields.io/badge/Member-Vishal_S-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
-
-
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
 ---
 
 ### Problem Statement
+Urban transportation faces significant challenges, including congestion, environmental concerns, and inefficient bike sharing systems. Traditional
+bike-sharing setups often lack smart features like seamless payment, real-time tracking, and maintenance alerts, limiting their appeal and usability. In addition, users often face problems such as unclear vehicle availability, lack of range estimation, and difficulty ensuring bike security.<br> 
+This project aims to design and implement a prototype Smart Bike Sharing System that integrates Internet of Things (IoT) technology to address these challenges. The system focuses on two key functionalities: payment-based unlocking and dynamic range display.<br> 
+A GPS module will enable real-time tracking, allowing users and administrators to monitor the bike’s location for safety and efficient management.
 
-Urban transportation faces significant challenges, including congestion,
- environmental concerns, and inefficient bike sharing systems. Traditional
- bike-sharing setups often lack smart features like seamless payment, real-time
- tracking, and maintenance alerts, limiting their appeal and usability. In addition,
- users often face problems such as unclear vehicle availability, lack of range
- estimation, and difficulty ensuring bike security.<br>
- This project aims to design and implement a prototype Smart Bike Sharing System
- that integrates Internet of Things (IoT) technology to address these challenges. The
- system focuses on two key functionalities: payment-based unlocking and dynamic
- range display.<br>
- A GPS module will enable real-time tracking, allowing users and administrators to
- monitor the bike’s location for safety and efficient management.
-
- ---
+---
 
 ### Hardware Requirements
-
 
 | Component                  | Functionality                                                                                    |
 |----------------------------|--------------------------------------------------------------------------------------------------|  
@@ -43,7 +32,6 @@ Urban transportation faces significant challenges, including congestion,
 | Breadboard and Jump Wires  | Allow easy connections for assembling and testing components.                                    |
 
 ---
-
 
 ### Literature Survey  
 
