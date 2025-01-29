@@ -18,10 +18,6 @@
  By leveraging advanced sensors, data analytics, and cloud connectivity, the system will track parameters such as pH, turbidity, and contaminant levels, providing instant alerts on water quality issues. This enables proactive interventions to ensure safety, improve resource management, and maintain compliance with health and environmental standards across various applications.
 
 ---
- ### Literature Survey
- Existing IoT-based water quality monitoring systems typically focus on basic parameters like pH and TDS, using microcontrollers such as Arduino or ESP32 for real-time data transmission and platforms like ThingSpeak for visualization. However, they lack advanced analytics, monitor limited parameters, face scalability and energy efficiency challenges, and often neglect IoT security. Our project addresses these gaps by integrating predictive analytics to provide early warnings for contamination, expanding monitoring to include microbial content, heavy metals, and agricultural contaminants like nitrates and phosphates. Additionally, we aim to design scalable, energy-efficient solutions, such as solar-powered systems, suitable for diverse applications like drinking water, household systems, public water tanks, and agriculture. Robust IoT security measures will also ensure secure data transmission.
-
----
  ### Hardwares Required
 
 | Components               | Purpose                                                                                          |
@@ -34,6 +30,11 @@
 | 5V active Alarm Buzzer Module    | Produces an audible alarm for alerts or notifications. |
 | INVENTO 11.1V-12V 1500 mAh               | Provides rechargeable power for electronic devices or projects. |
 | DS18B20 Waterproof| Measures temperature in environments that may involve liquids or moisture. |
+
+---
+ ### Literature Survey
+ Existing IoT-based water quality monitoring systems typically focus on basic parameters like pH and TDS, using microcontrollers such as Arduino or ESP32 for real-time data transmission and platforms like ThingSpeak for visualization. However, they lack advanced analytics, monitor limited parameters, face scalability and energy efficiency challenges, and often neglect IoT security. Our project addresses these gaps by integrating predictive analytics to provide early warnings for contamination, expanding monitoring to include microbial content, heavy metals, and agricultural contaminants like nitrates and phosphates. Additionally, we aim to design scalable, energy-efficient solutions, such as solar-powered systems, suitable for diverse applications like drinking water, household systems, public water tanks, and agriculture. Robust IoT security measures will also ensure secure data transmission.
+
 
 ---
  ### Proposed Solution
@@ -61,5 +62,5 @@ public health safety, and meets regulatory compliance.
 
 ---
  ### References
- - Mathew, B. K., Chacko, F. M., Nikhil, A., Shilu, S. K., & Sreelakshmi, S. (2023, December). Intelligent IoT-Based Real-Time Water Quality Monitoring and Pollution Detection System. In 2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES) (pp. 1-7). IEEE.
-- Abidin, Z., Maulana, E., Nurrohman, M. Y., & Wardana, F. C. (2022, August). Real time monitoring system of drinking water quality using internet of things. In 2022 International Electronics Symposium (IES) (pp. 131-135). IEEE. 
+ - Mathew, B. K., Chacko, F. M., Nikhil, A., Shilu, S. K., & Sreelakshmi, S. (2023, December). **Intelligent IoT-Based Real-Time Water Quality Monitoring and Pollution Detection System**. _In 2023 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES)_ (pp. 1-7). IEEE.
+- Abidin, Z., Maulana, E., Nurrohman, M. Y., & Wardana, F. C. (2022, August). **Real time monitoring system of drinking water quality using internet of things**. _In 2022 International Electronics Symposium (IES)_ (pp. 131-135). IEEE. 
