@@ -3,7 +3,7 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-# IoT#18 Integrated Smart Home Intrusion Detection System 
+# IoT#18 - Integrated Smart Home Intrusion Detection System 
 ![](https://img.shields.io/badge/Member-Lalitha_K-gold)  ![](https://img.shields.io/badge/Member-Nikku_Parthiv_Kumar-gold)  ![](https://img.shields.io/badge/Member-Pillimetla_Vamsi-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
 
@@ -33,7 +33,6 @@ Current smart home solutions often lack seamless integration, requiring multiple
 | Jumper Wires           | Connects components to the Raspberry Pi or breadboard.    | Essential for creating circuit setups.                                                 |
 | Resistors (e.g., 330Ω) | Protects LEDs and other components by limiting current flow. | Prevents damage to sensitive components from overcurrent.                              |
 
----
 
 ## Health Monitoring Components
 
@@ -64,7 +63,7 @@ Current smart home solutions often lack seamless integration, requiring multiple
 -Honeypots simulate vulnerable systems to detect and log malicious activities. While effective for analyzing attacks, they often operate independently and lack integration with smart home platforms.
 -HoneyPi acts as a lightweight honeypot to detect and log network intrusions
 
-## Research Gaps and Our Objective
+### Research Gaps and Our Objective
 - Use of Multiple Sensors: Existing solutions lack comprehensive multi-sensor setups for intrusion detection.
 - Integration Challenges: There is a lack of integration between smart home intrusion detection, intrusion detection and health monitoring.
 - Unified IoT Platforms: Limited focus on creating unified IoT platforms for enhanced user convenience in smart homes.
@@ -110,9 +109,9 @@ The Integrated IoT-Based Smart Home Intrusion Detection System will utilize a Ra
 
 
 ## References
-- Sahoo, K. C., & Pati, U. C. (2017, May). **IoT based intrusion detection system using PIR sensor**. _In 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology__ (RTEICT) (pp. 1641-1645). IEEE.
+- Sahoo, K. C., & Pati, U. C. (2017, May). **IoT based intrusion detection system using PIR sensor**. __In 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology__ (RTEICT) (pp. 1641-1645). IEEE.
   
-- Valsalan, P., Baomar, T. A. B., & Baabood, A. H. O. (2020). **IoT based health monitoring system**. _Journal of critical reviews__, 7(4), 739-743.
+- Valsalan, P., Baomar, T. A. B., & Baabood, A. H. O. (2020). **IoT based health monitoring system**. __Journal of critical reviews__, 7(4), 739-743.
 
 - Saha, H. N., Auddy, S., Pal, S., Kumar, S., Pandey, S., Singh, R., ... & Saha, S. (2017, August). **Health monitoring using internet of things (IoT)**. __In 2017 8th annual industrial automation and electromechanical engineering conference__ (IEMECON) (pp. 69-73). IEEE.
 
