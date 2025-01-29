@@ -14,11 +14,6 @@
 
 The growing reliance on battery-powered devices, particularly in IoT-based applications, has raised concerns about battery health, performance, and efficient management. Traditional battery monitoring systems lack real-time tracking, remote access, and automated management features. This leads to issues such as overcharging, undercharging, and inefficient energy consumption, reducing the lifespan and reliability of batteries.
 
-The proposed IoT-Based Battery Surveillance and Management System aims to address these challenges by providing:
-- Real-time monitoring of battery health.
-- Remote management via a web or mobile interface.
-- Enhanced performance and longevity of IoT device power sources.
-
 ---
 
 ### Hardware Requirements
@@ -37,6 +32,7 @@ The system requires the following components:
 | **Resistors**          | Used to regulate current and voltage in the circuit.                                                   |
 | **Connecting Wires**   | Facilitate connections between components.                                                             |
 
+
 ---
 
 ### Literature Survey
@@ -51,26 +47,7 @@ The "IoT-Based Battery Monitoring System for Electric Vehicles" focuses on lever
 - IoT components like Arduino UNO, ESP8266, and sensors enable real-time data collection and remote access.
 - Wireless communication and automated management systems improve battery life and operational efficiency.
 
-#### Lithium-Ion Battery Management
-- Lithium-ion batteries are commonly used in IoT applications due to their high energy density.
-- Safe charging mechanisms, efficient power consumption, and robust network connectivity are critical challenges addressed in this study.
-
-#### Applications
-- The proposed system applies to electric vehicles, renewable energy systems, and portable devices, ensuring efficient energy management and prolonged battery life.
-
----
-
-### Alignment with Sustainable Development Goals (SDGs)
-
-| **Sustainable Development Goal (SDG)** | **Project Contribution**                                                                                       |
-|-----------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **SDG 7: Affordable and Clean Energy**  | Promotes efficient battery energy management to optimize consumption. Extends battery life, reducing waste and costs associated with frequent replacements. |
-| **SDG 9: Industry, Innovation, and Infrastructure** | Introduces IoT-based innovations for battery health monitoring. Enhances infrastructure reliability in electric vehicles and renewable energy systems. |
-| **SDG 12: Responsible Consumption and Production** | Encourages sustainable battery usage and disposal practices. Reduces energy waste through real-time monitoring and automated processes. |
-
----
-
-### Challenges
+#### Challenges
 
 Key challenges in implementing the system include:
 - Ensuring accurate real-time monitoring of battery health.
@@ -80,17 +57,32 @@ Key challenges in implementing the system include:
 - Handling network connectivity issues.
 - Maintaining system reliability and stability, especially in dynamic or remote environments.
 
+
 ---
 
-### Scope
+### Proposed Solution
+The proposed IoT-Based Battery Surveillance and Management System aims to address these challenges by providing:
+- Real-time monitoring of battery health.
+- Remote management via a web or mobile interface.
+- Enhanced performance and longevity of IoT device power sources.
+
+#### Scope
 -  **IoT-Based Lithium-Ion Battery Health Monitoring & Management:** Develop an IoT system for remote monitoring and management of lithium-ion battery health, enabling automated charging and real-time data analysis to enhance battery life, optimize energy consumption, and ensure safety.
 
 - **Applications in Electric Vehicles, Renewable Energy Systems & Portable Devices:** Implement the system across various applications, such as electric vehicles, renewable energy systems, and portable devices, to ensure efficient energy use, prolonged battery lifespan, and reliable performance
 
 ---
 
+
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
+
+| **Sustainable Development Goal (SDG)** | **Alignment**                                                                                       |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **SDG 7: Affordable and Clean Energy**  | Promotes efficient battery energy management to optimize consumption. Extends battery life, reducing waste and costs associated with frequent replacements. |
+| **SDG 9: Industry, Innovation, and Infrastructure** | Introduces IoT-based innovations for battery health monitoring. Enhances infrastructure reliability in electric vehicles and renewable energy systems. |
+| **SDG 12: Responsible Consumption and Production** | Encourages sustainable battery usage and disposal practices. Reduces energy waste through real-time monitoring and automated processes. |
+
+---
+
 ### Reference
-- Karthikeyen, S., Priya, C. K., Varshini, M., Swathi, P., & Sudharsan, S. (2024). loT-Based Wireless Battery Surveillance and Management System. Journal of Electronics and Informatics 6, (2), 117-130.
-
-
-
+- Karthikeyen, S., Priya, C. K., Varshini, M., Swathi, P., & Sudharsan, S. (2024). **IoT-Based Wireless Battery Surveillance and Management System. Journal of Electronics and Informatics** 6, (2), 117-130.
