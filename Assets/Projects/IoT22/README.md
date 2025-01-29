@@ -62,14 +62,16 @@ This system is intended to make the process of traffic management responsive and
 ### Sustainable Develpoment Goals (SDGs)
 | SDG | Alignment |
 |:----|:----------|
-| Goal 11 - Sustainable Cities and Communities | To make cities inclusive, safe, resilient and sustainable. |
+| Goal 11 - Sustainable Cities and Communities | It enhances urban safety by enabling faster emergency response through real-time sound detection, saving lives and improving city infrastructure. |
 
----
+
 
 ### Collaboration
 | Team | Module & Scope |
 |:-----|:---------------|
 | [IoT#01](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT01) | IoT-Driven Smart Ambulance System for Real-Time Traffic Management and Emergency Response Optimization** |
 
+---
+
 ### References
-- Bhate, S. V., Kulkarni, P. V., Lagad, S. D., Shinde, M. D., & Patil, S. (2018). IoT-based intelligent traffic signal system for emergency vehicles. 2018 Second International Conference on Inventive Communication and Computational Technologies (ICICCT), 788–793. https://doi.org/10.1109/ICICCT.2018.8473210 
+- Bhate, S. V., Kulkarni, P. V., Lagad, S. D., Shinde, M. D., & Patil, S. (2018). **IoT-based intelligent traffic signal system for emergency vehicles**. 2018 *Second International Conference on Inventive Communication and Computational Technologies (ICICCT)*, 788–793. https://doi.org/10.1109/ICICCT.2018.8473210 
