@@ -45,7 +45,7 @@ Developing an IoT-based Crop Disease Detection System that leverages smart senso
 | MySQL Database       | Stores sensor data and logs for analysis, ensuring data persistence and accessibility.      |
 
 ---
-###Sustainable Development Goals: 
+### Sustainable Development Goals: 
 
 | SDG                             | Contribution                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
