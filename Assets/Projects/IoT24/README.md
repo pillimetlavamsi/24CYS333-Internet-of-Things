@@ -17,7 +17,7 @@ Air pollution, caused by gases like Carbon Dioxide (CO₂) and Carbon Monoxide (
 
 ### Proposed Solution
 
-The proposed solution is an **IoT-enabled Indoor Air Quality Monitoring System**, designed to provide real-time data on air quality, with a focus on CO₂ and CO levels. The system continuously monitors pollutant concentrations, offers cloud integration for remote data analysis, and triggers real-time alerts in case of hazardous conditions.
+The proposed solution is an **IoT-enabled Air Quality Monitoring System**, designed to provide real-time data on air quality, with a focus on CO₂ and CO levels. The system continuously monitors pollutant concentrations, offers cloud integration for remote data analysis, and triggers real-time alerts in case of hazardous conditions.
 
 #### Core Functionalities:
 1. **Continuous Monitoring:**  
@@ -71,8 +71,8 @@ The proposed solution is an **IoT-enabled Indoor Air Quality Monitoring System**
 
 | SDG | Alignment                                         |
 |-----|--------------------------------------------------|
-| Goal 3 - Good Health and Well-Being | Promotes healthier indoor environments by monitoring and mitigating harmful air pollutants. |
-| Goal 11 - Sustainable Cities and Communities | Contributes to sustainable indoor spaces by encouraging better air quality management practices. |
+| Goal 3 - Good Health and Well-Being | Promotes healthier environments by monitoring and mitigating harmful air pollutants. |
+| Goal 11 - Sustainable Cities and Communities | Contributes to sustainable spaces by encouraging better air quality management practices. |
 
 ---
 
@@ -85,7 +85,7 @@ The proposed solution is an **IoT-enabled Indoor Air Quality Monitoring System**
 ---
 
 ### Conclusion
-The IoT-Based Air Quality Monitoring System is a comprehensive solution to address the critical issue of air quality. It empowers individuals and organizations to ensure healthier and more sustainable indoor environments while aligning with global sustainability goals.
+The IoT-Based Air Quality Monitoring System is a comprehensive solution to address the critical issue of air quality. It empowers individuals and organizations to ensure healthier and more sustainable environments while aligning with global sustainability goals.
 
 ---
 
