@@ -28,13 +28,13 @@ Elderly individuals often face challenges in maintaining healthy sleep patterns,
 ---
 ### Literature Survey  
 
-### Existing Solutions  
+#### Existing Solutions  
 
 Current methods addressing sleep monitoring and health status tracking include:  
 - *Polysomnography (PSG):* The gold standard for sleep measurement, conducted in specialized laboratories with multiple sensors and cables. Despite its accuracy, PSG is intrusive, requires patients to remain in one posture overnight, and disrupts natural sleep patterns.  
 - *IoT-Based Sleep Monitoring:* Emerging systems present non-intrusive, inexpensive, and portable alternatives for remote health monitoring. These solutions leverage IoT.
 
-### Research Gaps  
+#### Research Gaps  
 1. *Intrusiveness of Current Methods:* Existing gold-standard techniques like PSG are cumbersome and impractical for daily or long-term use due to their setup complexity.  
 2. *Lack of Wearable Integration:* Few IoT-based solutions incorporate wearables that focus on indirect sleep monitoring metrics, such as REM detection through heartbeat tracking.  
 3. *Backup Mechanisms:* Limited efforts include respiratory monitoring as a secondary layer for ensuring robust sleep abnormality detection.  
@@ -62,10 +62,14 @@ The system will also monitor motion and activity levels through accelerometer an
 ### Collaboration 
 | Team | Module & Scope |
 |:----:|:---------------|
-| IoT#11 |  Elderly Monitoring System with Fall Detection and Emergency Alert Mechanism | 
+| [IoT#11](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT11) |  Elderly Monitoring System with Fall Detection and Emergency Alert Mechanism | 
 ---
 
-### References  
-- K. Thinakaran, V. V. Baskar, M. A. Shariff, M. Chervith, G. Raghavendra, and S. Velmurugan, "IoT-Enabled Sleep Monitoring Wearables: Advancements in Tracking and Analysis"  
-- Ali, S., & Parveen, S. (2023), “IoT-Based Smart Healthcare Monitoring System: A Prototype Approach”
-- Karthika, K., Mishra, N., Dhanalakshmi, S., Sasikala, S., Murthy, S. M., \& Murugan, S. (2023) "Raspberry Pi-enabled wearable sensors for personal health tracking and analysis"
+## References
+
+Thinakaran, K., Baskar, V. V., Shariff, M. A., Chervith, M., Raghavendra, G., & Velmurugan, S. (n.d.). *IoT-enabled sleep monitoring wearables: Advancements in tracking and analysis*. **[2nd International Conference on Computer, Communication and Control (IC4) (pp. 1-5). IEEE.]**.  
+
+Ali, S., & Parveen, S. (2023). *IoT-based smart healthcare monitoring system: A prototype approach*. **[Intelligent Communication Technologies and Virtual Mobile Networks: Proceedings of ICICV 2022 (pp. 441-452). Singapore: Springer Nature Singapore.e]**.  
+
+Karthika, K., Mishra, N., Dhanalakshmi, S., Sasikala, S., Murthy, S. M., & Murugan, S. (2023). *Raspberry Pi-enabled wearable sensors for personal health tracking and analysis*. **[International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS) (pp. 1254-1259). IEEE.]**.  
+
