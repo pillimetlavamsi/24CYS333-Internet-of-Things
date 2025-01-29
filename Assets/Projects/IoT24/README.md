@@ -11,13 +11,13 @@
 ---
 
 ### Problem Statement
-Indoor air pollution, caused by gases like Carbon Dioxide (CO₂) and Carbon Monoxide (CO), significantly impacts human health. These pollutants, often invisible and odorless, can lead to respiratory diseases, reduced cognitive function, and severe health risks over prolonged exposure. Despite its importance, indoor air quality remains under-monitored in most households and workplaces.
+Air pollution, caused by gases like Carbon Dioxide (CO₂) and Carbon Monoxide (CO), significantly impacts human health. These pollutants, often invisible and odorless, can lead to respiratory diseases, reduced cognitive function, and severe health risks over prolonged exposure. Despite its importance, air quality remains under-monitored in most places.
 
 ---
 
 ### Proposed Solution
 
-The proposed solution is an **IoT-enabled Indoor Air Pollution Monitoring System**, designed to provide real-time data on air quality, with a focus on CO₂ and CO levels. The system continuously monitors pollutant concentrations, offers cloud integration for remote data analysis, and triggers real-time alerts in case of hazardous conditions.
+The proposed solution is an **IoT-enabled Indoor Air Quality Monitoring System**, designed to provide real-time data on air quality, with a focus on CO₂ and CO levels. The system continuously monitors pollutant concentrations, offers cloud integration for remote data analysis, and triggers real-time alerts in case of hazardous conditions.
 
 #### Core Functionalities:
 1. **Continuous Monitoring:**  
@@ -53,8 +53,8 @@ The proposed solution is an **IoT-enabled Indoor Air Pollution Monitoring System
 ---
 
 ### Software Requirements
-- **Arduino IDE:** For programming the Arduino Uno and NodeMCU ESP8266 boards.  
-- **ThingSpeak:** A cloud-based platform for monitoring and analyzing air quality data in real time.  
+- **Arduino IDE:** 
+- **ThingSpeak:** 
 
 ---
 
@@ -85,7 +85,7 @@ The proposed solution is an **IoT-enabled Indoor Air Pollution Monitoring System
 ---
 
 ### Conclusion
-The IoT-Based Indoor Air Pollution Monitoring System is a comprehensive solution to address the critical issue of indoor air quality. It empowers individuals and organizations to ensure healthier and more sustainable indoor environments while aligning with global sustainability goals.
+The IoT-Based Air Quality Monitoring System is a comprehensive solution to address the critical issue of air quality. It empowers individuals and organizations to ensure healthier and more sustainable indoor environments while aligning with global sustainability goals.
 
 ---
 
