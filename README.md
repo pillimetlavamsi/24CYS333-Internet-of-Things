@@ -85,13 +85,13 @@
 | Masterclass on Internet of Things | 11 - Dec - 2024 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Base Paper and Problem Statement Submission | 05 - Jan - 2025  | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Quiz - 1 | 07 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
-| [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 |
-| Review - 1 | 22 - Jan - 2025 |
-| Quiz - 2  | 29 - Jan - 2025 |
-| Mid-Term Examination | Feb - 2025 |
-| NPTEL Exam Registraion Ends | 14 - Feb - 2025 |
-| Review - 2 | 19 - Feb - 2025 |
-| Quiz - 3  | 05 - Mar - 2025 |
+| [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Quiz - 2  | 17 - Feb - 2025 | 
+| Review - 1 | 19 - Jan - 2025 |
+| NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
+| Review - 2 | 05 - Mar - 2025 |
+| Quiz - 3  | 06 - Mar - 2025 |
 | Report Submission | 25 - Mar - 2025 |
 | Review - Final | 26 - Mar - 2025 |
 | Missed Quiz | 02 - Apr - 2025 |
