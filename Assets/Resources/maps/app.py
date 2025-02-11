@@ -11,11 +11,8 @@ import json
 
 app = Flask(__name__)
 
-# 🔵 AQI API Token
-AQI_API_KEY = "62a50a5a118a554f08aa33af974217ad84e6deb8"
-
 # 🔴 HERE API Key
-HERE_API_KEY = "K8sooCSFKCDW_0GCDf_wuc_58mhafMLjiskoViPsrYw"
+HERE_API_KEY = os.getenv("HERE_API_KEY", "your-backup-key")
 
 # 🔵 Route: Home Dashboard
 @app.route('/')
