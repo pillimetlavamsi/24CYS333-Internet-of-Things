@@ -6,11 +6,10 @@
 ## IoT#16 - IoT-based Crop Disease Detection System for Mango trees
 ![](https://img.shields.io/badge/Member-Hemanth_Kumaar_J_P-gold)  ![](https://img.shields.io/badge/Member-Jose_Rohit_M-gold)  ![](https://img.shields.io/badge/Member-Kaushik_M-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-1-darkgreen) ![](https://img.shields.io/badge/SDG-2-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
-
+![](https://img.shields.io/badge/Reviewed-13th_Feb_2025-brown) 
 ---
 
-
-### Problem statement
+### Problem Statement
 
 The project aims to design and develop an IoT-based model that collects real-time sensor data from crop fields and uploads it to the cloud. This data is analyzed using machine learning techniques on the cloud to make accurate and efficient decisions, thereby improving processing speed and reducing device complexity compared to similar architectures. The model will detect crop diseases and provide recommendations for the best pesticides to assist farmers in improving crop yield.
 
@@ -26,7 +25,6 @@ The project aims to design and develop an IoT-based model that collects real-tim
 | Wi-Fi Module (e.g., ESP8266 or ESP32) | Enables data transmission to a server or cloud platform for remote monitoring.               |
 | Battery                            | Provides uninterrupted power, such as a rechargeable lithium-ion battery.                     |
 
----
 ### Software Requirements
 | Component            | Functionality                                                                                 |
 |----------------------|--------------------------------------------------------------------------------------------- |
