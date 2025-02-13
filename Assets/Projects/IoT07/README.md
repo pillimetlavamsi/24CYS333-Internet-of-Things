@@ -48,9 +48,7 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 
 #### Relevance of Proposed Work  
 - **Improves Public Transit Efficiency:** The system reduces delays, optimizes routes, and enhances reliability, encouraging more people to use public transportation.
-- **Encourages Community Involvement:** Volunteer-driven contributions and incentivized reporting foster community participation and accountability in maintaining the system.
-- **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
-- **Innovates Beyond Existing Solutions:** Combines IoT and blockchain to address gaps in decentralization, predictive analytics, and integration of informal transport modes.
+- **Encourages Community Involvement:** Volunteer-driven contributions and incentivized reporting foster community participation and accountability in maintaining the system
   
 ---
 
