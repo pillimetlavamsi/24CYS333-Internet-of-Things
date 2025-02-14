@@ -53,7 +53,9 @@ Heavy traffic congestion is increasingly becoming a problem in urban areas, whic
 We plan to place sound sensors all over the city for effective monitoring and detection of emergency sirens. The system will use the Sound Sensor (KY-038) connected to an ESP32 Microcontroller to process sound data in real time. If the system continuously detects the sound of an emergency siren for a long period from the same sensor, it will immediately send alerts.
 These alerts perform:
 - **Traffic Management:**
-The system will send a signal to the nearest traffic police so that they will be able to take necessary action, then the traffic police will clear the path for the emergency vehicle.
+When an emergency siren is detected, the ESP32 sends a signal to the traffic light controller at the junction.
+The system will turn all other traffic lights red, allowing the emergency vehicle to pass freely.
+Once the vehicle has passed or the siren stops, the system will restore normal traffic flow automatically.
 This system is intended to make the process of traffic management responsive and efficient in terms of emergency vehicle access, reducing delays and enhancing public safety in critical situations.
 
 ---
