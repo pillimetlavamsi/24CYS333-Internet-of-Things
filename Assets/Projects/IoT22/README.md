@@ -3,11 +3,11 @@
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
-## IoT#22 - IoT-Based System to mitigate traffic congestion for emergency vehicles.
+## IoT#22 - IoT-Based System to mitigate Traffic Congestion for Emergency Vehicles
 
 ![](https://img.shields.io/badge/Member-Nedurumalli_Ved_Varshith_Reddy-gold) ![](https://img.shields.io/badge/Member-Saride_Someswara_Sai_Sri_Chakri-gold) ![](https://img.shields.io/badge/Member-Rudra_Srilakshmi-gold)</br>
 ![](https://img.shields.io/badge/SDG-11-darkgreen)</br>
-<!--![](https://img.shields.io/badge/Reviewed--brown) -->
+![](https://img.shields.io/badge/Reviewed-14th_Feb_2025-brown)
 
 ---
 
