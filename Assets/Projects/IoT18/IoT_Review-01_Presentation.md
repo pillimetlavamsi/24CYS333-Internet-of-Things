@@ -1,13 +1,28 @@
-# Configuration:
-We configured RaspberryPi to enable ssh service on boot and automatically connect to a wifi router to get an ip address
+# Honeypot Architecture with Raspberry Pi
 
+## Overview of the setup
+This project sets up a honeypot using a Raspberry Pi to detect network attacks and redirect malicious traffic to a decoy server. The system is designed to:
+- Detect port scans using **PSAD** (Port Scan Attack Detector)
+- Redirect attackers to a honeypot (decoy server)
+- Provide network connectivity through an **Access Point (AP)**
+- Allocate dynamic IP addresses using **dnsmasq**
+- Route legitimate sensor data to a secure web server
 
-## Stage 1:
-we used raspberry pi, inbuilt wifi interface (wlan0) to connect to the router/Personal Hostpot and attain IP address.
-After the connection, the packets will be processed and actions are preformed according to some firewall rules.
-constraint: If a port scan happens on the any machine over the network, the psad service will alert the root user on raspberry pi and redirects the attacker to the HoneyPot.
+## Architecture Stack
+![Architecture Stack](./Images/ArchStack.jpg)
 
-**psad.conf**
+## Configuration
+The Raspberry Pi is configured to:
+- Enable **SSH** on boot
+- Automatically connect to a **Wi-Fi router** to obtain an IP address
+
+## Stage 1: Network Intrusion Detection & Traffic Redirection
+The Raspberry Pi uses its built-in Wi-Fi interface (**wlan0**) to connect to the network. Traffic is monitored, and firewall rules dictate how packets are processed.
+
+### Constraints
+- If a **port scan** is detected on any machine in the network, **PSAD** alerts the root user and redirects the attacker to the honeypot.
+
+### PSAD Configuration (`psad.conf`)
 ```psad
 ENABLE_AUTO_IDS Y;
 ENABLE_AUTO_IDS_EMAILS N;
@@ -16,12 +31,11 @@ EXPECT_TCP_OPTIONS Y;
 EXPECT_TCP_FLAGS Y;
 AUTO_IDS_DANGER_LEVEL 3;
 AUTO_BLOCKING_SCRIPT /etc/psad/redirect_to_honeypot.sh;
-
 ```
-**redirect script**
-```redirect_to_honeypot.sh
-#!/bin/bash
 
+### Redirection Script (`redirect_to_honeypot.sh`)
+```bash
+#!/bin/bash
 # Get the attacker's IP from PSAD
 ATTACKER_IP=$1
 
@@ -31,29 +45,33 @@ iptables -t nat -A PREROUTING -s $ATTACKER_IP -p tcp --dport 80 -j DNAT --to-des
 # Log the redirection
 echo "$(date) - Redirected $ATTACKER_IP to honeypot" >> /var/log/honeypot_redirect.log
 ```
-**IPTables config**
+
+### IPTables Configuration
 ```iptables
 # Flush existing rules
 sudo iptables -F
 sudo iptables -t nat -F
 
 # Allow forwarding from Raspberry Pi to the network
-sudo iptables -A FORWARD -i eth0 -o eth0 -j ACCEPT
+sudo iptables -A FORWARD -i wlan0_ap -o wlan0_ap -j ACCEPT
 
 # Default NAT for regular traffic (forward to actual server)
-sudo iptables -t nat -A PREROUTING -d 192.168.1.100 -j DNAT --to-destination 192.168.1.100
+sudo iptables -t nat -A PREROUTING -d 192.168.2.222 -j DNAT --to-destination 192.168.1.100
 
 # Redirect traffic from the attacker (X.X.X.X) to the honeypot
 sudo iptables -t nat -A PREROUTING -s X.X.X.X -p tcp --dport 80 -j DNAT --to-destination 192.168.1.200
 
 # Allow masquerading for outbound traffic
 sudo iptables -t nat -A POSTROUTING -j MASQUERADE
-
 ```
 
-## Stage 2:
-We created a virtual wifi interface (wlan0_ap) that acts as a Access Point to the machines under stage 2
-Supported modes for raspberry pi 3 B+
+## Stage 2: Setting Up a Wireless Access Point
+The Raspberry Pi is configured to act as an **Access Point (AP)** using a virtual Wi-Fi interface (`wlan0_ap`).
+```bash
+sudo iw dev wlan0 interface add wlan0_ap type __ap
+```
+
+### Supported Interface Modes (Raspberry Pi 3B+)
 ```bash
 Supported interface modes:
 	* IBSS
@@ -64,9 +82,8 @@ Supported interface modes:
 	* mesh point
 ```
 
-At this point of time, we are good with connection hardware.
-To achive DHCP for allocation of IP address, we used dnsmasq and host apd service
-- **dnsmasq**: allocates an ip address for the network [DHCP server]
+### DHCP Configuration with **dnsmasq**
+`dnsmasq` provides **DHCP services**, assigning IP addresses to connected clients.
 ```dnsmasq
 interface=wlan0_ap
 dhcp-range=192.168.4.2,192.168.4.20,255.255.255.0,24h
@@ -77,7 +94,8 @@ dhcp-option=3,192.168.4.1
 dhcp-option=6,192.168.4.1
 ```
 
-- **Hostapd**: used to configure the virtual wifi interface as access point.
+### Access Point Configuration with **Hostapd**
+`hostapd` configures the Wi-Fi interface as an access point.
 ```Hostapd
 interface=wlan0_ap
 driver=nl80211
@@ -91,10 +109,33 @@ auth_algs=1
 #wpa_key_mgmt=WPA-PSK
 #rsn_pairwise=CCMP
 ```
-## Stage 3
-At stage 3, we used 2 virtual machines running web servers which are mirrors to each other but the purpose is different. 
-One webserver collects all the sensor data from the legit user and sends it through the raspberry pi to the webserver that is hosted on the **vm1**
 
-if any attacker trys a port over the network, the psad service on raspberrypi detects the attack and redirect the user to **honeypot** that is on **vm2**
+## Stage 3: Web Server Configuration
+At this stage, two virtual machines (VMs) are set up:
+1. **VM1 (Legitimate Web Server)**: Collects sensor data from authenticated users
+2. **VM2 (Honeypot Web Server)**: Decoy system for attackers redirected by PSAD
 
-both the **vms** are connected using the bridged adapter for direct communication.
+### Network Configuration
+- Both VMs use **bridged adapters** to allow direct communication.
+- Sensor data from legitimate users is forwarded to **VM1** through the Raspberry Pi.
+- If an attacker performs a **port scan**, **PSAD detects the activity** and reroutes their traffic to **VM2 (honeypot).**
+
+## Summary
+This project implements a **honeypot-based intrusion detection system** using a Raspberry Pi. It leverages **PSAD** to detect network attacks and dynamically redirects attackers to a honeypot environment, while maintaining secure communication for legitimate users.
+
+### Technologies Used
+- **Raspberry Pi 3B+**
+- **PSAD** (Port Scan Attack Detector)
+- **iptables** (Firewall Configuration)
+- **dnsmasq** (DHCP Server)
+- **hostapd** (Wireless Access Point Setup)
+- **Linux Networking** (Bridged Adapter for VMs)
+
+### Future Enhancements
+- Implement logging and analytics for honeypot interactions.
+- Automate reporting of detected attackers.
+- Introduce more sophisticated honeypot deception techniques.
+
+---
+This README provides a comprehensive guide to setting up the Raspberry Pi-based honeypot system. Happy hacking (ethically)! 🚀
+
