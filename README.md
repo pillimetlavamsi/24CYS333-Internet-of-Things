@@ -87,13 +87,13 @@
 | Quiz - 1 | 07 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
-| Quiz - 2  | 17 - Feb - 2025 | 
-| Review - 1 | 19 - Jan - 2025 |
+| Review - 1 | 18 - Jan - 2025 <br/> 19 - Jan - 2025 |
 | NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
-| Review - 2 | 05 - Mar - 2025 |
-| Quiz - 3  | 06 - Mar - 2025 |
+| Quiz - 2  | 04 - Mar - 2025 | 
+| Review - 2 | 04 - Mar - 2025 <br/> 05 - Mar - 2025 |
 | Report Submission | 25 - Mar - 2025 |
 | Review - Final | 26 - Mar - 2025 |
+| Quiz - 3  | 27 - Mar - 2025 |
 | Missed Quiz | 02 - Apr - 2025 |
 | NPTEL Course Ends | 11 - Apr - 2025 |
 | End Semester Examination | Apr - 2025 |
@@ -111,5 +111,6 @@
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
-  -  NPTEL Final Exam (Optional) [Enrollment Ends: 14 Feb 2025]
+  -  NPTEL Final Exam (Optional) 
+
 
