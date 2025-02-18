@@ -88,6 +88,7 @@ monitoring in trains for filling the water tanks in trains optimally.
 | Team | Module & Scope |
 |:----:|:---------------|
 | IoT#03 | Water Contaminant Monitoring | 
+| IoT#10 | Smart Home Plantation System |
 
 ---
 **References:**
