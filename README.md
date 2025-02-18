@@ -55,12 +55,13 @@
 - [Lectures](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Lectures)
 - [Labs](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Lab)
 
-### Project/Case Study
+### Project/Case Study & Teams
 - [Topics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Case_Study.md)
 - [Teams](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Teams.md)
 
 ### Value Added Courses
 - [Session - 1 (December 11, 2024) - Masterclass on IoT](Assets/MC)
+- [Session - 2 (TBP)]()
 
 ### Tools
 - [TinkerCAD](https://www.tinkercad.com/)
@@ -87,7 +88,7 @@
 | Quiz - 1 | 07 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
-| Review - 1 | 18 - Jan - 2025 <br/> 19 - Jan - 2025 |
+| Review - 1 | 18 - Feb - 2025 <br/> 19 - Feb - 2025 | ![](https://img.shields.io/badge/Ongoing-orange) |
 | NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
 | Quiz - 2  | 04 - Mar - 2025 | 
 | Review - 2 | 04 - Mar - 2025 <br/> 05 - Mar - 2025 |
@@ -111,6 +112,8 @@
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
-  -  NPTEL Final Exam (Optional) 
+  -  NPTEL Final Exam (Optional)
+  -  No. of Students (expressed interest): 50
+  -  No. of Students (Registered): TBD
 
 
