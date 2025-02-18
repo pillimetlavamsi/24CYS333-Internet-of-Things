@@ -5,24 +5,39 @@
 
 ## IoT#12 - Remote Monitoring and Control of Borewell Pumps using IoT
 
+
+![](https://img.shields.io/badge/Member-Charan_K-gold)  ![](https://img.shields.io/badge/Member-Mukund_Kumarappan_S-gold)  ![](https://img.shields.io/badge/Member-Shravan_Krishnan_G-gold) <br/> 
+![](https://img.shields.io/badge/SDG-6-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen) <br/>
+![](https://img.shields.io/badge/Reviewed--brown)
+
+---
 **Problem Statement:**
 
 Borewell pumps are critical for providing water in agriculture, industrial, and domestic sectors especially in remote areas. However, monitoring and controlling these pumps manually is challenging, time-consuming and inefficient. Problems such as pump failures, energy wastage, water overuse and delayed detection of issues lead to increased costs, resource wastage and operational inefficiencies. Current systems lack real-time remote monitoring and automated control capabilities leaving users unable to respond quickly to malfunctions or optimize pump operations.
 
+---
 **Hardware requirements:**
-1. Arduino Uno: Serves as the main microcontroller that processes inputs from sensors and sends control signals to the relay module for operating the pump.
-2. Wi-Fi module ESP8266: It connects the Arduino to the internet, enabling remote communication between the system and the user.
-3. Water level sensor(HC-SR04): Measures the water level in the borewell to prevent dry running and ensure efficient pump operation.
-4. Pressure sensor(BMP180): Monitors water pressure to detect leaks or maintain optimal flow.
-5. Flow meter sensor(YF-S201): Tracks water flow rate to measure usage and detect anomalies like overflows.
-6. Relay module:  Acts as a switch to control the DC motor pump based on the microcontroller’s commands.
-7. 12V DC Motor Pump: Pumps water from the borewell to the desired location
-8. 5V DC Power supply: Provides the necessary electrical power to the entire system, including the Arduino, sensors, Wi-Fi module, and pump.
 
+| Components               | Purpose                                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| Arduino Uno | Acts as an microcontroller.Controls sensors and pump operations. |
+| Wi-Fi module (ESP8266) | Enables internet connectivity for remote access. |
+| Water level sensor (HC-SR04) | Prevents dry running by monitoring water levels. |
+| Pressure sensor (BMP180) | Detects leaks and maintains water flow pressure. |
+| Flow meter sensor (YF-S201) | Monitors water usage and flow rate. |
+| Relay module (Songle SRD-05VDC-SL-C) | Acts as a switch to remotely control the borewell pump via IoT commands. |
+| INVENTO 11.1V-12V 1500 mAh | Provides rechargeable power for electronic devices or projects. |
+| 12V DC Motor Pump | Pumps water from the borewell. |
+
+---
 **Software requirements:**
-1. Arduino IDE: Programs and uploads code to microcontrollers for integrating and controlling sensors.
-2. AWS Cloud platform: Provides remote data storage, real-time monitoring, and control of borewell pumps through analytics and dashboards.
 
+| Components               | Purpose                                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| Arduino IDE | Develops and uploads code to control sensors and the pump. |
+| AWS Cloud Platform | Enables remote monitoring, data storage, and control with real-time analytics. |
+
+---
 **Proposed solution:**
 
 The proposed system addresses the challenges of manual monitoring and control of borewell pumps by providing an IoT-based solution for real-time monitoring, automated control, and operational efficiency.
@@ -48,28 +63,39 @@ The proposed system addresses the challenges of manual monitoring and control of
 
 This solution improves efficiency, reduces resource wastage, and enhances the reliability of borewell pump operations, especially in remote areas.
 
+---
 **Literature survey**:
 
-The study by Udhaya Kumar et al. (2020) highlights the potential of IoT-based Bore Well Monitoring Systems in addressing groundwater challenges, particularly in agriculture. By integrating sensors and microcontrollers like Arduino Uno and NodeMCU, these systems enable real-time monitoring of water levels, leakage, and usage through smartphone applications such as Blynk. Traditional bore well monitoring methods in India, such as manual measurements, are time-consuming, inaccurate, and require on-site presence, necessitating innovative solutions for improved efficiency. While GSM and SMS-based systems have been used, they lack real-time analysis and comprehensive data integration. Recent IoT advancements provide automated and scalable solutions, reducing manpower and enabling precise monitoring of parameters like water levels, flow rates, and leaks. The proposed system offers predictive analytics, empowering farmers to manage water resources efficiently and sustainably, thereby addressing critical groundwater management issues in agrarian economies.
+Jonthan in Water Tank Depth Sensor revealed concept on switching on automatically
+the pumps.This paper creates acquaintance with the preciousness of water resource
+and about tank control and makes.Akinlalu addressed the problem related to
+find the depth of freshwater boreholes and the recommendation of areas to trace the
+location during installation time.Getu proposed a system for finding water levels
+automatically and controlling them.Poovizhi proposed a system for water level
+monitoring in trains for filling the water tanks in trains optimally.
 
-**Sustainable Development Goals(SDGs):**
-- **SDG 6: Clean Water and Sanitation**
+---
+**Mapping the Project to Relevant Sustainable Development Goals (SDGs):**
 
-  Ensures efficient water usage, reduces wastage, and promotes sustainable groundwater management.
-  
-- **SDG 12: Responsible Consumption and Production**
+| SDG | Alignment |
+|:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SDG 6: Clean Water and Sanitation |  Ensures efficient water usage, reduces wastage, and promotes sustainable groundwater management. |
+| SDG 12: Responsible Consumption and Production | Optimizes energy and water resource usage, minimizing waste and encouraging sustainable practices. |
 
-  Optimizes energy and water resource usage, minimizing waste and encouraging sustainable practices.
+ 
+**Collaboration:**
 
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT#03 | Water Contaminant Monitoring | 
+| IoT#10 | Smart Home Plantation System |
+
+---
 **References:**
-  - https://ijsrd.com/articles/IJSRDV8I70141.pdf
-  - https://www.researchgate.net/publication/334399396_Internet_of_Things_Based_Autonomous_Borewell_Management_System
+  - Karimisetty, S., Rugada, V. R., & Harshitha, D. (2020). **IoT-based borewell water-level detection and auto-control of submersible pumps.** In Intelligent System Design: Proceedings of Intelligent System Design: INDIA 2019 (pp. 55-61). Singapore: Springer Singapore.
+  - Malche, T., & Maheshwary, P. (2017). **Internet of things (IoT) based water level monitoring system for smart village.** In Proceedings of International Conference on Communication and Networks: ComNet 2016 (pp. 305-312). Springer Singapore.
 
-| Members | 
-|:-------:|
-| Charan K | 
-| Mukund Kumarappan S | 
-| Shravan Krishnan G |
+
 
 
 

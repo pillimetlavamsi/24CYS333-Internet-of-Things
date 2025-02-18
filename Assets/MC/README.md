@@ -10,6 +10,6 @@
 - [AnalogWrite](S124Dec11/AnalogWrite)
 
 #### Exercises - Connectivity
-- [WiFi](S124Dec11/WiFi)
-- [ThingSpeak Cloud](S124Dec11/ThingSpeak)
-- [Bluetooth](S124Dec11/BT)
+- [WiFi](S124Dec11/WiFi.md)
+- [ThingSpeak Cloud](S124Dec11/ThingSpeak.md)
+- [Bluetooth](S124Dec11/BT.md)

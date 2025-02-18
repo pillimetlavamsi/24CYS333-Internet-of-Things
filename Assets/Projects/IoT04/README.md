@@ -5,25 +5,27 @@
 
 ## IoT#04 -  Empowering Volunteerism with Blockchain and IoT: NFT Rewards for NGO Campaigns
 
-| Members | 
-|:-------:|
-| Aishwarya S | 
-| Dharshika S | 
-| Shree Harini T |
+![](https://img.shields.io/badge/Member-Aishwarya_S-gold)  ![](https://img.shields.io/badge/Member-Dharshika_S-gold)  ![](https://img.shields.io/badge/Member-Shree_Harini_T-gold) <br/> 
+![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-17-darkgreen) <br/>
+![](https://img.shields.io/badge/Reviewed-08th_Jan_2025-brown) 
+
 ---
-## Problem Statement : 
+### Problem Statement
 Volunteer-driven NGO campaigns face challenges in transparency, real-time participation tracking, and accurate data collection, especially in remote areas. The absence of IoT integration and reliance on manual methods lead to inefficiencies and scalability issues. IoT can enable real-time data collection, secure participation logging  to address these issues effectively.
 
 ---
 ### Hardware Requirements
 
-| Components                    |
-|------------------------------|
-| Raspberry Pi 4 Model B   |
-| ESP32 Board             |
-| GSM Module (SIM800L)     |
-| DHT11/DHT22              |
-| GPS Module (NEO-6M)    |
+| Components               | Purpose                                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| Raspberry Pi 4 Model B   | Serves as the central processing unit for managing IoT devices, processing data, and blockchain integration. |
+| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
+| GSM Module (SIM800L)     | Facilitates communication and data transfer in areas with limited Wi-Fi access. |
+| DHT11/DHT22              | Monitors temperature and humidity, providing real-time environmental data. |
+| GPS Module (NEO-6M)      | Tracks the geographical location for geo-tagging data and monitoring field operations. |
+| NFC Stickers             | Used for volunteer identification and logging participation securely. |
+| RFID Tags                | Provides authentication and tracking for volunteers and equipment. |
+
 ---
 ### Literature Survey  
 
@@ -37,6 +39,9 @@ Current systems addressing transparency, traceability, and incentivization in vo
 1. **Community-Centric Rewards:** Limited focus on recognition-based rewards like NFTs for incentivizing volunteerism.  
 2. **Unified Ecosystem:** Absence of an integrated platform connecting volunteers, NGOs, and SHGs to streamline efforts and amplify grassroots impacts.  
 3. **Real-Time Data Logging:** Existing models inadequately incorporate IoT for transparent and immediate activity tracking, critical for decision-making in remote areas.  
+---
+
+### Proposed Solution 
 
 #### Relevance of Proposed Work  
 1. **Encouraging Volunteer Engagement:** By integrating NFT rewards, the project provides recognition that extends beyond monetary incentives, motivating sustained volunteer participation.  
@@ -44,18 +49,24 @@ Current systems addressing transparency, traceability, and incentivization in vo
 3. **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
 4. **Real-Time Activity Monitoring:** IoT integration enables real-time tracking of volunteer activities, increasing efficiency in campaign management.
 ---
+
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
-- Goal 9 - Industry, Innovation, and Infrastructure.
-- Goal 17 - Partnerships for the Goals.
+| SDG                                      | Alignment                                                                                                                                                 |
+|:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Goal 9 - Industry, Innovation, and Infrastructure | Enhances transparency with blockchain, improves campaign management via IoT, and provides modern, efficient solutions for NGOs.                           |
+| Goal 17 - Partnerships for the Goals     | Strengthens NGO-volunteer bonds with NFT rewards, optimizes resources using IoT, and provides collaboration with tech experts for impactful solutions.      |
+
+
+### Collaboration 
+| Team | Module & Scope |
+|:----:|:---------------|
+| IoT#15 | Blood Donation Campaign | 
 ---
-#### References  
-- *IoT-GChain:* Internet of Things-Assisted Secure and Tractable Grain Supply Chain Framework Leveraging Blockchain (2024)  
-  Source: [MDPI](https://www.mdpi.com/2079-9292/13/18/3740)  
 
-- *NFT-IoT Pharma Chain:* IoT Drug Traceability System Based on Blockchain and Non-Fungible Tokens (NFTs) (2023)  
-  Source: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1319157822004347)  
+### References  
+- Thakur, K. S., Ahuja, R., & Singh, R. (2024). **IoT-GChain: Internet of Things-Assisted Secure and Tractable Grain Supply Chain Framework Leveraging Blockchain.** _Electronics_, 13(18), 3740. 
+  
+- Turki, M., Cheikhrouhou, S., Dammak, B., Baklouti, M., Mars, R., & Dhahbi, A. (2023). **NFT-IoT pharma chain: IoT drug traceability system based on blockchain and non fungible tokens (NFTs)**. _Journal of King Saud University-Computer and Information Sciences_, 35(2), 527-543.
 
-- *Integration of Internet of Things (IoT) and Blockchain to increase humanitarian aid supply chains performance (2019)*  
-  Source: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8883757)
-
+- Aranda, D. A., Fernández, L. M. M., & Stantchev, V. (2019, July).**Integration of Internet of Things (IoT) and Blockchain to increase humanitarian aid supply chains performance**.__ In 2019 5th international conference on transportation information and safety (ICTIS)__ (pp. 140-145). IEEE.
 

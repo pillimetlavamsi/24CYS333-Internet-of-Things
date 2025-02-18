@@ -23,15 +23,15 @@
 | **Lecture No.** | **Lecture Date** | **Topic**                                                                                              | **Remarks**                                      |
 |:---------------:|:----------------:|--------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | 1               | \_\_\_\_\_       | [Introduction to IoT & IoT Definition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/IoT_Introduction.md)                                                                    | Overview of IoT fundamentals                     |
-| 2               | \_\_\_\_\_       | Characteristics & Things in IoT                                                                         | Explanation of IoT ecosystem                     |
-| 3               | \_\_\_\_\_       | IoT Complete Architectural Stack                                                                        | IoT system architecture                          |
-| 4               | \_\_\_\_\_       | IoT Enabling Technologies                                                                               | Overview of enabling technologies                |
-| 5               | \_\_\_\_\_       | IoT Challenges                                                                                          | Discussion on challenges                         |
-| 6               | \_\_\_\_\_       | IoT Levels                                                                                              | Different levels of IoT                          |
+| 2               | \_\_\_\_\_       | [Characteristics & Things in IoT](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/Characteristics_IoT.md)                                                                         | Explanation of IoT ecosystem                     |
+| 3               | \_\_\_\_\_       | [IoT Complete Architectural Stack](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/IoT_Architectural_Stack.md)                                                                        | IoT system architecture                          |
+| 4               | \_\_\_\_\_       | [IoT Enabling Technologies]()                                                                               | Overview of enabling technologies                |
+| 5               | \_\_\_\_\_       | [IoT Challenges]( )                                                                                | Discussion on challenges                         |
+| 6               | \_\_\_\_\_       | [IoT Levels](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/IoT_Levels.md)                                                                                              | Different levels of IoT                          |
 | 7               | \_\_\_\_\_       | Case Study: Realizing the IoT Stack                                                                     | Analyze a case study for IoT                     |
-| 8               | \_\_\_\_\_       | Sensors for IoT: Accelerometer, Proximity, IR, Gas, Temperature                                          | Overview of sensor functionalities               |
-| 9               | \_\_\_\_\_       | Chemical, Motion Detection Sensors                                                                      | Practical sensor applications                    |
-| 10              | \_\_\_\_\_       | IoT Hardware Kits: Arduino, Raspberry Pi, Node MCU                                                      | Introduction to hardware platforms               |
+| 8               | \_\_\_\_\_       | [Sensors for IoT: Accelerometer, Proximity, IR, Gas, Temperature](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Sensors.md)                                          | Overview of sensor functionalities               |
+| 9               | \_\_\_\_\_       | [Chemical, Motion Detection Sensors](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Sensors.md)                                                                      | Practical sensor applications                    |
+| 10              | \_\_\_\_\_       | [IoT Hardware Kits: Arduino, Raspberry Pi, Node MCU](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Boards.md)                                                      | Introduction to hardware platforms               |
 | 11              | \_\_\_\_\_       | Protocols for IoT: Infrastructure Protocols (IPv4/IPv6, RPL)                                            | Discuss infrastructure protocols                 |
 | 12              | \_\_\_\_\_       | Identification Protocols (URLs) & Transport Protocols (WiFi, LiFi, BLE)                                 | Identification & transport layers in IoT         |
 | 13              | \_\_\_\_\_       | Discovery & Data Protocols                                                                              | Overview of communication protocols              |
@@ -55,12 +55,13 @@
 - [Lectures](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Lectures)
 - [Labs](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Lab)
 
-### Project/Case Study
+### Project/Case Study & Teams
 - [Topics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Case_Study.md)
 - [Teams](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Teams.md)
 
 ### Value Added Courses
 - [Session - 1 (December 11, 2024) - Masterclass on IoT](Assets/MC)
+- [Session - 2 (TBP)]()
 
 ### Tools
 - [TinkerCAD](https://www.tinkercad.com/)
@@ -78,22 +79,22 @@
 
 ### Dates and Deadlines
 
-| Course Start | 04 - Dec - 2024 |
-|--------------|-----------------|
-| Project Team Formation and <br/> Topic Selection Opens | 24 - Nov - 2024 |
-| Project Team Formation and <br/> Topic Selection Closes | 02 - Dec - 2024 |
-| Masterclass on Internet of Things | 11 - Dec - 2024 |
-| Base Paper and Problem Statement Submission | 05 - Jan - 2025  |
-| Quiz - 1 | 07 - Jan - 2025 |
-| [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 |
-| Review - 1 | 22 - Jan - 2025 |
-| Quiz - 2  | 29 - Jan - 2025 |
-| Mid-Term Examination | Feb - 2025 |
-| NPTEL Exam Registraion Ends | 14 - Feb - 2025 |
-| Review - 2 | 19 - Feb - 2025 |
-| Quiz - 3  | 05 - Mar - 2025 |
+| Course Start | 04 - Dec - 2024 | Deadline | 
+|--------------|-----------------|:--------:|
+| Project Team Formation and <br/> Topic Selection Opens | 24 - Nov - 2024 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Project Team Formation and <br/> Topic Selection Closes | 02 - Dec - 2024 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Masterclass on Internet of Things | 11 - Dec - 2024 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Base Paper and Problem Statement Submission | 05 - Jan - 2025  | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Quiz - 1 | 07 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Review - 1 | 18 - Feb - 2025 <br/> 19 - Feb - 2025 | ![](https://img.shields.io/badge/Ongoing-orange) |
+| NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
+| Quiz - 2  | 04 - Mar - 2025 | 
+| Review - 2 | 04 - Mar - 2025 <br/> 05 - Mar - 2025 |
 | Report Submission | 25 - Mar - 2025 |
 | Review - Final | 26 - Mar - 2025 |
+| Quiz - 3  | 27 - Mar - 2025 |
 | Missed Quiz | 02 - Apr - 2025 |
 | NPTEL Course Ends | 11 - Apr - 2025 |
 | End Semester Examination | Apr - 2025 |
@@ -111,5 +112,8 @@
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
-  -  NPTEL Final Exam (Optional) [Enrollment Ends: 14 Feb 2025]
+  -  NPTEL Final Exam (Optional)
+  -  No. of Students (expressed interest): 50
+  -  No. of Students (Registered): TBD
+
 
