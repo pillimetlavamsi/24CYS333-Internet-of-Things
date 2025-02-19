@@ -114,6 +114,7 @@ auth_algs=1
 At this stage, two virtual machines (VMs) are set up:
 1. **VM1 (Legitimate Web Server)**: Collects sensor data from authenticated users
 2. **VM2 (Honeypot Web Server)**: Decoy system for attackers redirected by PSAD
+[link](./config.md)
 
 ### Network Configuration
 - Both VMs use **bridged adapters** to allow direct communication.
