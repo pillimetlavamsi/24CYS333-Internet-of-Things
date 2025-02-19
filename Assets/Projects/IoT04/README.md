@@ -48,8 +48,29 @@ Current systems addressing transparency, traceability, and incentivization in vo
 2. **Empowering Grassroots Communities:** The redemption of blockchain-secured tokens for SHG products supports local economies and builds a direct connection between stakeholders.  
 3. **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
 4. **Real-Time Activity Monitoring:** IoT integration enables real-time tracking of volunteer activities, increasing efficiency in campaign management.
----
 
+#### Use Case
+1. Household Drinking Water Safety Homeowners install the system in residential water
+ storage tanks to monitor water quality before consumption. The system sends alerts
+ via a mobile app if contamination levels rise, prompting users to filter or replace the
+ water. Helps maintain safe and clean drinking water at the household level,
+ especially in areas with inconsistent water quality.
+2. Water Treatment Plant Monitoring Water purification plants use the system to
+ continuously monitor pH, TDS, and turbidity levels. If parameters exceed safe limits,
+ the system triggers alerts for immediate corrective action (e.g., adjusting filtration or
+ chemical treatment). Ensures compliance with government water quality standards
+ (e.g., WHO, BIS).
+3. Public Water Supply System Monitoring Municipal corporations install the system in
+ public water tanks to monitor real-time water quality. If contamination or parameter
+ deviations (e.g., high turbidity) are detected, the system alerts authorities to take
+ action before distribution. Prevents the supply of unsafe drinking water to
+ households and communities.
+---
+### Deliverables
+- Web/Mobile Dashboard: Allows users to monitor the status of drinking water in real time and analyze past readings.
+- Smart Water Quality Monitoring Device: Analyzes water quality and provides real-time data to the dashboard.
+
+---
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG                                      | Alignment                                                                                                                                                 |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
