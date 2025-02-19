@@ -41,6 +41,15 @@ Design a smart waste management system that utilizes sensor-equipped waste bins 
 The proposed solution involves the strategic deployment of LoRa gateways using optimization techniques to ensure efficient coverage and minimize congestion. The waste bins, equipped with sensors, transmit real-time data to the nearest gateways, which forward the information to a central server for processing. This server aggregates data on waste levels, bin locations, and fill status, analyzing it to determine the most efficient collection routes. While the specific algorithm for route optimization has yet to be finalized, the system will prioritize factors like distance, collection frequency, and waste volume to optimize efficiency. 
 
 ---
+### Use Case
+Use Case:
+Implemented in a designated area of the college campus to optimize pickup scheduling and monitor waste collection, considering key factors such as foot traffic, time, collection frequency, bin fullness, and weight.
+
+---
+### Deliverables:
+A web application that visualizes collected data, updates path information and associated costs, accounts for relevant factors, and displays or outputs the optimized route.
+
+---
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 | SDG | Alignment |
 |:---|:----------|
