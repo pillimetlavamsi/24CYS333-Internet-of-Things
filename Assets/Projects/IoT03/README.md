@@ -35,7 +35,6 @@
  ### Literature Survey
  Existing IoT-based water quality monitoring systems typically focus on basic parameters like pH and TDS, using microcontrollers such as Arduino or ESP32 for real-time data transmission and platforms like ThingSpeak for visualization. However, they lack advanced analytics, monitor limited parameters, face scalability and energy efficiency challenges, and often neglect IoT security. Our project addresses these gaps by integrating predictive analytics to provide early warnings for contamination, expanding monitoring to include microbial content, heavy metals, and agricultural contaminants like nitrates and phosphates. Additionally, we aim to design scalable, energy-efficient solutions, such as solar-powered systems, suitable for diverse applications like drinking water, household systems, public water tanks, and agriculture. Robust IoT security measures will also ensure secure data transmission.
 
-
 ---
  ### Proposed Solution
 - The proposed system utilizes IoT-enabled sensors to continuously monitor pH levels
@@ -45,6 +44,27 @@ algorithms identify anomalies and provide actionable insights.
 - Users receive instant alerts via a mobile app or dashboard, allowing for timely
 interventions. This solution ensures efficient water quality management, promotes
 public health safety, and meets regulatory compliance.
+
+#### Use Case
+1. Household Drinking Water Safety Homeowners install the system in residential water
+ storage tanks to monitor water quality before consumption. The system sends alerts
+ via a mobile app if contamination levels rise, prompting users to filter or replace the
+ water. Helps maintain safe and clean drinking water at the household level,
+ especially in areas with inconsistent water quality.
+2. Water Treatment Plant Monitoring Water purification plants use the system to
+ continuously monitor pH, TDS, and turbidity levels. If parameters exceed safe limits,
+ the system triggers alerts for immediate corrective action (e.g., adjusting filtration or
+ chemical treatment). Ensures compliance with government water quality standards
+ (e.g., WHO, BIS).
+3. Public Water Supply System Monitoring Municipal corporations install the system in
+ public water tanks to monitor real-time water quality. If contamination or parameter
+ deviations (e.g., high turbidity) are detected, the system alerts authorities to take
+ action before distribution. Prevents the supply of unsafe drinking water to
+ households and communities.
+---
+### Deliverables
+- Web/Mobile Dashboard: Allows users to monitor the status of drinking water in real time and analyze past readings.
+- Smart Water Quality Monitoring Device: Analyzes water quality and provides real-time data to the dashboard.
 
 ---
  ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
