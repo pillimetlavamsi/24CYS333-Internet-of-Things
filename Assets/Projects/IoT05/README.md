@@ -49,6 +49,11 @@ Passenger safety in public transportation, especially for women, remains a signi
 3. **Travel History Logging:** The system records travel routes and history for future analysis.
    
 ---
+### Deliverables
+1. **Mobile App**: LINE API Integrated app for passengers
+2. **Web App**: Admin Dashboard
+
+---
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 | SDG | Alignment |
