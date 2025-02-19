@@ -136,6 +136,4 @@ This project implements a **honeypot-based intrusion detection system** using a 
 - Automate reporting of detected attackers.
 - Introduce more sophisticated honeypot deception techniques.
 
----
-This README provides a comprehensive guide to setting up the Raspberry Pi-based honeypot system. Happy hacking (ethically)! 🚀
 
