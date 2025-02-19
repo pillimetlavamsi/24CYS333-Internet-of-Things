@@ -17,7 +17,6 @@ Emergency ambulances face delays due to traffic congestion and lack of efficient
 To develop a Smart Ambulance System using IoT technologies to:  
 - Optimize ambulance routing with real-time traffic updates.  
 - Facilitate seamless communication with hospitals for patient data sharing and arrival notifications.  
-- Dynamically prioritize ambulances at traffic signals.  
 
 *Impact and Metrics:*  
 - Reduce average ambulance response time by *20%*.  
@@ -69,7 +68,7 @@ To develop a Smart Ambulance System using IoT technologies to:
 #### *How Our Approach Fills These Gaps*  
 - *IoT-Enabled Traffic Lights:* Real-time signal prioritization to ensure ambulances face minimal delays at intersections.  
 - *Enhanced Communication Protocols:* Integration of ESP8266 and GSM modules for secure, low-latency data exchange between all stakeholders.  
-- *Blockchain Integration (Future Enhancement):* Ensures secure handling of sensitive patient and system data.  
+- *Blockchain Integration (Future Enhancement):* Ensures secure handling of sensitive patient and system data hwhich will be integrated in the mobile interface.  
 - *Scalable and Modular Design:* Hardware and software are designed to integrate easily with existing traffic systems and public emergency services like the 108 network.
 -----  
 ### Proposed Solution: Smart Ambulance System
@@ -170,6 +169,23 @@ To ensure the confidentiality, integrity, and availability of data:
    - *Priority:* High, as it would allow the system to scale to wider public service applications, benefiting more people.
 This solution ensures timely emergency response, optimized navigation, and improved patient care while leveraging cutting-edge technologies. {Refer to the document for more detailed explanations}
 -----
+### Deliverable 
+Mobile Interface (Used by Paramedics & Drivers)  
+- Real-time patient vitals monitoring (ECG, heart rate, oxygen levels).  
+- GPS-based navigation with AI-powered route optimization.  
+- Hospital communication module for seamless data sharing and arrival notifications.
+
+ Hospital Communication and Data Integration
+- Cloud-based patient data transmission: Shares real-time patient vitals and medical history.  
+- Automated hospital alerts: Notifies emergency staff of incoming patients.
+
+Hardware Used by Driver and Paramedic  
+- GPS and location tracking: Sends real-time updates to emergency services and hospitals.   
+- Onboard display: Provides optimized route suggestions based on real-time conditions.  
+- IoT-enabled medical sensors: Tracks heart rate, ECG, blood pressure, and oxygen levels.    
+- Telemedicine support(Future Enchancement): Allows real-time consultation with specialists via video or audio.
+
+------
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 
