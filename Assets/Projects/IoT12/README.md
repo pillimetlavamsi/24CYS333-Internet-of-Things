@@ -66,13 +66,21 @@ This solution improves efficiency, reduces resource wastage, and enhances the re
 ---
 **Literature survey**:
 
-Jonthan in Water Tank Depth Sensor revealed concept on switching on automatically
-the pumps.This paper creates acquaintance with the preciousness of water resource
-and about tank control and makes.Akinlalu addressed the problem related to
-find the depth of freshwater boreholes and the recommendation of areas to trace the
-location during installation time.Getu proposed a system for finding water levels
-automatically and controlling them.Poovizhi proposed a system for water level
-monitoring in trains for filling the water tanks in trains optimally.
+- Both studies illustrate the potential of IoT in improving borewell management.
+While Malche and Maheshwary (2017) focus on water level monitoring for
+agricultural applications, Ramu et al. (2020) extend the scope to autonomous
+borewell management, emphasizing energy conservation. Future research can
+integrate AI-driven predictive analytics to optimize water consumption patterns and
+enhance system efficiency.
+- Prasad et al. (2017) proposed a system using ultrasonic sensors to monitor ground
+water levels and alert users through mobile notifications.
+- Gurguiatu et al. (2013) focused on energy savings by implementing active power
+filters in water pump systems to enhance efficiency.
+- LoRa and Zigbee: Implemented in large-scale agricultural lands for low-power,
+long-range communication
+- Integration of real-time alerts for critical conditions (dry running, leaks, and
+overflow). The system provides automated notifications via a web or
+mobile interface
 
 ---
 **Mapping the Project to Relevant Sustainable Development Goals (SDGs):**
@@ -92,7 +100,7 @@ monitoring in trains for filling the water tanks in trains optimally.
 
 ---
 **References:**
-  - Karimisetty, S., Rugada, V. R., & Harshitha, D. (2020). **IoT-based borewell water-level detection and auto-control of submersible pumps.** In Intelligent System Design: Proceedings of Intelligent System Design: INDIA 2019 (pp. 55-61). Singapore: Springer Singapore.
+  - Venkataswamy, R., Paul, R., & Jogy, J. (2020). Internet of Things Based Autonomous Borewell Management System. In Cyber-physical Systems and Digital Twins: Proceedings of the 16th International Conference on Remote Engineering and Virtual Instrumentation 16 (pp. 229-243). Springer International Publishing.
   - Malche, T., & Maheshwary, P. (2017). **Internet of things (IoT) based water level monitoring system for smart village.** In Proceedings of International Conference on Communication and Networks: ComNet 2016 (pp. 305-312). Springer Singapore.
 
 
