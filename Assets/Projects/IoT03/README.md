@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Agil_Prasanna_P-gold)  ![](https://img.shields.io/badge/Member-Amal_Ritessh_A_P-gold)  ![](https://img.shields.io/badge/Member-Ananth_R-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-6-darkgreen) ![](https://img.shields.io/badge/SDG-3-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed--brown)
+![](https://img.shields.io/badge/Reviewed-16th_Feb_2025-brown) 
 
 ---
 ### Problem Statement
