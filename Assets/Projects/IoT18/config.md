@@ -55,5 +55,5 @@ sudo sysctl -p
 ```bash
 sudo systemctl restart hostapd
 sudo systemctl restart dnsmasq
-sudo systemctl restart dncpcd
+sudo systemctl restart dhcpcd
 ```
