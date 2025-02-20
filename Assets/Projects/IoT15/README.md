@@ -6,7 +6,8 @@
 ## IoT#15 - Smart Blood Bank Management System  
 ![](https://img.shields.io/badge/Member-vsatayasiddardha-gold) ![](https://img.shields.io/badge/Member-jeesh27-gold) ![](https://img.shields.io/badge/Member-Harshith1201-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown) <br/>
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 
 ---------------
 
