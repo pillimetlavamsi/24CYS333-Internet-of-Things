@@ -48,28 +48,30 @@ Current systems addressing transparency, traceability, and incentivization in vo
 2. **Empowering Grassroots Communities:** The redemption of blockchain-secured tokens for SHG products supports local economies and builds a direct connection between stakeholders.  
 3. **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
 4. **Real-Time Activity Monitoring:** IoT integration enables real-time tracking of volunteer activities, increasing efficiency in campaign management.
+---
+### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT04/Docs/architectureDiagram.jpeg">
+---
 
-#### Use Case
-1. Household Drinking Water Safety Homeowners install the system in residential water
- storage tanks to monitor water quality before consumption. The system sends alerts
- via a mobile app if contamination levels rise, prompting users to filter or replace the
- water. Helps maintain safe and clean drinking water at the household level,
- especially in areas with inconsistent water quality.
-2. Water Treatment Plant Monitoring Water purification plants use the system to
- continuously monitor pH, TDS, and turbidity levels. If parameters exceed safe limits,
- the system triggers alerts for immediate corrective action (e.g., adjusting filtration or
- chemical treatment). Ensures compliance with government water quality standards
- (e.g., WHO, BIS).
-3. Public Water Supply System Monitoring Municipal corporations install the system in
- public water tanks to monitor real-time water quality. If contamination or parameter
- deviations (e.g., high turbidity) are detected, the system alerts authorities to take
- action before distribution. Prevents the supply of unsafe drinking water to
- households and communities.
+### Use Cases
+1. **Disaster Relief and Recovery Campaigns**
+ IoT devices track volunteer activities in real-time during emergencies, while
+ blockchain ensures transparent resource allocation. NFT rewards motivate
+ volunteers, who can redeem tokens for SHG products, boosting engagement and
+ trust.
+2.  **Environmental Conservation and Clean-Up Drives**
+ IoT sensors monitor progress in clean-up or plantation drives, and blockchain logs
+ volunteer contributions immutably. NFTs reward participants, encouraging
+ eco-friendly actions and supporting local economies.
+3. **Blood Donation & Medical Camps**
+ IoT-enabled QR codes register donor and volunteer participation, while blockchain
+ ensures tamper-proof records. NFT rewards for frequent contributors incentivize
+ sustained engagement in medical aid initiatives.
 ---
 ### Deliverables
-- Web/Mobile Dashboard: Allows users to monitor the status of drinking water in real time and analyze past readings.
-- Smart Water Quality Monitoring Device: Analyzes water quality and provides real-time data to the dashboard.
-
+- **Web Application (Dashboard & UI):** A platform for NGOs to track campaigns, verify participation, and issue NFT rewards.
+- **IoT-Enabled Participation Logging:** RFID/NFC or QR-based check-ins with geo-location tracking for real-time event verification.
+- **Blockchain-Powered NFT Rewards:** Smart contracts to issue NFTs based on verified participation.
 ---
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG                                      | Alignment                                                                                                                                                 |
