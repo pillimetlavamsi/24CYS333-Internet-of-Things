@@ -31,11 +31,15 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 
 ---
 ### Literature Survey  
- -**Real-Time vehicle Tracking (Lushi et al., 2022):** Utilizes GPS modules to continuously track the real-time location of vehicles and transmit data to the cloud using GPS module (Neo-6M), Arduino Uno, Wi-Fi module (ESP8266). Commuters can access this data via a mobile application to plan their trips efficiently.
- -**Route Optimization and Scheduling (Lushi et al., 2022):** Uses GPS and traffic data to optimize vehicle schedules dynamically. The system analyzes congestion patterns and suggests alternative routes to minimize delays.
- -**Smart Ticketing and Contactless Payment (Lushi et al., 2022):** Introduces RFID-based ticketing solutions to automate fare collection and reduce fraud. Data is transmitted to a cloud-based system for efficient revenue tracking
- -**Passenger Distance and Arrival Time Calculation (Salih Younis, 2021):** Uses the Haversine formula to calculate the distance between the passenger and the nearest vehicle. The estimated arrival time is computed based on distance and average speed, reducing waiting times.
- -**Load Monitoring Using IoT Sensors (Lushi et al., 2022):** Implements infrared(IR) sensors at vehicle entry and exit points to count passengers in real time, helping optimize fleet utilization and prevent overcrowding
+ - **Real-Time vehicle Tracking (Lushi et al., 2022):** Utilizes GPS modules to continuously track the real-time location of vehicles and transmit data to the cloud using GPS module (Neo-6M), Arduino Uno, Wi-Fi module (ESP8266). Commuters can access this data via a mobile application to plan their trips efficiently.
+ 
+ - **Route Optimization and Scheduling (Lushi et al., 2022):** Uses GPS and traffic data to optimize vehicle schedules dynamically. The system analyzes congestion patterns and suggests alternative routes to minimize delays.
+   
+ - **Smart Ticketing and Contactless Payment (Lushi et al., 2022):** Introduces RFID-based ticketing solutions to automate fare collection and reduce fraud. Data is transmitted to a cloud-based system for efficient revenue tracking.
+   
+ - **Passenger Distance and Arrival Time Calculation (Salih Younis, 2021):** Uses the Haversine formula to calculate the distance between the passenger and the nearest vehicle. The estimated arrival time is computed based on distance and average speed, reducing waiting times.
+   
+ - **Load Monitoring Using IoT Sensors (Lushi et al., 2022):** Implements infrared(IR) sensors at vehicle entry and exit points to count passengers in real time, helping optimize fleet utilization and prevent overcrowding.
  
 ---
 ### Architecture diagram
@@ -51,15 +55,20 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ---
 ### Usecases
 
--**Live Passenger Load Monitoring (Using RFID) :** RFID cards detect when passengers enter or exit the vehicle.The system calculates
+- **Live Passenger Load Monitoring (Using RFID) :** RFID cards detect when passengers enter or exit the vehicle.The system calculates
  the real-time occupancy and updates the cloud. If the vehicle reaches full capacity, alerts are sent to:- Passengers at the next stop, so they know if the vehicle is crowded.- Transport authorities, to deploy another vehicle if needed.
--**Real-Time vehicle Location Tracking for Passengers:** The Neo 6M GPS module continuously tracks the vehicle location.The ESP32 microcontroller processes this data and sends it to the cloud viaGSM/GPRS (SIM800 module).Passengers can view the real-time location and estimated time of arrival (ETA) through a mobile app, web dashboard, or vehicle stop display.  
--**Predictive Scheduling for Better Fleet Management:** The system analyzes historical data and real-time demand to predict peak hours.Additional buses can be scheduled during high-demand periods (e.g., office rush hours).During low-demand periods, unnecessary vehicles are rerouted or rescheduled to save fuel.
+ 
+- **Real-Time vehicle Location Tracking for Passengers:** The Neo 6M GPS module continuously tracks the vehicle location.The ESP32 microcontroller processes this data and sends it to the cloud viaGSM/GPRS (SIM800 module).Passengers can view the real-time location and estimated time of arrival (ETA) through a mobile app, web dashboard, or vehicle stop display.  
+
+- **Predictive Scheduling for Better Fleet Management:** The system analyzes historical data and real-time demand to predict peak hours.Additional buses can be scheduled during high-demand periods (e.g., office rush hours).During low-demand periods, unnecessary vehicles are rerouted or rescheduled to save fuel.
  
 ---
-### ### Deliverables
+### Deliverables
+
 1. **Passenger Mobile App**: It enhances commuting with real-time vehicle tracking, ETA updates, and passenger load monitoring, helping users plan efficiently. It also provides route suggestions, delay notifications, and an SOS emergency button for a safer and more informed travel experience.
+   
 2. **Admin Web Dashboard**: Which enables real-time fleet monitoring, dynamic scheduling, and traffic-based route adjustments, optimizing public transport operations. It also provides passenger load analytics, predictive insights, and emergency alerts, ensuring efficiency, security, and responsive management.
+   
 3. **Cloud Infrastructure & Backend**: It ensures real-time GPS data processing, IoT communication, and AI-driven demand forecasting for efficient fleet management. It also provides a secure database and open API integrations for enhanced connectivity with services like Google Maps and Uber. 
   
 ---
