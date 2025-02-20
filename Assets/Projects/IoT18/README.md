@@ -92,6 +92,27 @@ The Integrated IoT-Based Smart Home Intrusion Detection System will utilize a Ra
    
 ---
 
+### Use Cases
+#### Smart home Intrusion Detection ✅
+Uses motion and radiation sensors to detect unauthorized access or unusual activities in a smart home. It can send real-time alerts to homeowners via mobile apps and even trigger automated responses like locking doors or sounding alarms.
+
+#### Network Intrusion Detection ✅
+This system Continuously monitors network traffic to detect potential cyber threats, such as unauthorized access or malware attacks. It system finds any malicious activities then system  redirects attackers to a honeypot(a decoy system designed to trap and analyze threats without compromising the real network). This proactive approach helps prevent data breaches and unauthorized access.
+
+#### Health Monitoring ✅
+Uses wearable devices(IoT sensors) to track vital signs such as heart rate, oxygen levels, and blood pressure. Continuous monitoring helps detect anomalies, predict health issues, and alert medical professionals or caregivers in case of emergencies. 
+
+
+---
+### Architecture Diagram
+![Arhitecture Diagram](Images/ArchStack.jpg)
+
+---
+### Deliverables
+
+
+---
+
 #### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG | Alignment |
 |:---|:----------|
