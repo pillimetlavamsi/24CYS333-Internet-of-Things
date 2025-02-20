@@ -7,7 +7,10 @@
 
 ![](https://img.shields.io/badge/Member-Aadhithya_Sivakumar-gold)  ![](https://img.shields.io/badge/Member-Hamsini_G-gold)  ![](https://img.shields.io/badge/Member-Rahul_Shankar_V-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-16-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown) <br/> 
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
+
+
 ---
 ### Problem Statement
 Addressing the issue of wide-spread vehicle theft, by implementing a tamperproof and transparent method of monitoring and communicating with your vehicle and its safety system. The aim is to have a alert and tracking system that tracks the location and condition of the vehicle.
