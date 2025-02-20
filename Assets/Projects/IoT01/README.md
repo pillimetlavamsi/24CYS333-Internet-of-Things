@@ -141,7 +141,21 @@ To ensure the confidentiality, integrity, and availability of data:
      - Option 2: Implement on a fully operational vehicle for live trials in real-world conditions, in collaboration with local traffic management and healthcare facilities.  
    - *Field Trials:*  
      - Conduct real-world testing in collaboration with emergency response teams to validate system effectiveness in reducing delays and improving communication.  
-     - Collect data on performance metrics such as time saved, patient outcomes, and system scalability.  
+     - Collect data on performance metrics such as time saved, patient outcomes, and system scalability.
+
+### *5.Case study*
+* A 56-year-old male experiences a sudden cardiac arrest at a public park. Bystanders immediately call emergency services, and an IoT-enabled smart ambulance is dispatched to the scene.*
+ -The smart ambulance is equipped with real-time monitoring sensors that collect the patient’s vital signs, including ECG, heart rate, oxygen saturation, and blood pressure. 
+ -Collected data is transmitted to a cloud/web based platform and alert hospital
+ specialists.
+ -GPS tracking and Route Optimization determine the fastest route to the hospital based on real-time traffic conditions.
+ - The hospital receives real-time patient vitals, allowing staff to prepare the necessary
+ medical team before arrival.
+ - Optimized ambulance routing reduces response time, increasing survival chances.
+
+### *Architectural Diagram*
+
+![ARCH_DIAGRAM](https://github.com/user-attachments/assets/c00dc8f2-cdee-4c8c-acb4-ef9cde73364f)
 
 #### *Future Steps:*  
 - Gather feedback from field trials to refine the system further.  
@@ -170,18 +184,17 @@ To ensure the confidentiality, integrity, and availability of data:
 This solution ensures timely emergency response, optimized navigation, and improved patient care while leveraging cutting-edge technologies. {Refer to the document for more detailed explanations}
 -----
 ### Deliverable 
-Mobile Interface (Used by Paramedics & Drivers)  
+*Mobile Interface (Used by Paramedics & Drivers)*  
 - Real-time patient vitals monitoring (ECG, heart rate, oxygen levels).  
 - GPS-based navigation with AI-powered route optimization.  
 - Hospital communication module for seamless data sharing and arrival notifications.
 
- Hospital Communication and Data Integration
+ *Hospital Communication and Data Integration(web based if required)* 
 - Cloud-based patient data transmission: Shares real-time patient vitals and medical history.  
 - Automated hospital alerts: Notifies emergency staff of incoming patients.
 
-Hardware Used by Driver and Paramedic  
-- GPS and location tracking: Sends real-time updates to emergency services and hospitals.   
-- Onboard display: Provides optimized route suggestions based on real-time conditions.  
+*Hardware Used by Driver and Paramedic*  
+- GPS and location tracking: Sends real-time updates to emergency services and hospitals.    
 - IoT-enabled medical sensors: Tracks heart rate, ECG, blood pressure, and oxygen levels.    
 - Telemedicine support(Future Enchancement): Allows real-time consultation with specialists via video or audio.
 
