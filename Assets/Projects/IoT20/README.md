@@ -7,7 +7,9 @@
 
 ![](https://img.shields.io/badge/Member-N_Meera-gold)  ![](https://img.shields.io/badge/Member-Kolluru_Sai_Supraj-gold)  ![](https://img.shields.io/badge/Member-Amita_Naryanan_Kutty-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-13th_Feb_2025-brown) 
+![](https://img.shields.io/badge/Reviewed-13th_Feb_2025-brown) <br/> 
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
+
 ---
 ### Problem Statement
 Elderly individuals often face challenges in maintaining healthy sleep patterns, which are critical for overall well-being. Monitoring sleep quality and health parameters in real-time is essential for early detection of potential health issues and ensuring timely intervention. However, there is a lack of accessible and user-friendly systems that can track sleep patterns, estimate sleep quality, and provide actionable insights while also offering emergency support in case of sudden anomalies in health metrics like heart rate. We plan to develop an Elderly Sleep Monitoring System that analyzes sleep patterns by estimating REM sleep from heart rate data, evaluates sleep quality, and maintains a detailed record of sleep parameters. The system will provide monthly updates and an intuitive dashboard to visualize these metrics. Additionally, it will include a feature to contact emergency services in case of abrupt heart rate anomalies to ensure safety and prompt medical attention.
