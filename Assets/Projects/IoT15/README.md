@@ -80,8 +80,23 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
    - A donor reward system incentivizes regular donations through recognition and token-based benefits.  
 
 5. *Emergency Reserve Mechanism:*  
-   - Real-time inventory allows dynamic blood reservation for nearby ambulances during emergencies.  
+   - Real-time inventory allows dynamic blood reservation for nearby ambulances during emergencies.
 
+#### *Use cases*
+
+ 1. *Fraud Prevention & Regulatory Compliance:*
+    - The barcode system prevents black-market blood sales by ensuring that only authorized hospitals and patients receive blood.
+    - The government health database (e.g., National Blood Transfusion Council NBTC) receives automated reports, improving transparency and compliance with 
+      health regulations.
+      
+ 2. *Accident and Emergency Response:*
+    - A road accident victim in a Tier-2 city needs AB-negative blood. The hospital checks stock via IoT; if unavailable, donors are alerted. A donor responds,
+      blood is tested using the doctor’s utility, and sent to the hospital in time, ensuring faster access to rare blood groups.
+      
+ 3. *Blood Donation & Medical Camps:*
+    - IoT-enabled QR codes register donor and volunteer participation, while blockchain ensures tamper-proof records. NFT rewards for frequent contributors 
+      incentivize sustained engagement in medical aid initiatives.
+      
 -------------------
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)  
@@ -92,6 +107,8 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 | Goal 3 - Good Health and Well-Being               | Ensures timely availability of safe, high-quality blood, enhancing healthcare outcomes.            |  
 | Goal 9 - Industry, Innovation, and Infrastructure | Promotes innovation with IoT and fosters efficient, scalable blood bank operations.                |  
 
+-----------------------
+
 ### Collaboration  
 
 | Team   | Module & Scope                                                                 |  
@@ -99,6 +116,29 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 | IoT#04 | Empowering Volunteerism with Blockchain and IoT: NFT Rewards for NGO Campaigns |  
 
 ---------------
+
+### Architecture Diagram
+
+![arch_dia](https://github.com/user-attachments/assets/f3dcd79a-ce01-43e9-a01e-a555413678fb)
+
+
+
+----------------
+
+### Deliverable
+
+1. **Hospital & User Applications:**  
+   - **User Mobile App:** Enables donors and recipients to track blood availability, schedule donations, and receive notifications.  
+   - **Hospital Web Application:** Allows hospitals and blood banks to manage inventory, monitor storage conditions, and receive alerts.  
+
+2. **Admin Dashboard:**  
+   - Centralized platform for system administrators to oversee data flow, manage access controls, and generate reports.  
+
+3. **Real-Time Log Monitoring & Security (RFT - Request for Tracking):**  
+   - **Log Monitoring System:** Tracks data transactions and system activities to ensure security and compliance.  
+   - **Security Layer:** Implements access control mechanisms and anomaly detection to prevent unauthorized access.  
+
+----------------
 
 ### References  
 
