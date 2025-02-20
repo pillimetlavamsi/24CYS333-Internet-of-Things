@@ -51,6 +51,7 @@ Current systems addressing transparency, traceability, and incentivization in vo
 ---
 ### Architecture diagram
 <img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT04/Docs/architectureDiagram.jpeg">
+
 ---
 
 ### Use Cases
@@ -67,6 +68,7 @@ Current systems addressing transparency, traceability, and incentivization in vo
  IoT-enabled QR codes register donor and volunteer participation, while blockchain
  ensures tamper-proof records. NFT rewards for frequent contributors incentivize
  sustained engagement in medical aid initiatives.
+
 ---
 ### Deliverables
 - **Web Application (Dashboard & UI):** A platform for NGOs to track campaigns, verify participation, and issue NFT rewards.
