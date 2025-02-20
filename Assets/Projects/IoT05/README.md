@@ -47,11 +47,16 @@ Passenger safety in public transportation, especially for women, remains a signi
 1. **Standalone Safety Device:** A compact IoT-based safety tool installed in cabs, designed to enhance passenger security.
 2. **Emergency Alert Mechanism:** Passengers can press a button in case of an emergency.The button triggers an immediate alert to the office or a central monitoring system.  
 3. **Travel History Logging:** The system records travel routes and history for future analysis.
-   
+
+#### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT05/Docs/Architecture_diagram.jpeg">
+
 ---
+
 ### Deliverables
 1. **Mobile App**: LINE API Integrated app for passengers
 2. **Web App**: Admin Dashboard
+3. **Push Button**: Physical emergency button installed in cabs for passengers
 
 ---
 
