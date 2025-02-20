@@ -2,7 +2,8 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-IoT-blue)
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
-![](https://img.shields.io/badge/Regular_Students-72-gold) <br/> ![](https://img.shields.io/badge/Masterclass-Dec_11-gold)
+![](https://img.shields.io/badge/Regular_Students-72-gold) <br/> ![](https://img.shields.io/badge/Masterclass-Dec_11-gold) <br/> 
+![](https://img.shields.io/badge/AIC_Raise_Hackathon-8_Teams-brown) <br/>
 
 #### Pre-requisite: 20CYS113 - Computer Programming
 
@@ -132,3 +133,8 @@
   -  No. of Students (expressed interest): 50
   -  No. of Students (Registered): 10
 
+### External Participation & Project Showcase
+- [AIC RAISE - Maker's Arena (The ultimate 24-hour Hardware Hackathon)]()
+    - No of Teams: 8 (24 Students)
+- [IIC, Amrita - Genesis 2025]()
+- [Anokha TechFair & Exhibitions 2025]()
