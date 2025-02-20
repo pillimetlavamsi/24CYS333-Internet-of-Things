@@ -6,7 +6,8 @@
 ## IoT#18 - Integrated Smart Home Intrusion Detection System 
 ![](https://img.shields.io/badge/Member-Lalitha_K-gold)  ![](https://img.shields.io/badge/Member-Nikku_Parthiv_Kumar-gold)  ![](https://img.shields.io/badge/Member-Pillimetla_Vamsi-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-13th_Feb_2025-brown)
+![](https://img.shields.io/badge/Reviewed-13th_Feb_2025-brown) <br/>
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 
 ### Problem Statement
 
