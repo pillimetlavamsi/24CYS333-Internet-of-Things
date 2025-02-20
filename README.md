@@ -88,10 +88,10 @@
 | Quiz - 1 | 07 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
-| Review - 1 | 18 - Feb - 2025 <br/> 19 - Feb - 2025 | ![](https://img.shields.io/badge/Ongoing-orange) |
+| Review - 1 | 18 - Feb - 2025 <br/> 19 - Feb - 2025 <br/> | ![](https://img.shields.io/badge/Completed-darkgreen) |
 | NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
 | Quiz - 2  | 04 - Mar - 2025 | 
-| Review - 2 | 04 - Mar - 2025 <br/> 05 - Mar - 2025 |
+| Review - 2 | 04 - Mar - 2025 <br/> 05 - Mar - 2025 | |
 | Report Submission | 25 - Mar - 2025 |
 | Review - Final | 26 - Mar - 2025 |
 | Quiz - 3  | 27 - Mar - 2025 |
@@ -108,12 +108,27 @@
 1. Vasudevan, S. K., Abhishek, S. N., & Sundaram, R. M. D. *Internet of Things.* First Edition, Wiley India, 2019.  
 2. Raj, P., & Raman, A. C. *The Internet of Things: Enabling Technologies, Platforms, and Use-cases.* Auerbach Publications, 2017.  
 3. McEwen, A. *Designing the Internet of Things.* Wiley, 2013.
+    
+### SDG Achievement (through IoT Projects)
+<p align="center">
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G1.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G2.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G3.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G6.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G7.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G9.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G11.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G12.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G13.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G15.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G16.png" width=144/>
+<img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/b42040bf1537ad6be89cd71d42050af13e93cc1c/Assets/G17.png" width=144/>
+</p>
 
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
   -  NPTEL Final Exam (Optional)
   -  No. of Students (expressed interest): 50
-  -  No. of Students (Registered): TBD
-
+  -  No. of Students (Registered): 10
 
