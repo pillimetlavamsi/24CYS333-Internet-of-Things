@@ -104,12 +104,12 @@ Uses wearable devices(IoT sensors) to track vital signs such as heart rate, oxyg
 
 
 ---
-### Architecture Diagram
+### System Architecture Diagram
 ![Arhitecture Diagram](Images/ArchStack.jpg)
 
 ---
 ### Deliverables
-
+This project include a fully functional Integrated IoT-Based Smart Home Intrusion Detection System that combines intrusion detection, network security, and health monitoring into a single platform. The system will feature a home security module using motion and radiation sensors to detect unauthorized access, send real-time alerts, and trigger automated security responses. A network intrusion detection and prevention system will be integrated using HoneyPot to monitor network traffic, identify threats, and redirect attackers to a honeypot for analysis. Additionally, a health monitoring module will utilize IoT-based wearable sensors to track vital signs such as heart rate, blood pressure, and oxygen levels, providing real-time alerts for health anomalies.The system will have a mobile app that makes it easy to monitor and control everything like security alerts, network threats, and health tracking, all in one place.
 
 ---
 
