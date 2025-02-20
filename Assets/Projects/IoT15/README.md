@@ -84,16 +84,16 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 #### *Use cases*
 
- 1. *Fraud Prevention & Regulatory Compliance:*
-    - The barcode system prevents black-market blood sales by ensuring that only authorized hospitals and patients receive blood.
-    - The government health database (e.g., National Blood Transfusion Council NBTC) receives automated reports, improving transparency and compliance with 
+1. *Fraud Prevention & Regulatory Compliance:* ✅
+   - The barcode system prevents black-market blood sales by ensuring that only authorized hospitals and patients receive blood.
+   - The government health database (e.g., National Blood Transfusion Council NBTC) receives automated reports, improving transparency and compliance with 
       health regulations.
       
- 2. *Accident and Emergency Response:*
+ 2. *Accident and Emergency Response:* ✅
     - A road accident victim in a Tier-2 city needs AB-negative blood. The hospital checks stock via IoT; if unavailable, donors are alerted. A donor responds,
       blood is tested using the doctor’s utility, and sent to the hospital in time, ensuring faster access to rare blood groups.
       
- 3. *Blood Donation & Medical Camps:*
+ 3. *Blood Donation & Medical Camps:* ✅
     - IoT-enabled QR codes register donor and volunteer participation, while blockchain ensures tamper-proof records. NFT rewards for frequent contributors 
       incentivize sustained engagement in medical aid initiatives.
       
