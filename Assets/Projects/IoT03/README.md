@@ -61,6 +61,10 @@ public health safety, and meets regulatory compliance.
  deviations (e.g., high turbidity) are detected, the system alerts authorities to take
  action before distribution. Prevents the supply of unsafe drinking water to
  households and communities.
+
+#### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT03/Docs/Architecture_diagram.png">
+
 ---
 ### Deliverables
 - Web/Mobile Dashboard: Allows users to monitor the status of drinking water in real time and analyze past readings.
