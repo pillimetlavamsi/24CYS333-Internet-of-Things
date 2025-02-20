@@ -119,9 +119,7 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 ### Architecture Diagram
 
-![arch_dia](https://github.com/user-attachments/assets/f3dcd79a-ce01-43e9-a01e-a555413678fb)
-
-
+![diagram-export-20-2-2025-7_30_08-pm](https://github.com/user-attachments/assets/2cff7ca2-2c46-47fb-9edc-f10b9e00a1b9)
 
 ----------------
 
