@@ -7,7 +7,8 @@
 
 ![](https://img.shields.io/badge/Member-Nedurumalli_Ved_Varshith_Reddy-gold) ![](https://img.shields.io/badge/Member-Saride_Someswara_Sai_Sri_Chakri-gold) ![](https://img.shields.io/badge/Member-Rudra_Srilakshmi-gold)</br>
 ![](https://img.shields.io/badge/SDG-11-darkgreen)</br>
-![](https://img.shields.io/badge/Reviewed-14th_Feb_2025-brown)
+![](https://img.shields.io/badge/Reviewed-14th_Feb_2025-brown) <br/> 
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 
 ---
 
