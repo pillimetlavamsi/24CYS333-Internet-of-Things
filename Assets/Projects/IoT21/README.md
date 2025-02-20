@@ -7,6 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Navarang_C_D-gold)  ![](https://img.shields.io/badge/Member-Reddicherla_Thanuj-gold)  ![](https://img.shields.io/badge/Member-Nandana_Mahesh-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 
 ---
 
