@@ -120,7 +120,7 @@ Panic buttons and auditory/visual indicators improve usability for elderly popul
 - *Outcome:* Early health risk detection and improved personal monitoring.  
 - *Priority:* Medium, as it enhances proactive healthcare but depends on sensor accuracy.  
 
-3.* Integration with Public Health Systems *✅  
+3. *Integration with Public Health Systems*✅  
 - *Actor:* Healthcare providers and emergency responders.  
 - *Scenario:* The system automatically notifies public health services when a fall is detected, ensuring quick intervention.  
 - *Outcome:* Reduced response time and better elderly care.  
