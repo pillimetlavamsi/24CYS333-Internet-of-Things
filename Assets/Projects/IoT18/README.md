@@ -82,7 +82,7 @@ Current smart home solutions often lack seamless integration, requiring multiple
 ### Proposed Solution
 
 #### Relevance of Proposed Work 
-The Integrated IoT-Based Smart Home Intrusion Detection System will utilize a Raspberry Pi as the central controller. The system will integrate intrusion detection through motion sensors, network intrusion detection through HoneyPi, health monitoring through wearable devices. A mobile app will provide a user-friendly interface for monitoring, control, and alerts.
+The Integrated IoT-Based Smart Home Intrusion Detection System will utilize a Raspberry Pi as the central controller. The system will integrate intrusion detection through motion sensors, network intrusion detection using HoneyPots,Firewalls,etc. Health monitoring through wearable devices. A mobile app will provide a user-friendly interface for monitoring, control, and alerts.
 1. Intrusion Detection:
    - Motion sensors and cameras will detect unauthorized movements and send alerts to the homeowner's smartphone.
    - Network intrusion detection using Honeypot for enhancing security.
