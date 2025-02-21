@@ -68,6 +68,41 @@ The proposed solution is an **IoT-enabled Air Quality Monitoring System**, desig
 - **Real-Time Alerts:** Provides immediate notifications, ensuring safety and timely remediation in hazardous conditions.  
 - **Versatility:** Suitable for use in homes, offices, schools, and healthcare facilities.
 
+---
+
+### Use Cases (Public Wi-Fi Deployment in Smart Cities)
+1. **Airports and Train Stations:**
+   - Provides travelers with real-time air quality updates while waiting in lounges or terminals.
+   - Alerts authorities about sudden changes in air quality for immediate response.
+
+2. **Shopping Malls and Commercial Centers:**
+   - Ensures that customers and employees are aware of air quality conditions in large indoor environments.
+   - Helps facility managers take necessary actions like adjusting ventilation systems.
+
+3. **University and College Campuses:**
+   - Notifies students and faculty about air pollution levels before outdoor activities.
+   - Aids in research and academic studies related to environmental monitoring.
+
+4. **Public Libraries and Co-Working Spaces:**
+   - Ensures a healthy indoor environment for individuals spending long hours in shared spaces.
+   - Sends alerts to building administrators for better air regulation.
+
+5. **Hospitals and Healthcare Centers:**
+   - Monitors air quality in and around healthcare facilities to protect patients with respiratory conditions.
+   - Helps hospital administrators maintain safe indoor air quality standards.
+
+ ---
+
+### Architecture Diagram
+![image](https://github.com/user-attachments/assets/0c7a64cf-d297-4ed0-a51a-0979c227bd29)
+
+
+---
+
+### Deliverables
+- **Tray Notification System:** Users connected to the same network as the board receive real-time notifications about air quality.
+- **Alert System:** If air quality deteriorates, users receive tray notifications warning them about hazardous conditions.
+- **Cloud-Based Data Storage:** Data is uploaded to ThingSpeak for long-term analysis and visualization.
 
 ---
 
