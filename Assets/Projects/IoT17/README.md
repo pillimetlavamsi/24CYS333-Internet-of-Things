@@ -73,6 +73,23 @@ The proposed IoT-Based Battery Surveillance and Management System aims to addres
 
 ---
 
+### Use Cases
+####  Electric Vehicles (EV) Battery Management ✅
+The system monitors EV battery health in real time, tracking voltage, temperature, and charge cycles. Data is sent to a cloud dashboard for remote monitoring and predictive maintenance. Alerts prevent overcharging, deep discharging, and overheating. Optimized charging cycles extend battery life and improve efficiency. This enhances EV performance, safety, and sustainability.
+
+#### Renewable Energy Storage Monitoring
+The system manages battery storage in solar and wind energy setups, preventing inefficiencies like overcharging or deep discharge. It provides real-time data to optimize energy consumption and storage. Alerts notify users of issues, ensuring safe and efficient operation. By improving battery lifespan, the system boosts renewable energy reliability. This reduces energy waste and promotes sustainability.
+
+#### Smart Battery Management in IoT Devices
+The system tracks battery usage in smart home devices, optimizing power consumption. It sends alerts for charging or replacement, preventing unexpected shutdowns. Automated power adjustments extend battery life and improve efficiency. Users benefit from reliable, long-lasting IoT devices. This enhances convenience and reduces energy consumption.
+
+---
+
+### System Architecture Diagram
+![System Architecture Diagram](Images/System_Architecture_Diagram.png)
+
+---
+
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 
