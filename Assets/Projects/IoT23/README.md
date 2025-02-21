@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Member-Vishal_RS-gold)  
 ![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen)   
 
-
 ---
 
 ### Problem Statement
@@ -65,6 +64,12 @@ Conventional lighting systems are energy-intensive and lack adaptive features, r
 | Goal 11 - Sustainable Cities and Communities | Reduces urban energy consumption, promoting sustainability. |
 | Goal 12 - Responsible Consumption and Production | Encourages efficient resource utilization.        |
 
-### References
+---
 
+### Use Case 1: Street Lighting Optimization
+- Utilize Zigbee for communication between street lights to enable efficient and low-power connectivity.
+
+---
+
+### References
 - Venu, D. N. (2023). IoT based Real Time Street Lights controlling on Motion Detection. European Chemical Bulletin, 12(9), 270-287.
