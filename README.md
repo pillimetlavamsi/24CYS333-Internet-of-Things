@@ -62,7 +62,7 @@
 
 ### Value Added Courses
 - [Session - 1 (December 11, 2024) - Masterclass on IoT](Assets/MC)
-- [Session - 2 (TBP)]()
+- [Session - 2 (March 7, 2025) - Project Day](Assets/MC)
 
 ### Tools
 - [TinkerCAD](https://www.tinkercad.com/)
@@ -89,16 +89,17 @@
 | Quiz - 1 | 07 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
-| Review - 1 | 18 - Feb - 2025 <br/> 19 - Feb - 2025 <br/> 20- Feb - 205 | ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Review - 1 | 18 - Feb - 2025 to 20- Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
 | NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
 | Quiz - 2  | 04 - Mar - 2025 | 
-| Review - 2 | 04 - Mar - 2025 <br/> 05 - Mar - 2025 | |
+| Review - 2 | 04 - Mar - 2025 to 07 - Mar - 2025 | 
+| Missed Mid-Term Examination | 19 - Mar - 2025 | 
 | Report Submission | 25 - Mar - 2025 |
 | Quiz - 3  | 27 - Mar - 2025 |
 | Missed Quiz | 02 - Apr - 2025 |
 | Review - Final | 05 - Apr - 2025 |
 | NPTEL Course Ends | 11 - Apr - 2025 |
-| End Semester Examination | Apr - 2025 |
+| End Semester Examination | 23 - Apr - 2025 |
 | NPTEL Examination | 26 - Apr - 2025 |
 | Publication of Results | May - 2025 |
 
@@ -131,10 +132,11 @@
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
   -  NPTEL Final Exam (Optional)
   -  No. of Students (expressed interest): 50
-  -  No. of Students (Registered): 10
+  -  No. of Students (Registered): 18
 
 ### External Participation & Project Showcase
 - [AIC RAISE - Maker's Arena (The ultimate 24-hour Hardware Hackathon)]()
     - No of Teams: 8 (24 Students)
 - [IIC, Amrita - Genesis 2025]()
+    - No of Teams: 5
 - [Anokha TechFair & Exhibitions 2025]()
