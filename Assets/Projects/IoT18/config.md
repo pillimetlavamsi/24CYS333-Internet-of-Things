@@ -3,7 +3,8 @@
 - hostapd `/etc/hostapd/hostpad.conf`
 - dnsmasq `/etc/dnsmasq.conf`
 - dhcpcd :`/etc/dhcpcd.conf`
-- sysctl for net forwarding: `/etc/sysctl.conf`
+- sysctl (for net forwarding): `/etc/sysctl.conf`
+- wlan0_ap (persistant allocation of ip address for interface on running the script.sh after boot): `/etc/systemd/network/10-wlan0_ap.network`
 
 ## wlan0_ap
 Create a virtual access point.
