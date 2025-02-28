@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-IoT-blue)
 <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
-![](https://img.shields.io/badge/Regular_Students-72-gold) <br/> ![](https://img.shields.io/badge/Masterclass-Dec_11-gold) <br/> 
+![](https://img.shields.io/badge/Regular_Students-72-gold) <br/> ![](https://img.shields.io/badge/Masterclass-Dec_11-gold) ![](https://img.shields.io/badge/Project_Day-Mar_7-silver) <br/> 
 ![](https://img.shields.io/badge/AIC_Raise_Hackathon-8_Teams-brown) <br/>
 
 #### Pre-requisite: 20CYS113 - Computer Programming
@@ -90,15 +90,16 @@
 | [NPTEL Course Starts](https://www.youtube.com/@introductiontointernetofth4217) | 20 - Jan - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Review - 1 | 18 - Feb - 2025 to 20- Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
-| NPTEL Exam Registraion Ends | 28 - Feb - 2025 |
-| Quiz - 2  | 04 - Mar - 2025 | 
-| Review - 2 | 04 - Mar - 2025 to 07 - Mar - 2025 | 
-| Missed Mid-Term Examination | 19 - Mar - 2025 | 
-| Report Submission | 25 - Mar - 2025 |
-| Quiz - 3  | 27 - Mar - 2025 |
-| Missed Quiz | 02 - Apr - 2025 |
-| Review - Final | 05 - Apr - 2025 |
-| NPTEL Course Ends | 11 - Apr - 2025 |
+| NPTEL Exam Registraion Ends | 28 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Quiz - 2  | 04 - Mar - 2025 |   
+| Project | 07 - Mar - 2025 |
+| Review - 2 | 11 - Mar - 2025 to 12 - Mar - 2025 |  |
+| Missed Mid-Term Examination | 19 - Mar - 2025 |  |
+| Report Submission | 25 - Mar - 2025 | | 
+| Quiz - 3  | 27 - Mar - 2025 |  | 
+| Missed Quiz | 02 - Apr - 2025 |   | 
+| Review - Final & Project Expo | 05 - Apr - 2025 |    |
+| NPTEL Course Ends | 11 - Apr - 2025 |   |
 | End Semester Examination | 23 - Apr - 2025 |
 | NPTEL Examination | 26 - Apr - 2025 |
 | Publication of Results | May - 2025 |
@@ -130,13 +131,13 @@
 ### Additional Learning
 - [Swayam NPTEL Course - Introduction To Internet Of Things (12 Weeks)](https://onlinecourses.nptel.ac.in/noc25_cs44/preview) (Quiz - Every Wednesday)
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
-  -  NPTEL Final Exam (Optional)
-  -  No. of Students (expressed interest): 50
-  -  No. of Students (Registered): 18
+  -  NPTEL Final Exam (Optional with Extra Credit)
+  -  No. of Students (expressed interest): 50 (45)
+  -  No. of Students (Registered): 29 
 
 ### External Participation & Project Showcase
-- [AIC RAISE - Maker's Arena (The ultimate 24-hour Hardware Hackathon)]()
+- [AIC RAISE - Maker's Arena (The ultimate 24-hour Hardware Hackathon)](Assets/hackathons/aic_raise_makers_arena)
     - No of Teams: 8 (24 Students)
-- [IIC, Amrita - Genesis 2025]()
+- [IIC, Amrita - Genesis 2025](Assets/hackathons/genesis)
     - No of Teams: 5
-- [Anokha TechFair & Exhibitions 2025]()
+- [Anokha TechFair & Exhibitions 2025](Assets/hackathons/anokha_techfair)
