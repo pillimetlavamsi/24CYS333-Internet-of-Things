@@ -27,27 +27,27 @@
 | 2               | \_\_\_\_\_       | [Characteristics & Things in IoT](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/Characteristics_IoT.md)                                                                         | Explanation of IoT ecosystem                     | [View]() | 
 | 3               | \_\_\_\_\_       | [IoT Complete Architectural Stack](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/IoT_Architectural_Stack.md)                                                                        | IoT system architecture                          | [View]() | 
 | 4               | \_\_\_\_\_       | [IoT Enabling Technologies]()                                                                               | Overview of enabling technologies                | [View]() | 
-| 5               | \_\_\_\_\_       | [IoT Challenges]( )                                                                                | Discussion on challenges                         | [View]() | 
+| 5               | \_\_\_\_\_       | [IoT Challenges]( )                                                                                | Discussion on challenges                         | [Interoperability](https://www.youtube.com/watch?v=Am9SW1T_Qvs) | 
 | 6               | \_\_\_\_\_       | [IoT Levels](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Lectures/IoT_Levels.md)                                                                                              | Different levels of IoT                          | [View]() | 
 | 7               | \_\_\_\_\_       | Case Study: Realizing the IoT Stack                                                                     | Analyze a case study for IoT                     | [View]() | 
 | 8               | \_\_\_\_\_       | [Sensors for IoT: Accelerometer, Proximity, IR, Gas, Temperature](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Sensors.md)                                          | Overview of sensor functionalities               | [Video-1](https://www.youtube.com/watch?v=jbMWEEdq3Kg) | 
 | 9               | \_\_\_\_\_       | [Chemical, Motion Detection Sensors](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Sensors.md)                                                                      | Practical sensor applications                    | Same as Above | 
 | 10              | \_\_\_\_\_       | [IoT Hardware Kits: Arduino, Raspberry Pi, Node MCU](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Boards.md)                                                      | Introduction to hardware platforms               | [Video-1](https://www.youtube.com/watch?v=H9OEAn3Uc2w) <br/> [Video-2](https://www.youtube.com/watch?v=Ab9U7NQB1kA) <br/> [Video-3](https://www.youtube.com/watch?v=s2AKMERnBhQ) <br/> [Video-4](https://www.youtube.com/watch?v=mBf9nolBueA) | 
 | 11              | \_\_\_\_\_       | Protocols for IoT: Infrastructure Protocols (IPv4/IPv6, RPL)                                            | Discuss infrastructure protocols                 | [View]() | 
-| 12              | \_\_\_\_\_       | Identification Protocols (URLs) & Transport Protocols (WiFi, LiFi, BLE)                                 | Identification & transport layers in IoT         | [View]() | 
+| 12              | \_\_\_\_\_       | Identification Protocols (URLs) & Transport Protocols (WiFi, LiFi, BLE)                                 | Identification & transport layers in IoT         | [Bluetooth](https://www.youtube.com/watch?v=1zQ8wbBozqI) | 
 | 13              | \_\_\_\_\_       | Discovery & Data Protocols                                                                              | Overview of communication protocols              | [View]() | 
 | 14              | \_\_\_\_\_       | Device Management Protocols                                                                             | Managing devices in IoT                          | [View]() | 
 | 15              | \_\_\_\_\_       | Case Study: MQTT/CoAP in IoT Systems                                                                    | Practical communication case study               | [View]() | 
 | 16              | \_\_\_\_\_       | Cloud & IoT Integration                                                                                 | IoT integration with cloud platforms             | [View]() | 
 | 17              | \_\_\_\_\_       | Types of Cloud & IoT Cloud Challenges                                                                   | Cloud model selection & security concerns        | [View]() | 
-| 18              | \_\_\_\_\_       | Fog and Edge Computing for IoT                                                                          | Discuss fog and edge computing                   | [View]() | 
+| 18              | \_\_\_\_\_       | Fog and Edge Computing for IoT                                                                          | Discuss fog and edge computing                   | [Video-1](https://www.youtube.com/watch?v=hDWvk_6gmmQ) <br/> [Video-2](https://www.youtube.com/watch?v=EPAfduDwJA0) | 
 | 19              | \_\_\_\_\_       | Cloud Security Aspects for IoT                                                                          | Cloud security measures for IoT                  | [View]() | 
-| 20              | \_\_\_\_\_       | RFM Analysis for Data Analytics                                                                         | Discuss RFM techniques for IoT                   | [View]() | 
+| 20              | \_\_\_\_\_       | RFM Analysis for Data Analytics                                                                         | Discuss RFM techniques for IoT                   | [Video-1](https://www.youtube.com/watch?v=JC3cQ2MB_34) <br/> [Video-2](https://www.youtube.com/watch?v=Qjo6XSHrFuM) | 
 | 21              | \_\_\_\_\_       | Case Study: AWS/Azure/Adafruit/IBM Bluemix for IoT                                                      | Cloud selection for IoT applications             | [View]() | 
-| 22              | \_\_\_\_\_       | IoT Applications: Smart City                                                                            | Overview of smart city use case                  | [View]() | 
+| 22              | \_\_\_\_\_       | IoT Applications: Smart City                                                                            | Overview of smart city use case                  | [Video-1](https://www.youtube.com/watch?v=JZiX3ou2-wo) <br/> [Video-2](https://www.youtube.com/watch?v=MG6ge2GjFWQ) <br/> [Video-3](https://www.youtube.com/watch?v=zBCEEkc5g98) |  
 | 23              | \_\_\_\_\_       | IoT Applications: Smart Water & Smart Agriculture                                                       | Case studies on smart agriculture & water systems | [View]() | 
 | 24              | \_\_\_\_\_       | IoT Applications: Smart Energy & Smart Healthcare                                                       | Use cases of smart energy & healthcare           | [View]() | 
-| 25              | \_\_\_\_\_       | IoT Applications: Smart Transportation & Smart Retail                                                   | Analysis of IoT in transportation & retail       | [View]() | 
+| 25              | \_\_\_\_\_       | IoT Applications: Smart Transportation & Smart Retail                                                   | Analysis of IoT in transportation & retail       | [Video-1](https://www.youtube.com/watch?v=n8Knn8Htsbk) <br/> [Video-2](https://www.youtube.com/watch?v=WUMOSqIj8tc) <br/> | 
 | 26              | \_\_\_\_\_       | IoT Applications: Smart Waste Management                                                                | Design a smart waste management system           | [View]() | 
 | 27              | \_\_\_\_\_       | Final Project Discussion & Architectural Analysis                                                       | Project review and final system analysis         | [View]() | 
 | 28              | \_\_\_\_\_       | Wrap-Up & Future of IoT                                                                                  | Overview of future trends in IoT                 | [View]() | 
@@ -91,7 +91,7 @@
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Review - 1 | 18 - Feb - 2025 to 20- Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
 | NPTEL Exam Registraion Ends | 28 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
-| Quiz - 2  | 04 - Mar - 2025 |   
+| Quiz - 2  | 05 - Mar - 2025 |   
 | Project | 07 - Mar - 2025 |
 | Review - 2 | 11 - Mar - 2025 to 12 - Mar - 2025 |  |
 | Missed Mid-Term Examination | 19 - Mar - 2025 |  |
@@ -133,11 +133,12 @@
   -  [YouTube Channel](https://www.youtube.com/@introductiontointernetofth4217)
   -  NPTEL Final Exam (Optional with Extra Credit)
   -  No. of Students (expressed interest): 50 (45)
-  -  No. of Students (Registered): 29 
+  -  No. of Students (Registered): 34 
 
 ### External Participation & Project Showcase
 - [AIC RAISE - Maker's Arena (The ultimate 24-hour Hardware Hackathon)](Assets/hackathons/aic_raise_makers_arena)
     - No of Teams: 8 (24 Students)
+    - Leaderboard: 3 Teams
 - [IIC, Amrita - Genesis 2025](Assets/hackathons/genesis)
     - No of Teams: 5
 - [Anokha TechFair & Exhibitions 2025](Assets/hackathons/anokha_techfair)
