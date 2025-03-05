@@ -62,12 +62,13 @@
 
 ### Value Added Courses
 - [Session - 1 (December 11, 2024) - Masterclass on IoT](Assets/MC)
-- [Session - 2 (March 7, 2025) - Project Day](Assets/MC)
+- [Session - 2 (March 7, 2025) - Project Day](Assets/PD)
 
 ### Tools
 - [TinkerCAD](https://www.tinkercad.com/)
 - [Thingspeak](https://thingspeak.mathworks.com/)
 - [Arduino Cloud](https://cloud.arduino.cc/)
+- [Blynk Cloud](https://blynk.cloud/)
 
 ### Evaluation Criteria
 
@@ -91,8 +92,8 @@
 | Mid-Term Examination | 10 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Review - 1 | 18 - Feb - 2025 to 20- Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
 | NPTEL Exam Registraion Ends | 28 - Feb - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
-| Quiz - 2  | 05 - Mar - 2025 |   
 | Project | 07 - Mar - 2025 |
+| Quiz - 2  | 08 - Mar - 2025 | 
 | Review - 2 | 11 - Mar - 2025 to 12 - Mar - 2025 |  |
 | Missed Mid-Term Examination | 19 - Mar - 2025 |  |
 | Report Submission | 25 - Mar - 2025 | | 
