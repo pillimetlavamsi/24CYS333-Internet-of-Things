@@ -18,10 +18,9 @@ The supply chain management of milk faces significant challenges in ensuring tra
 
 | Components      | Purpose | 
 |:-----------------|:-------| 
-| ESP32 Board             | Acts as the central microcontroller to integrate and process data from various IoT sensors.  |
-| PIR Motion sensor(HC-SR501)  |Detects unauthorized access to milk storage or transportation areas.|
-| DHT22 (Temperature/Humidity)| Monitors the storage and transportation conditions to ensure milk quality. |
-| GPS Module (NEO-6M)    | Tracks the real-time location of milk during transportation for traceability.  |
+| ESP32 Board :white_check_mark:           | Acts as the central microcontroller to integrate and process data from various IoT sensors.  |
+| DHT22 (Temperature/Humidity) :white_check_mark:| Monitors the storage and transportation conditions to ensure milk quality. |
+| GPS Module (NEO-6M)  :white_check_mark:  | Tracks the real-time location of milk during transportation for traceability.  |
 | GSM Module (SIM7600)    | Enables wireless communication for transmitting IoT data to the blockchain network.   |
 | Breadboard and Jump Wires    | Facilitates connections between hardware components for prototyping and testing.   |
 
