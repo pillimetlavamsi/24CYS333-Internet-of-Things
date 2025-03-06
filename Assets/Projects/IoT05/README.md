@@ -18,14 +18,14 @@ Passenger safety in public transportation, especially for women, remains a signi
 ### Hardware
 | Component                  | Specification                     |Purpose                            |
 |----------------------------|-----------------------------------|-----------------------------------|
-| Microcontroller/Development Board | Arduino Uno or Arduino Mega |Acts as the central control unit to process data and manage communication between components.|
-| GPS Module              | NEO-6M GPS Module                |Tracks the real-time location of the vehicle to ensure passenger safety through monitoring or emergency response.|
-| Communication Module    | GSM/GPRS Module                  |Enables data transmission to a remote server or mobile devices for alerts and updates.|
-| Both for Communication and Microcontroller | ESP32               |Combines wireless communication (Wi-Fi/Bluetooth) and microcontroller functionality for data handling and connectivity.|
-| Speed Sensor            | Reed Switch or Hall Effect Sensor|Monitors the vehicle’s speed to detect overspeeding or potential accidents.|
+| ✅ Microcontroller/Development Board | Arduino Uno or Arduino Mega |Acts as the central control unit to process data and manage communication between components.|
+| ✅ GPS Module              | NEO-6M GPS Module                |Tracks the real-time location of the vehicle to ensure passenger safety through monitoring or emergency response.|
+| ✅ Communication Module    | GSM/GPRS Module                  |Enables data transmission to a remote server or mobile devices for alerts and updates.|
+| ✅ Both for Communication and Microcontroller | ESP32               |Combines wireless communication (Wi-Fi/Bluetooth) and microcontroller functionality for data handling and connectivity.|
+| ✅ Speed Sensor            | Reed Switch or Hall Effect Sensor|Monitors the vehicle’s speed to detect overspeeding or potential accidents.|
 | Alert Button            | Push Button                      |Allows passengers to manually send emergency alerts in case of danger or mishaps.|
-| Power Supply            | Li-ion Battery Pack or Vehicle Power Adapter |Provides necessary power to the entire system for uninterrupted operation.|
-| Accelerometer/Gyroscope | MPU6050                          |Detects sudden movements, tilts, or collisions to identify accidents or unsafe driving patterns.|
+| ✅ Power Supply            | Li-ion Battery Pack or Vehicle Power Adapter |Provides necessary power to the entire system for uninterrupted operation.|
+| ✅ Accelerometer/Gyroscope | MPU6050                          |Detects sudden movements, tilts, or collisions to identify accidents or unsafe driving patterns.|
 
 ---
 
