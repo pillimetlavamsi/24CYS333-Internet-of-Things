@@ -20,13 +20,13 @@ Agriculture faces challenges in achieving efficient crop growth while minimizing
 | Components                             | Purpose                                                                                          |
 |:---------------------------------------|:-------------------------------------------------------------------------------------------------|
 | NPK Soil Sensor                        | Measures the nutrient levels (Nitrogen, Phosphorus, Potassium) in the soil.  |
-| Capacitive Soil Moisture Sensor v1.2   | Detects the moisture level of the soil to determine irrigation needs.
-|12V DC Plastic Solenoid Valve           | Controls the flow of water in the irrigation system. |
-| GSM Module (SIM800L)                   | Enables communication in areas with limited or no Wi-Fi access. |
-| Raspberry Pi                           | Acts as the central processing unit for data management and IoT control. |
-| Wi-Fi Module (ESP32)                   | Facilitates wireless connectivity for IoT operations.   |
-| Battery (INVENTO 11.1V-12V 1500 mAh)   | Provides power to the components for portable and remote use.|
-| 12V Mini Water Pump                    | Provides water and aids in the automated delivery of water-soluble fertilizers. |
+| Capacitive Soil Moisture Sensor v1.2✅ | Detects the moisture level of the soil to determine irrigation needs.
+| 12V DC Plastic Solenoid Valve✅        | Controls the flow of water in the irrigation system. |
+| GSM Module (SIM800L)                     | Enables communication in areas with limited or no Wi-Fi access. |
+| Raspberry Pi✅                           | Acts as the central processing unit for data management and IoT control. |
+| Wi-Fi Module (ESP32)✅                   | Facilitates wireless connectivity for IoT operations.   |
+| Battery (INVENTO 11.1V-12V 1500 mAh)✅   | Provides power to the components for portable and remote use.|
+| 12V Mini Water Pump✅                    | Provides water and aids in the automated delivery of water-soluble fertilizers. |
 ---
 ### Literature Survey<br>
 #### Existing Solutions:
