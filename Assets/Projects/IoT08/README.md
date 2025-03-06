@@ -16,16 +16,21 @@
 With the increasing incidence of vehicle theft worldwide, there is an urgent need for a robust and cost-effective security system that not only tracks the real-time location of vehicles but also allows the user to access the collected data in a tamperproof and transparent manner. Current anti-theft solutions often suffer from issues such as data manipulation, unauthorized system access, energy inefficiencies and cost effectiveness due to continuous tracking and hardware pricing. 
 
 ---
+### **Architecture Diagram**
+![BlockDiagram](https://github.com/user-attachments/assets/aeb396e1-5dc1-4aca-a612-da18b2690f63)
+
+
+---
 ### **Hardware Requirements**
 
-| **Components**        | **Purpose**                                     |
-| :-------------------- | :---------------------------------------------- |
-| Keypad                | Passcode verification                           |
-| Alarm/Buzzer          | Alerting the surrounding populace               |
-| MPU6050 Accelerometer | To detect sudden unexpected movement of the car |
-| Neo-6M GPS module     | Geofencing and Geolocation features             |
-| Rechargeble Battery   | Active monitoring even when the car is off      |
-| SIM800L GSM module    | Enable communication using cellular network     |
+| **Components**           | **Purpose**                                     |
+| :----------------------- | :---------------------------------------------- |
+| Keypad ☑️                | Passcode verification                           |
+| Alarm/Buzzer ☑️          | Alerting the surrounding populace               |
+| MPU6050 Accelerometer ☑️ | To detect sudden unexpected movement of the car |
+| Neo-6M GPS module ☑️     | Geofencing and Geolocation features             |
+| Rechargeble Battery ☑️   | Active monitoring even when the car is off      |
+| SIM800L GSM module ☑️    | Enable communication using cellular network     |
 
 ---
 ### **Literature Survey**
