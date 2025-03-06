@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Member-Vishal_RS-gold)  
 ![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-12-darkgreen)   
 
-
 ---
 
 ### Problem Statement
@@ -20,17 +19,17 @@ Conventional lighting systems are energy-intensive and lack adaptive features, r
 
 ## Hardware Requirements
 
-| Component                | Specification                                         | Purpose                                               |
-|:-------------------------|:-----------------------------------------------------|:-----------------------------------------------------|
-| **ESP32**                | 32-bit microcontroller, Wi-Fi & Bluetooth enabled    | Acts as the central controller for system operations. |
-| **PIR Sensor (HC-SR501)**| Motion detection, adjustable sensitivity and delay   | Detects motion to activate/deactivate the lighting system. |
-| **LDR Sensor (KY018)**   | Photoresistor module, light-dependent resistor       | Measures ambient light levels for adaptive brightness control. |
-| **IR Sensor (TCRT5000)** | Infrared emitter and detector for proximity sensing  | Provides additional motion detection capabilities.    |
-| **Relay Module (Songle SRD-05VDC-SL-C)** | 5V 2-channel relay module, max output 250V AC or 30V DC | Controls the LED bulb by switching it on/off.        |
-| **5V/3.3V Power Adapter**| Standard USB 5V/2A power supply                     | Supplies stable power to the ESP32 and other components. |
-| **Voltage Regulator (LM1117 3.3V)** | 3.3V linear voltage regulator             | Converts 5V input to 3.3V for components requiring lower voltage. |
-| **Jumper Wires/Breadboard** | Assorted male-to-male and male-to-female wires    | Used for temporary circuit connections during testing. |
-| **LED Bulb**             | LED bulb compatible with relay switching            | Serves as the primary light source controlled by the system. |
+|Availability | Component                | Specification                                         | Purpose                                               |
+|:---|:-------------------------|:-----------------------------------------------------|:-----------------------------------------------------|
+|✅                | **ESP32**                | 32-bit microcontroller, Wi-Fi & Bluetooth enabled    | Acts as the central controller for system operations. |
+|✅                | **PIR Sensor (HC-SR501)**| Motion detection, adjustable sensitivity and delay   | Detects motion to activate/deactivate the lighting system. |
+|✅                | **LDR Sensor (KY018)**   | Photoresistor module, light-dependent resistor       | Measures ambient light levels for adaptive brightness control. |
+|✅                | **IR Sensor (TCRT5000)** | Infrared emitter and detector for proximity sensing  | Provides additional motion detection capabilities.    |
+|✅                | **Relay Module (Songle SRD-05VDC-SL-C)** | 5V 2-channel relay module, max output 250V AC or 30V DC | Controls the LED bulb by switching it on/off.        |
+|✅                | **5V/3.3V Power Adapter**| Standard USB 5V/2A power supply                     | Supplies stable power to the ESP32 and other components. |
+|✅                | **Voltage Regulator (LM1117 3.3V)** | 3.3V linear voltage regulator             | Converts 5V input to 3.3V for components requiring lower voltage. |
+|✅                | **Jumper Wires/Breadboard** | Assorted male-to-male and male-to-female wires    | Used for temporary circuit connections during testing. |
+|✅                | **LED Bulb**             | LED bulb compatible with relay switching            | Serves as the primary light source controlled by the system. |
 ---
 ### Literature Survey
 
@@ -65,6 +64,12 @@ Conventional lighting systems are energy-intensive and lack adaptive features, r
 | Goal 11 - Sustainable Cities and Communities | Reduces urban energy consumption, promoting sustainability. |
 | Goal 12 - Responsible Consumption and Production | Encourages efficient resource utilization.        |
 
-### References
+---
 
+### Use Case 1: Street Lighting Optimization
+- Utilize Zigbee for communication between street lights to enable efficient and low-power connectivity.
+
+---
+
+### References
 - Venu, D. N. (2023). IoT based Real Time Street Lights controlling on Motion Detection. European Chemical Bulletin, 12(9), 270-287.

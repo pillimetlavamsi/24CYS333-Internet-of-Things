@@ -4,16 +4,18 @@
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
 ## IoT#06 - Developing an IoT-Based Smart Grid Architecture for Efficient Energy Distribution
-
 ![](https://img.shields.io/badge/Member-Arul_Sujith_S-gold)  ![](https://img.shields.io/badge/Member-Hemadhri_P_C-gold)  ![](https://img.shields.io/badge/Member-Akshit_Singh-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) <br/>
 ![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
+
 ---
+
 ### Problem statement
 
 Traditional power grids lack real-time optimization, leading to over-reliance on fossil fuels even when renewable energy is available.Current grids struggle to integrate renewable sources efficiently, resulting in underutilization and increased carbon emissions.There is no autonomous system to prioritize renewable energy over fossil fuels based on real-time demand and supply.Grids lack real-time monitoring tools, delaying fault detection and reducing overall efficiency.Reactive maintenance and operational inefficiencies increase costs and lead to longer downtimes during outages.
 
 ---
+
 ### Hardware Requirements
 
 | Components               | Purpose                                                                                          |
@@ -24,9 +26,8 @@ Traditional power grids lack real-time optimization, leading to over-reliance on
 | CD74HC4067 Module          | Multiplexer to route multiple analog signals to a single measurement device (INA219) |
 | LED indicators             | Used as energy-consuming devices to demonstrate real-time energy monitoring |
 | Breadboard and Jump Wires  | Allow easy connections for assembling and testing components.                                    |
-
-
 ---
+
 ### Literature Survey  
 
 #### Existing Solutions  
@@ -36,6 +37,7 @@ Traditional power grids lack real-time optimization, leading to over-reliance on
 #### Research Gaps  
 1. **Interoperability and Cybersecurity:** Despite advancements in grid automation and communication technologies, robust frameworks for ensuring interoperability and cybersecurity across diverse smart grid components remain underdeveloped. 
 2. **Real-Time Adaptability:** Current smart grid designs often lack mechanisms for real-time adaptability to sudden changes in demand, renewable energy supply fluctuations, and grid disruptions, limiting their efficiency and resilience.
+   
 ---
 
 ### Proposed Solution
@@ -46,6 +48,21 @@ Traditional power grids lack real-time optimization, leading to over-reliance on
 - **IoT Dashboard:** Centralized platform for real-time monitoring and control of energy supply, demand, and system health.
 
 ---
+
+
+#### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT06/diagram.png">
+
+---
+
+### Deliverables
+1. **Web Dashboard**: Real-time monitoring, analytics, remote control
+2. **Alert System**: Email, SMS, Mobile Push Notifications
+3. **Machine Learning Model**: Energy prediction & anomaly detection
+
+---
+
+
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG                                      | Alignment                                                                                                                                                 |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,6 +70,7 @@ Traditional power grids lack real-time optimization, leading to over-reliance on
 | Goal 11 - Sustainable Cities and Communities     | Promotes energy-efficient infrastructure in universities, enabling real-time tracking and control of electricity usage to minimize waste and support cleaner, more sustainable urban environments.      |
 
 ---
+
 ### References  
 - Loschi, H. J., Leon, J., Iano, Y., Filho, E. R., Conte, F. D., Lustosa, T. C., & Freitas, P. O. (2015). **Energy efficiency in Smart Grid: A prospective study on Energy Management Systems.** _Smart Grid and Renewable Energy_, 6(8), 250–259.
 

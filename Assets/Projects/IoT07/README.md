@@ -31,24 +31,45 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 
 ---
 ### Literature Survey  
-
-#### Existing Solutions  
-- **WhereIsMyTransport:** Aggregates real-time public transport data in emerging markets, focusing on mapping informal transit networks, but lacks advanced predictive capabilities and commuter-focused features.
-- **Google Maps Transit Integration:** Provides real-time public transport schedules and vehicle tracking using GPS data from transit agencies, but focuses more on static schedule integration and lacks dynamic, decentralized IoT scalability.  
-- **Citymapper:** Offers real-time tracking, route optimization, and live updates for public transport, but heavily relies on centralized data feeds, making it less adaptable to decentralized or volunteer-driven models.
-
-#### Research Gaps  
-- **Predictive Analytics for Dynamic Scheduling:** Most systems focus on static schedules with basic GPS tracking, lacking advanced AI-driven predictive algorithms to dynamically adjust schedules based on real-time conditions like traffic or delays.
-- **Passenger Engagement and Feedback:** Few solutions involve passengers actively, either through crowdsourcing data or incentivizing participation to enhance system accuracy and reliability. 
-- **Data Privacy and Security:** While IoT systems collect extensive data, research is lacking on ensuring robust data encryption and protecting passenger privacy, especially in public transportation systems.
+ - **Real-Time vehicle Tracking (Lushi et al., 2022):** Utilizes GPS modules to continuously track the real-time location of vehicles and transmit data to the cloud using GPS module (Neo-6M), Arduino Uno, Wi-Fi module (ESP8266). Commuters can access this data via a mobile application to plan their trips efficiently.
+ 
+ - **Route Optimization and Scheduling (Lushi et al., 2022):** Uses GPS and traffic data to optimize vehicle schedules dynamically. The system analyzes congestion patterns and suggests alternative routes to minimize delays.
+   
+ - **Smart Ticketing and Contactless Payment (Lushi et al., 2022):** Introduces RFID-based ticketing solutions to automate fare collection and reduce fraud. Data is transmitted to a cloud-based system for efficient revenue tracking.
+   
+ - **Passenger Distance and Arrival Time Calculation (Salih Younis, 2021):** Uses the Haversine formula to calculate the distance between the passenger and the nearest vehicle. The estimated arrival time is computed based on distance and average speed, reducing waiting times.
+   
+ - **Load Monitoring Using IoT Sensors (Lushi et al., 2022):** Implements infrared(IR) sensors at vehicle entry and exit points to count passengers in real time, helping optimize fleet utilization and prevent overcrowding.
+ 
+---
+### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT07/Architecture_%20diagram.jpeg">
 
 ---
-
 ### Proposed Solution 
 
 #### Relevance of Proposed Work  
 - **Improves Public Transit Efficiency:** The system reduces delays, optimizes routes, and enhances reliability, encouraging more people to use public transportation.
 - **Encourages Community Involvement:** Volunteer-driven contributions and incentivized reporting foster community participation and accountability in maintaining the system
+
+---
+### Usecases
+
+- **Live Passenger Load Monitoring (Using RFID) :** RFID cards detect when passengers enter or exit the vehicle.The system calculates
+ the real-time occupancy and updates the cloud. If the vehicle reaches full capacity, alerts are sent to:- Passengers at the next stop, so they know if the vehicle is crowded.- Transport authorities, to deploy another vehicle if needed.
+ 
+- **Real-Time vehicle Location Tracking for Passengers:** The Neo 6M GPS module continuously tracks the vehicle location.The ESP32 microcontroller processes this data and sends it to the cloud viaGSM/GPRS (SIM800 module).Passengers can view the real-time location and estimated time of arrival (ETA) through a mobile app, web dashboard, or vehicle stop display.  
+
+- **Predictive Scheduling for Better Fleet Management:** The system analyzes historical data and real-time demand to predict peak hours.Additional buses can be scheduled during high-demand periods (e.g., office rush hours).During low-demand periods, unnecessary vehicles are rerouted or rescheduled to save fuel.
+ 
+---
+### Deliverables
+
+1. **Passenger Mobile App**: It enhances commuting with real-time vehicle tracking, ETA updates, and passenger load monitoring, helping users plan efficiently. It also provides route suggestions, delay notifications, and an SOS emergency button for a safer and more informed travel experience.
+   
+2. **Admin Web Dashboard**: Which enables real-time fleet monitoring, dynamic scheduling, and traffic-based route adjustments, optimizing public transport operations. It also provides passenger load analytics, predictive insights, and emergency alerts, ensuring efficiency, security, and responsive management.
+   
+3. **Cloud Infrastructure & Backend**: It ensures real-time GPS data processing, IoT communication, and AI-driven demand forecasting for efficient fleet management. It also provides a secure database and open API integrations for enhanced connectivity with services like Google Maps and Uber. 
   
 ---
 
@@ -66,6 +87,6 @@ The project proposes a Real-Time IoT-Driven Public Transport Scheduling and Trac
 ---
 
 ### References  
-- Habadi, A. A., & AbuAbdullah, Y. S. (2018, April). **Intelligent safety school buses system using RFID and carbon dioxide detection**. _In 2018 1st International Conference on Computer Applications & Information Security_(ICCAIS) (pp. 1-7). IEEE.
+- Salih, T. A., Younis, N. K. (2021). __Designing an intelligent real-time public transportation monitoring system based on iot.__*Open Access Library Journal, 8*(10),1-14.[https://www.scirp.org/journal/paperinformation?paperid=112889](https://www.scirp.org/journal/paperinformation?paperid=112889)
+- Lushi, A., Daas, D., Nadeem, M. (2022, December). __IoT-Based Public Transport Management System.__ *In 2022 IEEE Global Conference on Artificial Intelligence and Internet of Things* (GCAIoT) (pp. 69-75). IEEE[https://www.researchgate.net/publication/367439907_IoT-Based_Public_Transport_Management_System](https://www.researchgate.net/publication/367439907_IoT-Based_Public_Transport_Management_System)
 
-- Singla, L., & Bhatia, P. (2015, September). **GPS based bus tracking system**. _In 2015 International Conference on Computer, Communication and Control_ (IC4) (pp. 1-6). IEEE.

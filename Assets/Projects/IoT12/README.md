@@ -11,12 +11,12 @@
 ![](https://img.shields.io/badge/Reviewed--brown)
 
 ---
-**Problem Statement:**
+### Problem Statement:
 
 Borewell pumps are critical for providing water in agriculture, industrial, and domestic sectors especially in remote areas. However, monitoring and controlling these pumps manually is challenging, time-consuming and inefficient. Problems such as pump failures, energy wastage, water overuse and delayed detection of issues lead to increased costs, resource wastage and operational inefficiencies. Current systems lack real-time remote monitoring and automated control capabilities leaving users unable to respond quickly to malfunctions or optimize pump operations.
 
 ---
-**Hardware requirements:**
+### Hardware requirements:
 
 | Components               | Purpose                                                                                          |
 |:-------------------------|:-------------------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ Borewell pumps are critical for providing water in agriculture, industrial, and 
 | 12V DC Motor Pump | Pumps water from the borewell. |
 
 ---
-**Software requirements:**
+### Software requirements:
 
 | Components               | Purpose                                                                                          |
 |:-------------------------|:-------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Borewell pumps are critical for providing water in agriculture, industrial, and 
 | AWS Cloud Platform | Enables remote monitoring, data storage, and control with real-time analytics. |
 
 ---
-**Proposed solution:**
+### Proposed solution:
 
 The proposed system addresses the challenges of manual monitoring and control of borewell pumps by providing an IoT-based solution for real-time monitoring, automated control, and operational efficiency.
 
@@ -63,19 +63,44 @@ The proposed system addresses the challenges of manual monitoring and control of
 
 This solution improves efficiency, reduces resource wastage, and enhances the reliability of borewell pump operations, especially in remote areas.
 
----
-**Literature survey**:
+#### Use cases:
 
-Jonthan in Water Tank Depth Sensor revealed concept on switching on automatically
-the pumps.This paper creates acquaintance with the preciousness of water resource
-and about tank control and makes.Akinlalu addressed the problem related to
-find the depth of freshwater boreholes and the recommendation of areas to trace the
-location during installation time.Getu proposed a system for finding water levels
-automatically and controlling them.Poovizhi proposed a system for water level
-monitoring in trains for filling the water tanks in trains optimally.
+- Optimize agricultural and domestic water management by enabling real-time
+ monitoring and automation of borewell pumps.
+- Residential Water Supply: Smart home integration for automatic borewell pump
+ operation based on water demand.
+- Industrial Applications: Remote monitoring of borewell pumps used in
+ manufacturing and power plants.
+
+#### Architecture diagram:
+
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT12/Docs/Architectural_diagram.png">
 
 ---
-**Mapping the Project to Relevant Sustainable Development Goals (SDGs):**
+### Literature survey:
+
+- Both studies illustrate the potential of IoT in improving borewell management.
+While Malche and Maheshwary (2017) focus on water level monitoring for
+agricultural applications, Ramu et al. (2020) extend the scope to autonomous
+borewell management, emphasizing energy conservation. Future research can
+integrate AI-driven predictive analytics to optimize water consumption patterns and
+enhance system efficiency.
+- Prasad et al. (2017) proposed a system using ultrasonic sensors to monitor ground
+water levels and alert users through mobile notifications.
+- Gurguiatu et al. (2013) focused on energy savings by implementing active power
+filters in water pump systems to enhance efficiency.
+- LoRa and Zigbee: Implemented in large-scale agricultural lands for low-power,
+long-range communication
+- Integration of real-time alerts for critical conditions (dry running, leaks, and
+overflow). The system provides automated notifications via a web or
+mobile interface
+
+---
+### Deliverables:
+- Web/Mobile Dashboard: Allows users to monitor the status of water level and availability in real time and analyze past readings.
+
+---
+### Mapping the Project to Relevant Sustainable Development Goals (SDGs):
 
 | SDG | Alignment |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -83,17 +108,16 @@ monitoring in trains for filling the water tanks in trains optimally.
 | SDG 12: Responsible Consumption and Production | Optimizes energy and water resource usage, minimizing waste and encouraging sustainable practices. |
 
  
-**Collaboration:**
+### Collaboration:
 
 | Team | Module & Scope |
 |:----:|:---------------|
 | IoT#03 | Water Contaminant Monitoring | 
-| IoT#10 | Smart Home Plantation System |
 
 ---
-**References:**
-  - Karimisetty, S., Rugada, V. R., & Harshitha, D. (2020). **IoT-based borewell water-level detection and auto-control of submersible pumps.** In Intelligent System Design: Proceedings of Intelligent System Design: INDIA 2019 (pp. 55-61). Singapore: Springer Singapore.
-  - Malche, T., & Maheshwary, P. (2017). **Internet of things (IoT) based water level monitoring system for smart village.** In Proceedings of International Conference on Communication and Networks: ComNet 2016 (pp. 305-312). Springer Singapore.
+### References:
+  - Venkataswamy, R., Paul, R., & Jogy, J. (2020). **Internet of Things Based Autonomous Borewell Management System**._In Cyber-physical Systems and Digital Twins: Proceedings of the 16th International Conference on Remote Engineering and Virtual Instrumentation 16 (pp. 229-243)_. Springer International Publishing.
+  - Malche, T., & Maheshwary, P. (2017). **Internet of things (IoT) based water level monitoring system for smart village**._In Proceedings of International Conference on Communication and Networks: ComNet 2016 (pp. 305-312)_. Springer Singapore.
 
 
 

@@ -49,7 +49,32 @@ Current systems addressing transparency, traceability, and incentivization in vo
 3. **Enhancing Transparency and Trust:** Blockchain ensures immutable logs of volunteer efforts and NGO resource use, fostering trust among participants.  
 4. **Real-Time Activity Monitoring:** IoT integration enables real-time tracking of volunteer activities, increasing efficiency in campaign management.
 ---
+### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT04/Docs/architectureDiagram.jpeg">
 
+---
+
+### Use Cases
+1. **Disaster Relief and Recovery Campaigns**
+ IoT devices track volunteer activities in real-time during emergencies, while
+ blockchain ensures transparent resource allocation. NFT rewards motivate
+ volunteers, who can redeem tokens for SHG products, boosting engagement and
+ trust.
+2.  **Environmental Conservation and Clean-Up Drives**
+ IoT sensors monitor progress in clean-up or plantation drives, and blockchain logs
+ volunteer contributions immutably. NFTs reward participants, encouraging
+ eco-friendly actions and supporting local economies.
+3. **Blood Donation & Medical Camps**
+ IoT-enabled QR codes register donor and volunteer participation, while blockchain
+ ensures tamper-proof records. NFT rewards for frequent contributors incentivize
+ sustained engagement in medical aid initiatives.
+
+---
+### Deliverables
+- **Web Application (Dashboard & UI):** A platform for NGOs to track campaigns, verify participation, and issue NFT rewards.
+- **IoT-Enabled Participation Logging:** RFID/NFC or QR-based check-ins with geo-location tracking for real-time event verification.
+- **Blockchain-Powered NFT Rewards:** Smart contracts to issue NFTs based on verified participation.
+---
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG                                      | Alignment                                                                                                                                                 |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|

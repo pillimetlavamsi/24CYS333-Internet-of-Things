@@ -17,13 +17,13 @@ The project aims to design and develop an IoT-based model that collects real-tim
 ### Hardware Requirements
 | Component                          | Functionality                                                                                   |
 |------------------------------------|----------------------------------------------------------------------------------------------- |
-| Arduino Board                      | Acts as the central microcontroller for data collection and transmission.                      |
-| Temperature Sensor (e.g., LM35, DHT22) | Monitors ambient temperature to provide environmental data for analysis.                   |
-| Humidity Sensor (e.g., DHT22)      | Measures air moisture levels to monitor environmental conditions.                              |
+|✅ Arduino Board                      | Acts as the central microcontroller for data collection and transmission.                      |
+|✅ Temperature Sensor (e.g., LM35, DHT22) | Monitors ambient temperature to provide environmental data for analysis.                   |
+|✅ Humidity Sensor (e.g., DHT22)      | Measures air moisture levels to monitor environmental conditions.                              |
 | Color Sensor (e.g., TCS3200)       | Detects variations in leaf color, which can indicate plant diseases or stress.                |
 | Leaf Wetness Sensor (e.g., LWS-02) | Identifies the presence of water on leaves, important for monitoring plant health.            |
-| Wi-Fi Module (e.g., ESP8266 or ESP32) | Enables data transmission to a server or cloud platform for remote monitoring.               |
-| Battery                            | Provides uninterrupted power, such as a rechargeable lithium-ion battery.                     |
+|✅ Wi-Fi Module (e.g., ESP8266 or ESP32) | Enables data transmission to a server or cloud platform for remote monitoring.               |
+|✅ Battery                            | Provides uninterrupted power, such as a rechargeable lithium-ion battery.                     |
 
 ### Software Requirements
 | Component            | Functionality                                                                                 |
@@ -64,7 +64,32 @@ Developing an IoT-based Crop Disease Detection System that leverages smart senso
      Machine learning models analyze the collected data to detect early signs of diseases, enabling farmers to take timely preventive actions.
      Integration of real-time tracking and automated alerts via mobile/web interfaces ensures timely updates for farmers.
      Maintenance includes periodic sensor calibration and health monitoring to ensure reliability.
-     
+
+---
+### Architecture Diagram
+![Alt Text](Architecture_Diagram.jpg)
+
+---
+### Deliverables
+
+1.Mobile App: Capturing the photos of mango crops
+
+2.Fixed Sensors: Temperture/Humidity Sensors,Leaf Wetness Sensors on the Location around the crop
+
+---
+### Use Cases
+
+  ✅ 1.Early Disease Detection:The early alert system for detecting the diseases in
+ mango trees uses sensors and image analysis to spot the diseases at very early
+ stages and prevent large losses of the crop.
+ 
+ ✅  2.Automated Monitoring: Continuously tracks environmental conditions like
+ humidity, temperature, and soil moisture to detect disease-prone conditions.
+ 
+  ✅ 3.Precise Treatment:Precision Treatment gives near perfect recommendations
+ for pesticides and fertilizers, avoiding violations of unnecessary chemical use
+ and improving yield
+ 
 ---   
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 

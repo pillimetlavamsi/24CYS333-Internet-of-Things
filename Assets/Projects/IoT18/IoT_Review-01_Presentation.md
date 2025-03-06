@@ -139,4 +139,3 @@ This project implements a **honeypot-based intrusion detection system** using a 
 - Automate reporting of detected attackers.
 - Introduce more sophisticated honeypot deception techniques.
 
-

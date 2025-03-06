@@ -7,7 +7,8 @@
 
 ![](https://img.shields.io/badge/Member-Nedurumalli_Ved_Varshith_Reddy-gold) ![](https://img.shields.io/badge/Member-Saride_Someswara_Sai_Sri_Chakri-gold) ![](https://img.shields.io/badge/Member-Rudra_Srilakshmi-gold)</br>
 ![](https://img.shields.io/badge/SDG-11-darkgreen)</br>
-![](https://img.shields.io/badge/Reviewed-14th_Feb_2025-brown)
+![](https://img.shields.io/badge/Reviewed-14th_Feb_2025-brown) <br/> 
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 
 ---
 
@@ -19,12 +20,13 @@ Heavy traffic congestion is increasingly becoming a problem in urban areas, whic
 ### Hardware Requirements:
 | Component | Functionality |
 | --------- | ------------- |
-| ESP32 Microcontroller | Acts as the central processing unit for handling inputs and outputs |
-| Sound sensor(KY-038) | Detects sound levels and converts audio signals to electrical signals |
+| ✅ESP32 Microcontroller | Acts as the central processing unit for handling inputs and outputs |
+| ✅Sound sensor(KY-038) | Detects sound levels and converts audio signals to electrical signals |
 | 7.4V 2200mAh Li-ion Battery Pack | Supplies portable power to the system |
 | Voltage Regulator (LM7805) | Ensures a stable voltage supply to components |
-| Breadboard | Allows for easy and temporary circuit prototyping |
+| ✅Breadboard | Allows for easy and temporary circuit prototyping |
 | Jumper Wires | Connect various components for signal and power transmission |
+| RFID Reader and Tags | Facilitates identification and authentication using radio frequency-based technology |
 | Noise Calibration Tool(BAFX Products Sound Level Meter) | Measures and calibrates sound levels for accurate sensor operation |
 
 
@@ -33,33 +35,94 @@ Heavy traffic congestion is increasingly becoming a problem in urban areas, whic
 ### Literature Survey
 
 #### Existing Solutions
-1. **Smart Traffic Systems:** Existing systems using IoT and GPS improve traffic flow but often require costly infrastructure and overlook sound-based detection.
-2. **Sound-Based Emergency Detection:** Studies on siren detection show potential but are limited in scalability and real-time noise calibration.
-3. **Traffic Congestion Impact:** Research highlights delays in emergency response due to traffic but focuses more on navigation than congestion management.
-4. **IoT for Urban Safety:** IoT systems monitor urban safety but lack emphasis on emergency vehicle prioritization.
-5. **Noise Filtering:** Current solutions struggle to distinguish sirens from urban noise effectively in real time.
+Existing solutions rely primarily on RFID technology, which depends solely on tags for emergency vehicle detection.
 
 #### Research Gaps
-1. **Cost-Effective Scalability:** Existing solutions are expensive and unsuitable for large-scale deployment.
-2. **Noise Calibration:** Difficulty distinguishing emergency sirens from urban noise, especially during peak hours.
-3. **Traffic Integration:** Limited integration with traffic systems for real-time emergency response.
-4. **City-Wide Monitoring:** Few systems provide effective real-time monitoring across urban areas.
-5. **Energy Efficiency:** Lack of focus on optimizing sensor energy consumption for continuous operation.
-
+1. Our approach enhances real-time verification by integrating sound sensors, webcam-based AI verification (COCO-SSD model), and RFID authentication.
+2. Additionally, we are expanding the system to support personal emergency vehicles (vehicles carrying individuals with urgent medical needs).
+   This can be achieved by implementing a detection algorithm that identifies flashing emergency lights or specific sound signals from these vehicles.
+   
 ---
 
 ### Proposed Solution
 
-We plan to place sound sensors all over the city for effective monitoring and detection of emergency sirens. The system will use the Sound Sensor (KY-038) connected to an ESP32 Microcontroller to process sound data in real time. If the system continuously detects the sound of an emergency siren for a long period from the same sensor, it will immediately send alerts.
-These alerts perform:
-- **Traffic Management:**
-When an emergency siren is detected, the ESP32 sends a signal to the traffic light controller at the junction.
-The system will turn all other traffic lights red, allowing the emergency vehicle to pass freely.
-Once the vehicle has passed or the siren stops, the system will restore normal traffic flow automatically.
-This system is intended to make the process of traffic management responsive and efficient in terms of emergency vehicle access, reducing delays and enhancing public safety in critical situations.
+**Overview**
+
+The proposed system is an IoT-based intelligent traffic management system designed to prioritize emergency vehicles at four-way junctions. The system integrates sound sensors, AI-based image detection, RFID authentication, and ESP32 microcontrollers to detect emergency vehicles in real time and dynamically control traffic signals. By automating traffic clearance, the solution reduces emergency response delays, improving public safety and healthcare outcomes.
+
+**Key Components Used:**
+
+**Sensors & Detection Modules:**
+- *KY-038 Sound Sensors:* Detect emergency sirens in real time.  
+- *Webcam with COCO-SSD AI Model:* Performs text detection and image recognition to verify emergency vehicles.  
+- *RFID Reader & Tags:* Authenticates emergency vehicles as they approach the intersection.
+  
+**Microcontrollers & Processing Units:** 
+- *ESP32 (at sound sensors):* Processes siren detection and triggers AI-based verification.  
+- *ESP32 (at traffic controller):* Receives verified data and controls traffic signals accordingly.
+
+**Traffic Control & Power Supply:**
+- *Traffic Signal Controller:* Manages signal transitions based on emergency vehicle detection.  
+- *7.4V 2200mAh Li-ion Battery Pack:* Provides power for components.  
+- *LED Indicators (Red, Yellow, Green):* Indicate signal changes at the intersection.  
+
+
+  
+**Workflow:**
+
+1. *Emergency Vehicle Detection*  
+   - Sound sensors(KY-038) detect sirens and send data to the ESP32 (at sensors).  
+   - The ESP32 (at sensors) activates the webcam equipped with the COCO-SSD AI model 
+   - The AI model verifies the emergency vehicle using text detection and image recognition.
+   - Verified data is sent to the ESP32 (at sensors) and then transmitted to the ESP32 (at the traffic controller).
+
+2. *RFID-Based Vehicle Authentication*  
+   - As the emergency vehicle reaches the intersection, the RFID reader scans the RFID tag to authenticate it.  
+   - The ESP32 at the traffic controller receives the RFID data and confirms vehicle authorization.
+
+3. *Smart Storage and Monitoring:*  
+   -  The traffic controller processes all inputs and identifies the lane of the emergency vehicle.
+   -  The system turns red signals on all other lanes, while the emergency vehicle’s lane turns green for clearance.
+   -  Logs from sound sensors help determine the direction of approach of the emergency vehicle.  
+    
+4. *Restoring Normal Traffic Flow*  
+   - Once the emergency vehicle passes the intersection or the siren stops, the system automatically restores normal traffic flow.
+     
+
+**Use Cases:**
+
+The system is designed for the following critical emergency scenarios:
+
+✅Ambulances – Enables quick access to hospitals by detecting siren sounds, emergency signage, and RFID tags.
+
+✅Fire Trucks – Ensures fire trucks reach emergency sites swiftly using the same multi-layered detection approach.
+
+✅Personal Emergency Vehicles – Grants priority clearance for private vehicles carrying individuals in medical emergencies, detected via flashing emergency lights or specific sound patterns.
 
 ---
 
+### Architectural Diagram
+
+![IoT_Architecture_Diagram_22](https://github.com/user-attachments/assets/d9b699e3-886b-424c-94cb-ab403aec5e80)
+
+---
+
+### Deliverable
+
+1. *Module 1(ESP32 - Sound):*
+   - Detects sirens using sound sensors, activates the AI model for vehicle verification, and transmits data to the traffic controller ESP32.
+2. *Module 2(ESP32 - Traffic Controller Unit)*
+   - Receives data from the sound processing ESP32, verifies emergency vehicles via RFID, and controls the traffic signals accordingly.
+3. *Webcam with AI Model (COCO-SSD)*
+   - Identifies emergency vehicles based on text and image pattern detection.
+4. *Data Logs of Sound Sensors (KY-038)*
+   - Maintains records of detected sirens to determine the lane of approach.
+5. *RFID Module (Reader & Tags)*
+   - Authenticates emergency vehicles at the intersection before altering traffic lights.
+6. *Traffic Light Control System*
+   - Manages signal changes to prioritize emergency vehicles.
+
+---
 
 ### Sustainable Develpoment Goals (SDGs)
 | SDG | Alignment |

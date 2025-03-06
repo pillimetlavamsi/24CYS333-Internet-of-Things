@@ -18,10 +18,9 @@ The supply chain management of milk faces significant challenges in ensuring tra
 
 | Components      | Purpose | 
 |:-----------------|:-------| 
-| ESP32 Board             | Acts as the central microcontroller to integrate and process data from various IoT sensors.  |
-| PIR Motion sensor(HC-SR501)  |Detects unauthorized access to milk storage or transportation areas.|
-| DHT22 (Temperature/Humidity)| Monitors the storage and transportation conditions to ensure milk quality. |
-| GPS Module (NEO-6M)    | Tracks the real-time location of milk during transportation for traceability.  |
+| ESP32 Board :white_check_mark:           | Acts as the central microcontroller to integrate and process data from various IoT sensors.  |
+| DHT22 (Temperature/Humidity) :white_check_mark:| Monitors the storage and transportation conditions to ensure milk quality. |
+| GPS Module (NEO-6M)  :white_check_mark:  | Tracks the real-time location of milk during transportation for traceability.  |
 | GSM Module (SIM7600)    | Enables wireless communication for transmitting IoT data to the blockchain network.   |
 | Breadboard and Jump Wires    | Facilitates connections between hardware components for prototyping and testing.   |
 
@@ -44,7 +43,21 @@ The supply chain management of milk faces significant challenges in ensuring tra
 ### Proposed Solution: 
 
 - Integrating Blockchain and IoT technologies offers a potential solution to these challenges. Blockchain can provide an immutable, transparent, and decentralized record of transactions, ensuring trust and traceability. IoT devices, like temperature and humidity sensors, can provide real-time data on milk storage and transportation conditions, enabling proactive quality management. By leveraging these technologies, stakeholders can build a more efficient, trustworthy, and consumer-focused milk supply chain
+  
+#### Use Case:
+
+- Real-Time Environmental Monitoring for perishable goods and transportation
+- Unauthorized Access Detection in Supply Chain
+- Goods Traceability from Farm to Consumer
+
 ---
+### Architecture Diagram:
+<img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT13/Images/Architecture_Diagram.jpg" width="1200">
+
+---
+### Deliverables:
+- Web Dashboard: Allows consumers to view the supply chain record of the milk that they receive. It also allows retailers and distributors to track the real-time location of the goods/cargo while transport
+- Product tracker and quality assurance device: Continuously senses the environment of the milk goods and alerts or special logs if any anamoly.
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG | Alignment |

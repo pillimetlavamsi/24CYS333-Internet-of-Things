@@ -7,6 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Navarang_C_D-gold)  ![](https://img.shields.io/badge/Member-Reddicherla_Thanuj-gold)  ![](https://img.shields.io/badge/Member-Nandana_Mahesh-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-12-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 
 ---
 
@@ -19,13 +20,13 @@ Agriculture faces challenges in achieving efficient crop growth while minimizing
 | Components                             | Purpose                                                                                          |
 |:---------------------------------------|:-------------------------------------------------------------------------------------------------|
 | NPK Soil Sensor                        | Measures the nutrient levels (Nitrogen, Phosphorus, Potassium) in the soil.  |
-| Capacitive Soil Moisture Sensor v1.2   | Detects the moisture level of the soil to determine irrigation needs.
-|12V DC Plastic Solenoid Valve           | Controls the flow of water in the irrigation system. |
-| GSM Module (SIM800L)                   | Enables communication in areas with limited or no Wi-Fi access. |
-| Raspberry Pi                           | Acts as the central processing unit for data management and IoT control. |
-| Wi-Fi Module (ESP32)                   | Facilitates wireless connectivity for IoT operations.   |
-| Battery (INVENTO 11.1V-12V 1500 mAh)   | Provides power to the components for portable and remote use.|
-| 12V Mini Water Pump                    | Provides water and aids in the automated delivery of water-soluble fertilizers. |
+| Capacitive Soil Moisture Sensor v1.2✅ | Detects the moisture level of the soil to determine irrigation needs.
+| 12V DC Plastic Solenoid Valve✅        | Controls the flow of water in the irrigation system. |
+| GSM Module (SIM800L)                     | Enables communication in areas with limited or no Wi-Fi access. |
+| Raspberry Pi✅                           | Acts as the central processing unit for data management and IoT control. |
+| Wi-Fi Module (ESP32)✅                   | Facilitates wireless connectivity for IoT operations.   |
+| Battery (INVENTO 11.1V-12V 1500 mAh)✅   | Provides power to the components for portable and remote use.|
+| 12V Mini Water Pump✅                    | Provides water and aids in the automated delivery of water-soluble fertilizers. |
 ---
 ### Literature Survey<br>
 #### Existing Solutions:
@@ -48,7 +49,27 @@ Existing solutions in IoT-enabled smart farming focus on precision agriculture a
 The proposed solution involves the system will use an NPK sensor to monitor soil nutrient levels (Nitrogen, Phosphorus, Potassium) and a capacitive soil moisture sensor to assess water content. Based on the sensor readings, the system will refer to a predefined table to determine the type and ratio of fertilizers required. The selected fertilizer solution will then be distributed through a drip irrigation system. Data collection and irrigation/fertilizer dispensing will occur at regular intervals, controlled by a Raspberry Pi.
 
 ---
+### Use Cases
+#### Large-Scale Commercial Farming ✅
+- Ensures efficient fertilizer distribution across large farm areas.
+- Reduces manual labor costs by automating soil monitoring and fertilizer application.
+- Prevents nutrient depletion and enhances soil fertility over multiple harvest cycles.
+- Increases crop yield and quality, maximizing profits for commercial farmers.
 
+#### Smart Irrigation Systems in Water-Scarce Regions ✅
+- Uses moisture sensors to irrigate only when necessary, preventing water waste.
+- Helps farmers in arid regions optimize limited water resources.
+- Supports precision drip irrigation, ensuring that nutrients reach plant roots efficiently.
+
+ ---
+ ### Architecture Diagram
+![arch_dia](https://github.com/user-attachments/assets/18191315-32f9-49d9-a60e-f84adc979ec1)
+
+---
+### Deliverables:
+A mobile dashboard that visualizes real-time soil nutrient and moisture data, controls automated fertilizer dispensing, integrates sensor readings and optimizes resource usage for sustainable farming.
+
+---
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
 
 | SDG                                                 | Alignment                                                                                              |
@@ -56,14 +77,7 @@ The proposed solution involves the system will use an NPK sensor to monitor soil
 | Goal 12 - Responsible Consumption and Production    |  Optimizes fertilizer use, reduces waste, and promotes sustainable farming practices                   |
 | Goal 13 - Climate Action                            | Reduces fertilizer runoff, lowers greenhouse gas emissions, and promotes climate-resilient agriculture |
 
-### Collaboration 
-| Team   | Module & Scope                 |
-|:------:|:-------------------------------|
-| IoT#10 | Smart Home Plantation System   | 
 ---
-
-
-
 ### References:
 - Amrutha, A., Lekha, R., & Sreedevi, A. (2016, December). **Automatic soil nutrient detection and fertilizer dispensary system**. _In 2016 International Conference on Robotics: Current Trends and Future Challenges (RCTFC)_ (pp. 1-5). IEEE.
 - Kabilan, S., Gunapriya, D., Shivagurunathan, A., & Thalagandasamy, N. (2024, March). **IOT-Based Soil Nutrient Monitoring Decision System**. _In 2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)_ (Vol. 1, pp. 2297-2301). IEEE.

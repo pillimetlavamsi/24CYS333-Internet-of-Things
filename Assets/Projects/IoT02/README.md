@@ -11,7 +11,7 @@
 
 ---
 ### Problem Statement
-Design a smart waste management system that utilizes sensor-equipped waste bins to monitor real-time waste levels and use the collected data to optimize waste collection routes, considering factors such as collection frequency, distance, waste volume, fuel efficiency, and potential waste stagnation.
+Design a smart waste management system that utilizes sensor-equipped waste bins to monitor real-time waste levels and use the collected data to optimize waste collection routes, considering factors such as collection frequency, distance, waste volume, fuel efficiency, and potential waste stagnation. 
 
 ---
 ### Hardware Requirements
@@ -38,7 +38,30 @@ Design a smart waste management system that utilizes sensor-equipped waste bins 
 
 ---
 ### Proposed Solution
-The proposed solution involves the strategic deployment of LoRa gateways using optimization techniques to ensure efficient coverage and minimize congestion. The waste bins, equipped with sensors, transmit real-time data to the nearest gateways, which forward the information to a central server for processing. This server aggregates data on waste levels, bin locations, and fill status, analyzing it to determine the most efficient collection routes. While the specific algorithm for route optimization has yet to be finalized, the system will prioritize factors like distance, collection frequency, and waste volume to optimize efficiency. 
+The proposed solution involves the strategic deployment of LoRa gateways using optimization techniques to ensure efficient coverage and minimize congestion. The waste bins, equipped with sensors, transmit real-time data to the nearest gateways, which forward the information to a central server for processing. This server aggregates data on waste levels, bin locations, and fill status, analyzing it to determine the most efficient collection routes. While the specific algorithm for route optimization has yet to be finalized, the system will prioritize factors like distance, collection frequency, foot traffic, and waste volume to optimize efficiency.
+
+---
+### Use Cases
+#### Smart Cities 
+Municipal corporations can deploy IoT-enabled smart bins to monitor waste levels in
+real time and optimize garbage collection routes, reducing fuel consumption and labor
+costs.
+#### ATM Cash refill optimization 
+Refill teams take the most efficient routes, prioritizing ATMs that are running low
+instead of following a fixed schedule.
+#### College/University campuses ✅
+Educational institutions can implement smart waste bins to maintain cleaner
+campuses, optimize cleaning staff efforts, and track waste generation patterns for
+sustainability initiatives.
+
+
+---
+### Architecture Diagram
+![Arhitecture Diagram](Assets/arch_dia.jpg)
+
+---
+### Deliverables:
+A web application that visualizes collected data, updates path information and associated costs, accounts for relevant factors, and displays or outputs the optimized route.
 
 ---
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)

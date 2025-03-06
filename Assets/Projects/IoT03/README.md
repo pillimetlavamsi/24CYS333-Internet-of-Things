@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Agil_Prasanna_P-gold)  ![](https://img.shields.io/badge/Member-Amal_Ritessh_A_P-gold)  ![](https://img.shields.io/badge/Member-Ananth_R-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-6-darkgreen) ![](https://img.shields.io/badge/SDG-3-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed--brown)
+![](https://img.shields.io/badge/Reviewed-16th_Feb_2025-brown) 
 
 ---
 ### Problem Statement
@@ -20,21 +20,20 @@
 ---
  ### Hardwares Required
 
-| Components               | Purpose                                                                                          |
-|:-------------------------|:-------------------------------------------------------------------------------------------------|
-| LED Display SSD1306  | Displays visual data like text or graphics in a compact format. |
-| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
-| ELECROW Crowtail- PH Sensor    | Measures the pH level of a solution to determine its acidity or alkalinity. |
-| Turbidity Sensor             | Detects water clarity by measuring suspended particles. |
-| Analog TDS Sensor Water Conductivity Sensor Module Board Kit  | Measures the total dissolved solids (TDS) in water to assess its quality. |
-| 5V active Alarm Buzzer Module    | Produces an audible alarm for alerts or notifications. |
-| INVENTO 11.1V-12V 1500 mAh               | Provides rechargeable power for electronic devices or projects. |
-| DS18B20 Waterproof| Measures temperature in environments that may involve liquids or moisture. |
+|Purchased| Components               | Purpose                                                                                          |
+|:-|:-------------------------|:-------------------------------------------------------------------------------------------------|
+|| LED Display SSD1306  | Displays visual data like text or graphics in a compact format. |
+|✅| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
+|| ELECROW Crowtail- PH Sensor    | Measures the pH level of a solution to determine its acidity or alkalinity. |
+|✅| Turbidity Sensor             | Detects water clarity by measuring suspended particles. |
+|| Analog TDS Sensor Water Conductivity Sensor Module Board Kit  | Measures the total dissolved solids (TDS) in water to assess its quality. |
+|✅| 5V active Alarm Buzzer Module    | Produces an audible alarm for alerts or notifications. |
+|| INVENTO 11.1V-12V 1500 mAh               | Provides rechargeable power for electronic devices or projects. |
+|✅| DS18B20 Waterproof| Measures temperature in environments that may involve liquids or moisture. |
 
 ---
  ### Literature Survey
  Existing IoT-based water quality monitoring systems typically focus on basic parameters like pH and TDS, using microcontrollers such as Arduino or ESP32 for real-time data transmission and platforms like ThingSpeak for visualization. However, they lack advanced analytics, monitor limited parameters, face scalability and energy efficiency challenges, and often neglect IoT security. Our project addresses these gaps by integrating predictive analytics to provide early warnings for contamination, expanding monitoring to include microbial content, heavy metals, and agricultural contaminants like nitrates and phosphates. Additionally, we aim to design scalable, energy-efficient solutions, such as solar-powered systems, suitable for diverse applications like drinking water, household systems, public water tanks, and agriculture. Robust IoT security measures will also ensure secure data transmission.
-
 
 ---
  ### Proposed Solution
@@ -45,6 +44,31 @@ algorithms identify anomalies and provide actionable insights.
 - Users receive instant alerts via a mobile app or dashboard, allowing for timely
 interventions. This solution ensures efficient water quality management, promotes
 public health safety, and meets regulatory compliance.
+
+#### Use Case
+1. Household Drinking Water Safety Homeowners install the system in residential water
+ storage tanks to monitor water quality before consumption. The system sends alerts
+ via a mobile app if contamination levels rise, prompting users to filter or replace the
+ water. Helps maintain safe and clean drinking water at the household level,
+ especially in areas with inconsistent water quality.
+2. Water Treatment Plant Monitoring Water purification plants use the system to
+ continuously monitor pH, TDS, and turbidity levels. If parameters exceed safe limits,
+ the system triggers alerts for immediate corrective action (e.g., adjusting filtration or
+ chemical treatment). Ensures compliance with government water quality standards
+ (e.g., WHO, BIS).
+3. Public Water Supply System Monitoring Municipal corporations install the system in
+ public water tanks to monitor real-time water quality. If contamination or parameter
+ deviations (e.g., high turbidity) are detected, the system alerts authorities to take
+ action before distribution. Prevents the supply of unsafe drinking water to
+ households and communities.
+
+#### Architecture diagram
+<img alt="Original" src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/blob/main/Assets/Projects/IoT03/Docs/Architecture_diagram.png">
+
+---
+### Deliverables
+- Web/Mobile Dashboard: Allows users to monitor the status of drinking water in real time and analyze past readings.
+- Smart Water Quality Monitoring Device: Analyzes water quality and provides real-time data to the dashboard.
 
 ---
  ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 

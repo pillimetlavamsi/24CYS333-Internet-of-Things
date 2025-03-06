@@ -7,7 +7,8 @@
 
 ![](https://img.shields.io/badge/Member-B_M_Sai_Sathvik-gold)  ![](https://img.shields.io/badge/Member-Gunateet_Dev-gold)  ![](https://img.shields.io/badge/Member-Vishal_S-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-7-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen) ![](https://img.shields.io/badge/SDG-13-darkgreen) <br/>
-![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown)
+![](https://img.shields.io/badge/Reviewed-23rd_Jan_2025-brown) <br/> 
+![](https://img.shields.io/badge/-AIC_Raise_Hackathon-brown) <br/>
 ---
 
 ### Problem Statement

@@ -29,6 +29,12 @@ This project addresses these issues by creating an IoT-based solution that autom
 | **Breadboard and Jumper Wires** | Facilitates prototyping and connections          |
 
 ---
+### System Architecture
+
+  ![image](https://github.com/user-attachments/assets/a6a1d445-62f4-46d3-ae88-10ddac426886)
+
+---
+
 ### Literacy Survey
 
 #### Exsisting Solutions
@@ -49,6 +55,14 @@ This project addresses these issues by creating an IoT-based solution that autom
 The system automates plant care using an ESP32 microcontroller with soil moisture, DHT11, and LDR sensors for environmental monitoring. It activates a water pump when soil moisture is low, displays real-time data on an LCD, and uses LEDs for alerts (e.g., low water levels or inadequate sunlight). Powered by a LIPO battery, it ensures portability and energy efficiency. Setup involves assembling hardware, configuring Wi-Fi, and uploading code. Future enhancements include mobile app integration, AI-driven schedules, and support for diverse plant species.  
 
 ---
+
+### Usecases
+ - ✅ Use Case 1: Smart Home Plant Care for Busy Professionals
+ - ✅ Use Case 2: Optimized Plant Growth in Indoor Gardens & Greenhouses
+ - ✅ Use Case 3: Elderly and Physically Challenged Plant Enthusiasts
+
+---
+  
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs) 
 | SDG                                      | Alignment                                                                                                         |
 |:-----------------------------------------|:------------------------------------------------------------------------------------------------------------------|
@@ -56,11 +70,12 @@ The system automates plant care using an ESP32 microcontroller with soil moistur
 | Goal 12 - Responsible Consumption and Production     | Encourages efficient resource use (e.g., water and energy).                                           |
 | Goal 15 - Life on Land                               | Supports biodiversity and sustainable ecosystems through improved plant care.                         |
 
+---
+
 ### Collaboration 
 | Team | Module & Scope |
 |:----:|:---------------|
 | IoT#03 | Real Time Water Contaminant Monitoring System for Drinking Water |
-| IoT#12 | Water Contaminant Monitoring for Borewell |
 ---
 ### References
 
