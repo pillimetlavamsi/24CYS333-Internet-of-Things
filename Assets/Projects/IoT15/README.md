@@ -19,25 +19,26 @@ Blood banks face inefficiencies in inventory management, proper storage, and tim
 
 ### Hardware Required  
 
-| Components               | Purpose                                                                                         |  
-|:-------------------------|:------------------------------------------------------------------------------------------------|  
-| Arduino Uno R3           | Acts as the microcontroller board for managing peripheral devices.                              |  
-| ESP8266 Wi-Fi Module     | Provides IoT connectivity for real-time data transfer.                                          |  
-| USB Cable                | Used to connect the Arduino to a computer for programming and power.                            |  
-| 16x2 LCD Display         | Displays real-time data such as blood stock levels and temperature.                             |  
-| LM35 Temperature Sensor  | Monitors the storage temperature of blood to ensure optimal conditions.                         |  
-| HX711 Amplifier Module   | Amplifies signals from the load cell for accurate weight measurement.                           |  
-| 5kg Load Cell (DYMH-103) | Measures the stock levels of stored blood in real time.                                         |  
-| Barcode Scanner          | Reads barcodes on blood packets for integrity verification and inventory updates.               |  
-| GSM Module (SIM800L)     | Sends SMS notifications to donors and recipients.                                               |  
-| RTC Module (DS3231)      | Provides timestamping for logging and monitoring blood storage events.                          |  
-| Voltage Regulator (7805) | Ensures stable voltage supply to the components.                                                |  
-| 12V Power Adapter        | Provides power to the entire system.                                                            |  
-| Breadboard               | Used for prototyping and connecting components during development.                              |  
-| Jumper Wires             | Facilitates connections between different components.                                           |  
-| Resistors and Capacitors | Ensures circuit stability and smooth operation of the system.                                   |  
-| Buzzer                   | Provides audio alerts in case of anomalies or critical notifications.                           |  
-| LED Indicators           | Offers visual alerts for system status and critical events.                                     |  
+|    | Components               | Purpose                                                                                         |  
+|:--:|:-------------------------|:------------------------------------------------------------------------------------------------|  
+| ✅ | Arduino Uno R3           | Acts as the microcontroller board for managing peripheral devices.                              |  
+| ✅ | ESP8266 Wi-Fi Module     | Provides IoT connectivity for real-time data transfer.                                          |  
+| ✅ | USB Cable                | Used to connect the Arduino to a computer for programming and power.                            |  
+| ✅ | 16x2 LCD Display         | Displays real-time data such as blood stock levels and temperature.                             |  
+|     | LM35 Temperature Sensor  | Monitors the storage temperature of blood to ensure optimal conditions.                         |  
+| ✅ | HX711 Amplifier Module   | Amplifies signals from the load cell for accurate weight measurement.                           |  
+| ✅ | 5kg Load Cell (DYMH-103) | Measures the stock levels of stored blood in real time.                                         |  
+| ✅ | Barcode Scanner          | Reads barcodes on blood packets for integrity verification and inventory updates.               |  
+| ✅ | GSM Module (SIM800L)     | Sends SMS notifications to donors and recipients.                                               |  
+| ✅ | RTC Module (DS3231)      | Provides timestamping for logging and monitoring blood storage events.                          |  
+| ✅ | Voltage Regulator (7805) | Ensures stable voltage supply to the components.                                                |  
+| ✅ | 12V Power Adapter        | Provides power to the entire system.                                                            |  
+| ✅ | Breadboard               | Used for prototyping and connecting components during development.                              |  
+| ✅ | Jumper Wires             | Facilitates connections between different components.                                           |  
+| ✅ | Resistors and Capacitors | Ensures circuit stability and smooth operation of the system.                                   |  
+| ✅ | Buzzer                   | Provides audio alerts in case of anomalies or critical notifications.                           |  
+|     | LED Indicators           | Offers visual alerts for system status and critical events.                                    |  
+
 
 -----------
 
