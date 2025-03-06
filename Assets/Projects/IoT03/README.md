@@ -20,16 +20,16 @@
 ---
  ### Hardwares Required
 
-| Components               | Purpose                                                                                          |
-|:-------------------------|:-------------------------------------------------------------------------------------------------|
-| LED Display SSD1306  | Displays visual data like text or graphics in a compact format. |
-| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
-| ELECROW Crowtail- PH Sensor    | Measures the pH level of a solution to determine its acidity or alkalinity. |
-| Turbidity Sensor             | Detects water clarity by measuring suspended particles. |
-| Analog TDS Sensor Water Conductivity Sensor Module Board Kit  | Measures the total dissolved solids (TDS) in water to assess its quality. |
-| 5V active Alarm Buzzer Module    | Produces an audible alarm for alerts or notifications. |
-| INVENTO 11.1V-12V 1500 mAh               | Provides rechargeable power for electronic devices or projects. |
-| DS18B20 Waterproof| Measures temperature in environments that may involve liquids or moisture. |
+|Purchased| Components               | Purpose                                                                                          |
+|:-|:-------------------------|:-------------------------------------------------------------------------------------------------|
+|| LED Display SSD1306  | Displays visual data like text or graphics in a compact format. |
+|✅| ESP32 Board              | Acts as a microcontroller for IoT operations, enabling connectivity and real-time data collection. |
+|| ELECROW Crowtail- PH Sensor    | Measures the pH level of a solution to determine its acidity or alkalinity. |
+|✅| Turbidity Sensor             | Detects water clarity by measuring suspended particles. |
+|| Analog TDS Sensor Water Conductivity Sensor Module Board Kit  | Measures the total dissolved solids (TDS) in water to assess its quality. |
+|✅| 5V active Alarm Buzzer Module    | Produces an audible alarm for alerts or notifications. |
+|| INVENTO 11.1V-12V 1500 mAh               | Provides rechargeable power for electronic devices or projects. |
+|✅| DS18B20 Waterproof| Measures temperature in environments that may involve liquids or moisture. |
 
 ---
  ### Literature Survey
