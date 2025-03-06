@@ -115,6 +115,9 @@ At this stage, two virtual machines (VMs) are set up:
 1. **VM1 (Legitimate Web Server)**: Collects sensor data from authenticated users
 2. **VM2 (Honeypot Web Server)**: Decoy system for attackers redirected by PSAD
 
+
+[link](./config.md)
+
 ### Network Configuration
 - Both VMs use **bridged adapters** to allow direct communication.
 - Sensor data from legitimate users is forwarded to **VM1** through the Raspberry Pi.
@@ -135,3 +138,4 @@ This project implements a **honeypot-based intrusion detection system** using a 
 - Implement logging and analytics for honeypot interactions.
 - Automate reporting of detected attackers.
 - Introduce more sophisticated honeypot deception techniques.
+
