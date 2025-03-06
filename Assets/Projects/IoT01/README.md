@@ -30,12 +30,12 @@ To develop a Smart Ambulance System using IoT technologies to:
 
 | Components               | Purpose                                                                                         |
 |:-------------------------|:-----------------------------------------------------------------------------------------------|
-| Arduino Uno              | Acts as the central microcontroller for interfacing sensors and modules.                      |
+| ✅Arduino Uno              | Acts as the central microcontroller for interfacing sensors and modules.                      |
 | Heart Rate Sensor (PPG) - MAX30100/MAX30102 | Measures heart rate and oxygen levels.                                      |
-| Camera Module - PiCam    | Provides real-time visual feedback for monitoring traffic conditions and patient status.       |
-| IoT-Enabled Traffic Lights (RGB LED Indicators) | Simulates dynamic signal prioritization.                                |
+| ✅Camera Module - PiCam    | Provides real-time visual feedback for monitoring traffic conditions and patient status.       |
+| IoT-Enabled Traffic Lights (RGY LED Indicators) | Simulates dynamic signal prioritization.                                |
 | GPS Module - NEO-6M      | Enables accurate real-time location tracking.                                                 |
-| ESP8266 Wi-Fi Module     | Ensures low-latency communication with IoT servers.                                           |
+| ✅ESP8266 Wi-Fi Module     | Ensures low-latency communication with IoT servers.                                           |
 | LiPo Battery             | Portable power source ensuring system operation during transit.                               |
 | GSM/GPRS Module          | Facilitates reliable long-distance communication with hospitals and traffic systems.          |
 
