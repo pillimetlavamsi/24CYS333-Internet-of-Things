@@ -17,13 +17,13 @@ The project aims to design and develop an IoT-based model that collects real-tim
 ### Hardware Requirements
 | Component                          | Functionality                                                                                   |
 |------------------------------------|----------------------------------------------------------------------------------------------- |
-| Arduino Board                      | Acts as the central microcontroller for data collection and transmission.                      |
-| Temperature Sensor (e.g., LM35, DHT22) | Monitors ambient temperature to provide environmental data for analysis.                   |
-| Humidity Sensor (e.g., DHT22)      | Measures air moisture levels to monitor environmental conditions.                              |
+|✅ Arduino Board                      | Acts as the central microcontroller for data collection and transmission.                      |
+|✅ Temperature Sensor (e.g., LM35, DHT22) | Monitors ambient temperature to provide environmental data for analysis.                   |
+|✅ Humidity Sensor (e.g., DHT22)      | Measures air moisture levels to monitor environmental conditions.                              |
 | Color Sensor (e.g., TCS3200)       | Detects variations in leaf color, which can indicate plant diseases or stress.                |
 | Leaf Wetness Sensor (e.g., LWS-02) | Identifies the presence of water on leaves, important for monitoring plant health.            |
-| Wi-Fi Module (e.g., ESP8266 or ESP32) | Enables data transmission to a server or cloud platform for remote monitoring.               |
-| Battery                            | Provides uninterrupted power, such as a rechargeable lithium-ion battery.                     |
+|✅ Wi-Fi Module (e.g., ESP8266 or ESP32) | Enables data transmission to a server or cloud platform for remote monitoring.               |
+|✅ Battery                            | Provides uninterrupted power, such as a rechargeable lithium-ion battery.                     |
 
 ### Software Requirements
 | Component            | Functionality                                                                                 |
